@@ -1,0 +1,14 @@
+Id,IsActive,IsDeleted,CreatedOn,LastModifiedOn,DeletedOn,ChatId,SenderId,SenderRole,Content,SentAt
+85,t,f,2025-07-23 15:47:31.457+00,2025-07-23 15:47:31.457+00,,43,105,Artist,Hey,2025-07-23 15:47:31.457+00
+86,t,f,2025-07-23 16:33:52.953+00,2025-07-23 16:33:52.953+00,,44,54,Organizer,Hey,2025-07-23 16:33:52.953+00
+93,t,f,2025-10-23 08:23:25.74+00,2025-10-23 08:23:25.74+00,,48,70,Organizer,Zzzz,2025-10-23 08:23:25.74+00
+94,t,f,2025-10-30 17:21:37.127+00,2025-10-30 17:21:37.127+00,,44,54,Organizer,Hey RooneyNasr 👋 just confirming we’ve received your payment through Trustap. Everything’s set for 12 December at Shelter Rotterdam.,2025-10-30 17:21:37.127+00
+95,t,f,2025-10-30 17:22:01.417+00,2025-10-30 17:22:01.417+00,,44,105,Artist,Amazing 🙌 thanks for the confirmation. What time should I arrive for soundcheck?,2025-10-30 17:22:01.417+00
+96,t,f,2025-10-30 17:22:18.304+00,2025-10-30 17:22:18.304+00,,44,54,Organizer,"Soundcheck starts around 22:30, main room. Your set is scheduled 01:00 – 03:00. We’ll have Pioneer CDJ-3000s and DJM-A9 ready, but bring your USBs and in-ears.",2025-10-30 17:22:18.304+00
+97,t,f,2025-10-30 17:22:39.486+00,2025-10-30 17:22:39.486+00,,44,105,Artist,Perfect — I’ll arrive by 22:15. Is there an artist entrance or should I come through the main door?,2025-10-30 17:22:39.486+00
+98,t,f,2025-10-30 17:22:51.764+00,2025-10-30 17:22:51.764+00,,44,54,Organizer,"Use the artist entrance on Schiehaven side, and show your booking QR when you arrive. Our team will meet you backstage.",2025-10-30 17:22:51.764+00
+99,t,f,2025-10-30 17:23:08.991+00,2025-10-30 17:23:08.991+00,,44,105,Artist,Got it 👍 see you all soon. Appreciate the smooth process — everything’s super clear on Gigevate.,2025-10-30 17:23:08.991+00
+100,t,f,2025-10-30 17:23:10.479+00,2025-10-30 17:23:10.479+00,,44,105,Artist,Got it 👍 see you all soon. Appreciate the smooth process — everything’s super clear on Gigevate.,2025-10-30 17:23:10.479+00
+101,t,f,2025-10-30 17:23:19.001+00,2025-10-30 17:23:19.001+00,,44,54,Organizer,Glad to hear that 🙏 Looking forward to your set — the crowd will love it.,2025-10-30 17:23:19.001+00
+102,t,f,2026-03-04 12:00:20.748+00,2026-03-04 12:00:20.748+00,,48,70,Organizer,QA test message - 2026-03-04,2026-03-04 12:00:20.748+00
+103,t,f,2026-03-04 13:33:42.015+00,2026-03-04 13:33:42.015+00,,48,70,Organizer,QA test message - 2026-03-04 session 2,2026-03-04 13:33:42.015+00

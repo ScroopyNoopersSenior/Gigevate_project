@@ -1,0 +1,5 @@
+Id,IsActive,IsDeleted,CreatedOn,LastModifiedOn,DeletedOn,Name,Description
+6,t,f,2024-11-21 06:22:00.17+00,,,Beginner,Beginner
+7,t,f,2025-04-15 00:00:00+00,,,Intermediate,Intermediate
+8,t,f,2025-04-15 00:00:00+00,,,Professional,Professional
+9,t,f,2025-04-15 00:00:00+00,,,Advanced,Advanced

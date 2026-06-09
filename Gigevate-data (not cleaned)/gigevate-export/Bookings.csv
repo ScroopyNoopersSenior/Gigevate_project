@@ -1,0 +1,124 @@
+Id,IsActive,IsDeleted,CreatedOn,LastModifiedOn,DeletedOn,ProposedBookingFee,ExpensesCovered,HasAccommodation,HasTravelArrangements,HasMeals,HasPromotionalActivities,IsConsentAccepted,OrganizerAdditionalInformation,ArtistAdditionalInformation,TechnicalRider,Rider,ReasonForDeclining,Status,Currency,EventId,ArtistId,CurrencyId,TrustapTransactionId,HasConfirmedHandover,AgreementSignedByArtist,AgreementSignedByOrganizer,AgreementSignedAtUtc
+118,t,f,2025-06-09 09:37:11.355+00,2025-06-09 09:37:11.355+00,,800,LandedFee,f,f,f,t,t,We would love to have you!,,,,,1,,111,105,2,,f,f,f,
+119,t,f,2025-06-09 11:59:21.49+00,2025-06-09 11:59:21.49+00,,2500,Other,t,t,t,t,t,Rooney Nasr,,,,,1,,135,105,6,,f,f,f,
+120,t,f,2025-06-09 12:06:52.864+00,2025-06-09 12:06:52.864+00,,2500,Other,t,t,t,t,t,Rooney Nasr,,,,,1,,136,105,6,,f,f,f,
+121,t,f,2025-06-09 12:09:23.755+00,2025-06-09 12:09:23.755+00,,2500,Other,t,t,t,t,t,Rooney Nasr,,,,,1,,137,105,6,,f,f,f,
+122,t,f,2025-06-09 12:10:31.824+00,2025-06-09 12:10:31.824+00,,2500,Other,t,t,t,t,t,Rooney Nasr,,,,,1,,138,105,6,,f,f,f,
+123,t,f,2025-06-09 12:13:00.39+00,2025-06-09 12:13:00.39+00,,2500,Other,t,t,t,t,t,Rooney Nasr,,,,,1,,139,105,6,,f,f,f,
+124,t,f,2025-06-09 12:14:10.548+00,2025-06-09 12:14:10.548+00,,2500,Other,t,t,t,t,t,Rooney Nasr,,,,,1,,140,105,6,,f,f,f,
+125,t,f,2025-06-09 12:15:10.313+00,2025-06-09 12:15:10.313+00,,2500,Other,t,t,t,t,t,Rooney Nasr,,,,,1,,141,105,6,,f,f,f,
+126,t,f,2025-06-09 12:16:11.657+00,2025-06-09 12:16:11.657+00,,2500,Other,t,t,t,t,t,Rooney Nasr,,,,,1,,142,105,6,,f,f,f,
+127,t,f,2025-06-09 12:21:30.426+00,2025-06-09 12:21:30.426+00,,2500,Other,t,t,t,t,t,Rooney Nasr,,,,,1,,143,105,6,,f,f,f,
+128,t,f,2025-06-12 09:15:58.109+00,2025-06-12 09:15:58.109+00,,2500,LandedFee,f,f,f,t,t,,,,,,1,,146,104,3,,f,f,f,
+129,t,f,2025-06-12 09:17:07.846+00,2025-06-12 09:17:07.846+00,,2500,LandedFee,f,f,f,t,t,,,,,,1,,147,104,3,,f,f,f,
+130,t,f,2025-06-12 09:18:26.354+00,2025-06-12 09:18:26.354+00,,2500,LandedFee,f,f,f,t,t,,,,,,1,,148,104,3,,f,f,f,
+131,t,f,2025-06-12 09:19:07.526+00,2025-06-12 09:19:07.526+00,,2500,LandedFee,f,f,f,t,t,,,,,,1,,149,104,3,,f,f,f,
+132,t,f,2025-06-12 09:19:49.817+00,2025-06-12 09:19:49.817+00,,2500,LandedFee,f,f,f,t,t,,,,,,1,,150,104,3,,f,f,f,
+133,t,f,2025-06-12 09:20:36.518+00,2025-06-12 09:20:36.518+00,,2500,LandedFee,f,f,f,t,t,,,,,,1,,151,104,3,,f,f,f,
+134,t,f,2025-06-12 09:21:18.45+00,2025-06-12 09:21:18.45+00,,2500,LandedFee,f,f,f,t,t,,,,,,1,,152,104,3,,f,f,f,
+135,t,f,2025-06-12 09:21:55.489+00,2025-06-12 09:21:55.489+00,,2500,LandedFee,f,f,f,t,t,,,,,,1,,153,104,3,,f,f,f,
+136,t,f,2025-06-12 09:22:34.332+00,2025-06-12 09:22:34.332+00,,2500,LandedFee,f,f,f,t,t,,,,,,1,,154,104,3,,f,f,f,
+137,t,f,2025-06-12 09:23:22.013+00,2025-06-12 09:23:22.013+00,,2500,LandedFee,f,f,f,t,t,,,,,,1,,155,104,3,,f,f,f,
+138,t,f,2025-06-12 09:24:09.512+00,2025-06-12 09:24:09.512+00,,2500,LandedFee,f,f,f,t,t,,,,,,1,,156,104,3,,f,f,f,
+139,t,f,2025-06-12 09:24:44.965+00,2025-06-12 09:24:44.965+00,,2500,LandedFee,f,f,f,t,t,,,,,,1,,157,104,3,,f,f,f,
+140,t,f,2025-06-12 09:25:37.829+00,2025-06-12 09:25:37.829+00,,2500,LandedFee,f,f,f,t,t,,,,,,1,,158,104,3,,f,f,f,
+141,t,f,2025-06-12 09:26:24.274+00,2025-06-12 09:26:24.274+00,,2500,LandedFee,f,f,f,t,t,,,,,,1,,159,104,3,,f,f,f,
+142,t,f,2025-06-12 09:26:57.752+00,2025-06-12 09:26:57.752+00,,2500,LandedFee,f,f,f,t,t,,,,,,1,,160,104,3,,f,f,f,
+143,t,f,2025-06-12 09:27:35.987+00,2025-06-12 09:27:35.987+00,,2500,LandedFee,f,f,f,t,t,,"– The Enveloper requests a 60 min soundcheck slot, ideally 90 min before doors open.  
+– Load-in access for a small van (width 2.1 m) via stage door.  
+– Parking space reserved close to venue entrance.  
+– Wi-Fi credentials (SSID/password) for streaming set.  
+– On-site contact: [Promoter Tech Lead name] – [mobile number].  
+– Please ensure promoter staff are available for arrival assistance.  
+","– 2× Pioneer CDJ-3000 (or XDJ-1000 Mk2) with Rekordbox compatibility  
+– 1× Pioneer DJM-900 Nexus (or equivalent 4-channel mixer)  
+– 2× high-power floor monitors (active, XLR input) positioned left/right of DJ booth  
+– PA system: minimum 2×18″ subs + 4×12″ tops with clear mids/highs  
+– All necessary cables: 4× XLR-XLR (5 m), 2× RCA-RCA (3 m), 2× IEC power leads  
+– Stable, level DJ counter at least 1.2 m wide and 0.8 m deep  
+– 1× DI box and 1× spare microphone for announcements  
+","– 6 bottles still water (0.5 L), chilled  
+– 4 cans Red Bull or other isotonic drink  
+– Selection of fresh fruit (bananas, apples, grapes)  
+– Vegan/gluten-free snack platter (nuts, granola bars, dried fruit)  
+– 2 large towels  
+– 1× small table or shelf next to DJ booth  
+– 2 separate chairs in backstage/green room  
+",,1,,161,104,3,,f,f,f,
+144,t,f,2025-06-17 14:08:33.705+00,2025-06-17 14:08:33.705+00,,2500,LandedFee,f,f,f,t,t,,,,,,0,,162,108,3,,f,f,f,
+145,t,f,2025-06-17 14:10:04.937+00,2025-06-17 14:10:04.937+00,,2500,LandedFee,f,f,f,t,t,,,,,,0,,163,108,3,,f,f,f,
+146,t,f,2025-06-17 14:10:47.394+00,2025-06-17 14:10:47.394+00,,2500,LandedFee,f,f,f,t,t,,,,,,0,,164,108,3,,f,f,f,
+147,t,f,2025-06-17 14:11:28.14+00,2025-06-17 14:11:28.14+00,,2500,LandedFee,f,f,f,t,t,,,,,,0,,165,108,3,,f,f,f,
+148,t,f,2025-06-17 14:12:08.048+00,2025-06-17 14:12:08.048+00,,2500,LandedFee,f,f,f,t,t,,,,,,0,,166,108,3,,f,f,f,
+149,t,f,2025-06-17 14:12:43.843+00,2025-06-17 14:12:43.843+00,,2500,LandedFee,f,f,f,t,t,,,,,,0,,167,108,3,,f,f,f,
+150,t,f,2025-06-17 14:13:25.187+00,2025-06-17 14:13:25.187+00,,2500,LandedFee,f,f,f,t,t,,,,,,0,,168,108,3,,f,f,f,
+151,t,f,2025-06-17 14:14:50.315+00,2025-06-17 14:14:50.315+00,,2500,LandedFee,f,f,f,t,t,,,,,,0,,169,108,3,,f,f,f,
+152,t,f,2025-06-17 14:15:28.927+00,2025-06-17 14:15:28.927+00,,2500,LandedFee,f,f,f,t,t,,,,,,0,,170,108,3,,f,f,f,
+153,t,f,2025-06-17 14:16:08.984+00,2025-06-17 14:16:08.984+00,,2500,LandedFee,f,f,f,t,t,,,,,,0,,171,108,3,,f,f,f,
+154,t,f,2025-06-17 14:16:54.975+00,2025-06-17 14:16:54.975+00,,2500,LandedFee,f,f,f,t,t,,,,,,0,,172,108,3,,f,f,f,
+155,t,f,2025-06-17 14:17:39.369+00,2025-06-17 14:17:39.369+00,,2500,LandedFee,f,f,f,t,t,,,,,,0,,173,108,3,,f,f,f,
+156,t,f,2025-06-17 14:18:20.481+00,2025-06-17 14:18:20.481+00,,2500,LandedFee,f,f,f,t,t,,,,,,0,,174,108,3,,f,f,f,
+157,t,f,2025-06-17 14:19:00.809+00,2025-06-17 14:19:00.809+00,,2500,LandedFee,f,f,f,t,t,,,,,,0,,175,108,3,,f,f,f,
+181,t,f,2025-07-23 16:11:34.043+00,2025-07-23 16:11:34.043+00,,3000,RidersOnly,f,f,f,t,t,Would be awesome to have you!,"Would be great if the booth could be prepped at least 30 minutes before the set time for USB check and EQ balance. Please ensure lighting tech is available if strobes or visuals may interfere with crowd view of the DJ. Feel free to tag @rooneynasr in event promo — looking forward to playing!
+","- 3 × Pioneer CDJ-3000 (linked via Pro DJ Link, latest firmware)
+- 1 × Pioneer DJM-V10 or DJM-900NXS2 mixer
+- FOH: 20kW+ line-array or equivalent club-grade system (Funktion-One, L-Acoustics or VOID preferred)
+- 2 × high-quality booth monitors (positioned for stereo monitoring)
+- Flat EQ response ±3dB
+- Isolated power supply for all DJ gear
+- Booth must be shielded from crowd interference and away from direct airflow/heating
+","**TRAVEL & ACCOMMODATION**
+- 1 × economy flight (upgradeable to business if >4h flight)
+- Airport transfer (driver or Uber equivalent)
+- 1 × hotel room (minimum 3-star, quiet location, check-in day of performance, checkout next day)
+
+**CATERING & HOSPITALITY**
+- 2 × meal vouchers or dinner at venue
+- Backstage refreshments (minimum: 2 × still water, 2 × Red Bull, fruit, nuts/snacks)
+- Optional: 2 × drink tokens for after set
+
+**CREW**
+- 1 × guest pass for tour manager
+",,5,,200,105,2,30048,t,f,f,
+192,t,f,2025-10-17 14:56:55.116+00,2025-10-17 14:56:55.116+00,,200,RidersOnly,f,f,f,t,t,Looking forward to having you!,,,,,5,,209,123,2,35937,f,f,f,
+199,t,f,2025-10-30 13:37:12.544+00,2025-10-30 13:37:12.544+00,,200,LandedFee,f,f,f,t,t,Xx,,,,,5,,209,122,2,36194,f,f,f,
+200,t,f,2025-10-30 13:42:42.566+00,2025-10-30 13:42:42.566+00,,300,RidersOnly,f,f,f,t,t,,,,,,1,,200,122,2,,f,f,f,
+217,t,f,2025-11-04 17:22:11.766+00,2025-11-04 17:22:11.766+00,,200,LandedFee,f,f,f,t,t,Excited to have you!,,,,,1,,234,123,2,,f,f,f,
+218,t,f,2025-11-04 18:27:56.825+00,2025-11-04 18:27:56.825+00,,200,LandedFee,f,f,f,t,t,LOOKING FORWARD TO HAVING YOU!,,,,,0,,235,123,2,,f,f,f,
+221,t,f,2025-11-05 08:55:26.947+00,2025-11-05 08:55:26.947+00,,200,None,f,f,f,t,t,xx,,,,,1,,209,141,2,,f,f,f,
+222,t,f,2025-11-05 08:57:18.76+00,2025-11-05 08:57:18.76+00,,200,None,f,f,f,t,t,x,,,,,5,,234,141,2,35092,f,f,f,
+223,t,f,2025-11-05 09:06:24.797+00,2025-11-05 09:06:24.797+00,,200,None,f,f,f,t,t,x,,,,,1,,388,141,2,,f,f,f,
+224,t,f,2025-11-05 09:13:26.271+00,2025-11-05 09:13:26.271+00,,300,None,f,f,f,t,t,x,,,,,3,,390,141,2,,f,f,f,
+228,t,f,2025-11-05 10:15:39.159+00,2025-11-05 10:15:39.159+00,,200,None,f,f,f,t,t,xx,,,,,0,,393,123,2,,f,f,f,
+229,t,f,2025-11-05 12:56:55.179+00,2025-11-05 12:56:55.179+00,,200,None,f,f,f,t,t,x,,,,,0,,463,122,2,,f,f,f,
+231,t,f,2025-11-07 12:42:37.89+00,2025-11-07 12:42:37.89+00,,200,None,f,f,f,t,t,,,,,,1,,459,143,2,,f,f,f,
+232,t,f,2025-11-07 12:43:46.39+00,2025-11-07 12:43:46.39+00,,200,None,f,f,f,t,t,,,,,,1,,454,143,2,,f,f,f,
+233,t,f,2025-11-07 12:49:53.167+00,2025-11-07 12:49:53.167+00,,200,None,f,f,f,t,t,,,,,,1,,503,143,2,,f,f,f,
+234,t,f,2025-11-07 13:12:51.668+00,2025-11-07 13:12:51.668+00,,150,None,f,f,f,t,t,,,,,,1,,453,144,2,,f,f,f,
+235,t,f,2025-11-07 13:14:15.985+00,2025-11-07 13:14:15.985+00,,150,None,f,f,f,t,t,,,,,,1,,455,144,2,,f,f,f,
+236,t,f,2025-11-07 13:15:30.154+00,2025-11-07 13:15:30.154+00,,150,None,f,f,f,t,t,,,,,,1,,503,144,2,,f,f,f,
+263,t,f,2025-11-13 11:47:36.815+00,2025-11-13 11:47:36.815+00,,200,None,f,f,f,t,t,,,,,,1,,234,158,2,,f,f,f,
+264,t,f,2025-11-13 11:49:31.568+00,2025-11-13 11:49:31.568+00,,200,None,f,f,f,t,t,,,,,,1,,390,158,2,,f,f,f,
+271,t,f,2025-12-01 12:26:42.081+00,2025-12-01 12:26:42.081+00,,200,None,f,f,f,t,t,,,,,,1,,234,169,2,,f,f,f,
+272,t,f,2026-01-27 11:09:11.002+00,2026-01-27 11:09:11.002+00,,250,None,f,f,f,t,t,,,,,,0,,717,123,2,,f,f,f,
+273,t,f,2026-01-27 11:14:07.41+00,2026-01-27 11:14:07.41+00,,200,None,f,f,f,t,t,,,,,,0,,719,123,2,,f,f,f,
+274,t,f,2026-01-27 11:19:06.103+00,2026-01-27 11:19:06.103+00,,200,None,f,f,f,t,t,,,,,,0,,721,123,2,,f,f,f,
+275,t,f,2026-01-27 11:23:54.616+00,2026-01-27 11:23:54.616+00,,300,None,f,f,f,t,t,,,,,,0,,723,123,2,,f,f,f,
+276,t,f,2026-01-27 11:26:59.714+00,2026-01-27 11:26:59.714+00,,100,None,f,f,f,t,t,THIS REQUEST IS SENT ON BEHALF ON UNDRGRND - TIME AND FEE IS SUBJECT TO CHANGE,,,,,0,,724,158,2,,f,f,f,
+277,t,f,2026-01-27 11:28:18.6+00,2026-01-27 11:28:18.6+00,,100,None,f,f,f,t,t,THIS REQUEST IS SENT ON BEHALF ON UNDRGRND - TIME AND FEE IS SUBJECT TO CHANGE,,,,,0,,724,141,2,,f,f,f,
+278,t,f,2026-01-27 11:33:22.018+00,2026-01-27 11:33:22.018+00,,100,None,f,f,f,t,t,,,,,,0,,726,123,2,,f,f,f,
+279,t,f,2026-01-27 11:35:44.497+00,2026-01-27 11:35:44.497+00,,100,None,f,f,f,t,t,,,,,,0,,727,123,2,,f,f,f,
+280,t,f,2026-01-27 11:38:03.2+00,2026-01-27 11:38:03.2+00,,100,None,f,f,f,t,t,,,,,,0,,728,123,2,,f,f,f,
+281,t,f,2026-01-27 11:40:51.953+00,2026-01-27 11:40:51.953+00,,100,None,f,f,f,t,t,,,,,,0,,729,123,2,,f,f,f,
+282,t,f,2026-01-27 16:44:48.987+00,2026-01-27 16:44:48.987+00,,100,None,f,f,f,t,t,THIS WAS SENT BY GIGEVATE TO ADD TO YOUR PAST EVENT EXPERIENCE! NOT A VALID BOOKING!,,,,,0,,731,123,2,,f,f,f,
+283,t,f,2026-01-27 16:46:10.688+00,2026-01-27 16:46:10.688+00,,100,None,f,f,f,t,t,THIS WAS SENT BY GIGEVATE TO ADD TO YOUR PAST EVENT EXPERIENCE! NOT A VALID BOOKING!,,,,,0,,731,158,2,,f,f,f,
+284,t,f,2026-01-27 16:46:40.344+00,2026-01-27 16:46:40.344+00,,100,None,f,f,f,t,t,THIS WAS SENT BY GIGEVATE TO ADD TO YOUR PAST EVENT EXPERIENCE! NOT A VALID BOOKING!,,,,,0,,731,141,2,,f,f,f,
+285,t,f,2026-01-27 16:51:03.807+00,2026-01-27 16:51:03.807+00,,100,None,f,f,f,t,t,THIS WAS SENT BY GIGEVATE TO ADD TO YOUR PAST EVENT EXPERIENCE! NOT A VALID BOOKING!,,,,,0,,733,123,2,,f,f,f,
+286,t,f,2026-01-27 16:53:21.703+00,2026-01-27 16:53:21.703+00,,100,None,f,f,f,t,t,THIS WAS SENT BY GIGEVATE TO ADD TO YOUR PAST EVENT EXPERIENCE! NOT A VALID BOOKING!,,,,,0,,734,123,2,,f,f,f,
+287,t,f,2026-01-27 16:58:00.562+00,2026-01-27 16:58:00.562+00,,100,None,f,f,f,t,t,THIS WAS SENT BY GIGEVATE TO ADD TO YOUR PAST EVENT EXPERIENCE! NOT A VALID BOOKING!,,,,,0,,736,123,2,,f,f,f,
+288,t,f,2026-01-27 17:05:29.698+00,2026-01-27 17:05:29.698+00,,100,None,f,f,f,t,t,THIS WAS SENT BY GIGEVATE TO ADD TO YOUR PAST EVENT EXPERIENCE! NOT A VALID BOOKING!,,,,,0,,737,169,2,,f,f,f,
+289,t,f,2026-01-27 17:06:10.913+00,2026-01-27 17:06:10.913+00,,100,None,f,f,f,t,t,THIS WAS SENT BY GIGEVATE TO ADD TO YOUR PAST EVENT EXPERIENCE! NOT A VALID BOOKING!,,,,,0,,737,123,2,,f,f,f,
+290,t,f,2026-01-27 17:06:48.381+00,2026-01-27 17:06:48.381+00,,100,None,f,f,f,t,t,THIS WAS SENT BY GIGEVATE TO ADD TO YOUR PAST EVENT EXPERIENCE! NOT A VALID BOOKING!,,,,,0,,737,141,2,,f,f,f,
+291,t,f,2026-01-27 17:09:01.056+00,2026-01-27 17:09:01.056+00,,100,None,f,f,f,t,t,THIS WAS SENT BY GIGEVATE TO ADD TO YOUR PAST EVENT EXPERIENCE! NOT A VALID BOOKING!,,,,,0,,738,123,2,,f,f,f,
+292,t,f,2026-01-27 17:17:19.256+00,2026-01-27 17:17:19.256+00,,100,None,f,f,f,t,t,THIS WAS SENT BY GIGEVATE TO ADD TO YOUR PAST EVENT EXPERIENCE! NOT A VALID BOOKING!,,,,,0,,740,123,2,,f,f,f,
+293,t,f,2026-01-27 17:19:23.688+00,2026-01-27 17:19:23.688+00,,100,None,f,f,f,t,t,THIS WAS SENT BY GIGEVATE TO ADD TO YOUR PAST EVENT EXPERIENCE! NOT A VALID BOOKING!,,,,,0,,741,123,2,,f,f,f,

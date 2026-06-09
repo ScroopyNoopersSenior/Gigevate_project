@@ -2,7 +2,65 @@
 
 # Gigevate Project
 
-#Stap 1 Repository clonen
+#stap 1 als je geen ssh key hebt
+## SSH instellen (alleen als je nog geen SSH-key hebt)
+
+### 1. Maak een SSH-key aan
+
+Vervang het e-mailadres door je eigen GitHub e-mailadres:
+
+```bash
+ssh-keygen -t ed25519 -C "jouw_email@example.com"
+```
+
+Druk vervolgens een paar keer op Enter om de standaardlocatie te gebruiken.
+
+---
+
+### 2. Bekijk je publieke sleutel
+
+```bash
+cat ~/.ssh/id_ed25519.pub
+```
+
+Kopieer de volledige output.
+
+---
+
+### 3. Voeg de sleutel toe aan GitHub
+
+Ga naar:
+
+**GitHub → Settings → SSH and GPG keys → New SSH key**
+
+Geef de sleutel een naam (bijvoorbeeld "Laptop") en plak de gekopieerde sleutel.
+
+Klik op **Add SSH key**.
+
+---
+
+### 4. Test de verbinding
+
+```bash
+ssh -T git@github.com
+```
+
+Als alles goed werkt krijg je een bericht vergelijkbaar met:
+
+```text
+Hi gebruikersnaam! You've successfully authenticated.
+```
+
+---
+
+### 5. Clone de repository
+
+```bash
+git clone git@github.com:ScroopyNoopersSenior/Gigevate_project.git
+```
+
+
+#Stap 1 als je wel ssh key hebt Repository clonen
 
 Clone de repository naar je eigen computer:
 

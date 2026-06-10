@@ -1,0 +1,702 @@
+EventId,EventName,OrganizerName,DateTimeStart,DateTimeEnd,City,Country,StreetAddress,OrganizerId,PublicUserId,EventType,MainGenres
+102,Gigevate Launch Party,,2025-08-08 19:00:00+00,2025-08-09 02:00:00+00,Rotterdam,Netherlands,7137 Mission Hills Avenue,44.0,,Workshop,-
+111,A'DAM Toren ADE 2025,,2025-10-22 14:00:00+00,2025-10-27 06:00:00+00,Amsterdam,Netherlands,"Overhoeksplein 1, 1031KS",51.0,,Festival,Techno
+112,OUTWORLD - KlangKuenstler All Night Long ADE 2025,,2025-10-25 00:00:00+00,2025-10-26 06:00:00+00,Amsterdam,Netherlands,"Ziggo Dome, Arena boulevard 61-75, 1101 DL",51.0,,Festival,Techno
+113,United Identities X Touching Bass,,2024-10-20 22:00:00+00,2024-10-21 06:00:00+00,Amsterdam,Netherlands,Pazzanistraat 3,51.0,,Festival,-
+115,ADE x A'DAM Toren: Official Opening 2025,,2025-10-22 20:00:00+00,2025-10-23 02:00:00+00,Amsterdam,Netherlands,"Overhoeksplein 1, Amsterdam",51.0,,Festival,Electronic
+116,ADE by Day - Tom Trago invites Amaliah & Makèz,,2024-10-20 20:00:00+00,2024-10-21 02:00:00+00,Amsterdam,Netherlands,Pazzanistraat 3,51.0,,Festival,Electronic
+117,Audio Obscura ADE x Mind Against pres. HABITAT,,2024-10-20 20:00:00+00,2024-10-21 02:00:00+00,Amsterdam,Netherlands,"Tt. Neveritaweg 15, Amsterdam",51.0,,Festival,Electronic
+119,Ciranda x Doka Studio (ADE) w/ Antal & Mendel,,2024-10-20 20:00:00+00,2024-10-21 02:00:00+00,Amsterdam,Netherlands,"Doka Studio, Amsterdam",51.0,,Festival,Electronic
+120,Percolator Pulse,,2024-10-20 20:00:00+00,2024-10-21 02:00:00+00,Amsterdam,Netherlands,"SEXYLAND World, Amsterdam",51.0,,Festival,Electronic
+121,Jaguar House X KELDER - Resør Electronics Showcase,,2024-10-20 20:00:00+00,2024-10-21 02:00:00+00,Amsterdam,Netherlands,"KELDER, Amsterdam",51.0,,Festival,Electronic
+122,Loveland x Circle of Live - ADE 2025,,2025-10-19 20:00:00+00,2025-10-20 02:00:00+00,Amsterdam,Netherlands,"Mediahaven, Amsterdam",51.0,,Festival,Electronic
+123,Yoyaku x ADE - Shelter Amsterdam,,2025-10-20 20:00:00+00,2025-10-21 02:00:00+00,Amsterdam,Netherlands,"Shelter, Amsterdam",51.0,,Festival,Electronic
+124,"IN ACT ADE: Dish Dash, Marino Canal B2B Henri Bergmann, Øostil",,2025-10-25 20:00:00+00,2025-10-26 02:00:00+00,Amsterdam,Netherlands,"Pier 14, Amsterdam",51.0,,Festival,Electronic
+125,Audioholics ADE at B. Rooftop,,2025-10-25 20:00:00+00,2025-10-26 02:00:00+00,Amsterdam,Netherlands,"B. Rooftop, Amsterdam",51.0,,Festival,Electronic
+127,Shelter presents: Brighter Days by Kamma & Masalo,,2024-10-19 20:00:00+00,2024-10-20 02:00:00+00,Amsterdam,Netherlands,"Shelter, Amsterdam",51.0,,Festival,Electronic
+128,Madam Invites Detroit Love ADE,,2024-10-19 20:00:00+00,2024-10-20 02:00:00+00,Amsterdam,Netherlands,"Madam, Amsterdam",51.0,,Festival,Electronic
+129,Ben Hemsley & Friends ADE Boat Party,,2024-10-19 20:00:00+00,2024-10-20 02:00:00+00,Amsterdam,Netherlands,"Watt Events Boat, Amsterdam",51.0,,Festival,Electronic
+130,Spectrum x ADE: Joris Voorn & Friends,,2024-10-18 20:00:00+00,2024-10-19 02:00:00+00,Amsterdam,Netherlands,"Shelter, Amsterdam",51.0,,Festival,Electronic
+131,He.She.They ADE: Diversity on the Dancefloor,,2024-10-19 20:00:00+00,2024-10-20 02:00:00+00,Amsterdam,Netherlands,"Paradiso, Amsterdam",51.0,,Festival,Electronic
+132,SLAPFUNK x ADE 2024 – 11 Year Anniversary,,2024-10-19 20:00:00+00,2024-10-20 02:00:00+00,Amsterdam,Netherlands,"Orlyplein 76, Amsterdam",51.0,,Festival,Electronic
+133,Supperclub x ADE – Secret Garden,,2024-10-20 20:00:00+00,2024-10-21 02:00:00+00,Amsterdam,Netherlands,"Supperclub Amsterdam, Amsterdam",51.0,,Festival,Electronic
+134,Modular Festival by SoHaSo & Bordello A Parigi,,2024-10-19 20:00:00+00,2024-10-20 02:00:00+00,Amsterdam,Netherlands,"Doka, Amsterdam",51.0,,Festival,Electronic
+135,d'HERACLAS QUKKLAS,,2024-07-19 23:00:00+00,2024-07-20 04:00:00+00,Istanbul,Turkey,"Kastel, Istanbul, Turkey",59.0,,Festival,Techno
+136,Recess × Popof,,2024-02-17 23:00:00+00,2024-02-18 04:00:00+00,Beirut,Lebanon,"Recess Beirut, Beirut, Lebanon",59.0,,Festival,Techno
+137,Recess × Lampé × TiM TASTE,,2024-01-06 23:00:00+00,2024-01-07 04:00:00+00,Beirut,Lebanon,"Recess Beirut, Beirut, Lebanon",59.0,,Festival,Techno
+138,Cosmic Waves,,2023-06-30 14:00:00+00,2023-07-01 23:59:00+00,Riyadh,Saudi Arabia,"Dirab Circuit, Riyadh, Saudi Arabia",59.0,,Festival,Techno
+139,Metemychosis,,2023-04-15 23:00:00+00,2023-04-16 04:00:00+00,Beirut,Lebanon,"Minus 5, Beirut, Lebanon",59.0,,Festival,Techno
+140,Concrete Mayhem,,2023-03-10 23:00:00+00,2023-03-11 04:00:00+00,Beirut,Lebanon,"Minus 5, Beirut, Lebanon",59.0,,Festival,Techno
+141,Escape Through Music (Anniv 01),,2022-12-17 23:00:00+00,2022-12-18 04:00:00+00,Beirut,Lebanon,"Concrete 1994, Beirut, Lebanon",59.0,,Festival,Techno
+142,Ekstasis Lebanon presents San Lopez,,2022-03-25 23:00:00+00,2022-03-26 04:00:00+00,Beirut,Lebanon,"TBA, Beirut, Lebanon",59.0,,Festival,Techno
+143,Projekt X NYE 2022,,2022-01-01 22:00:00+00,2022-01-02 04:00:00+00,Beirut,Lebanon,"TBA, Beirut, Lebanon",59.0,,Festival,Techno
+144,Spectrum x ADE: Joris Voorn & Friends,,2025-10-10 14:00:00+00,2025-10-11 02:00:00+00,Amsterdam,Netherland,"Shelter, Amsterdam",51.0,,Festival,Techno
+146,Hedomanie Invites Ecstatic Dance ,,2025-10-11 21:00:00+00,2025-10-12 03:00:00+00,Berlin,Germany,"Insomnia, Berlin, Germany",66.0,,Festival,Techno
+147,Circuit Festival,,2025-07-20 21:00:00+00,2025-07-21 03:00:00+00,Berlin,Germany,"TBA Berlin, Berlin, Germany",66.0,,Festival,Techno
+148,TAGESRAVER x SYNDEN. Weekender,,2025-03-28 21:00:00+00,2025-03-29 03:00:00+00,Berlin,Germany,Germany,66.0,,Festival,Techno
+149,"X-BASS Presents: DeGuzman, NEGITIV, Neon Graveyard",,2024-11-29 21:00:00+00,2024-11-30 03:00:00+00,Berlin,Germany,Germany,66.0,,Festival,Techno
+150,PLAY x SYNDEN. x Mandora,,2024-09-21 21:00:00+00,2024-09-22 03:00:00+00,Berlin,Germany,Germany,66.0,,Festival,Techno
+151,SYNDEN. at Roof175,,2024-12-07 21:00:00+00,2024-12-08 03:00:00+00,Mainz,Germany,"Roof175, Mainz, Germany",66.0,,Festival,Techno
+152,SYNDEN. with George b2b PLOYZZ Extended Set,,2024-09-20 21:00:00+00,2024-09-21 03:00:00+00,TBA,Germany,Germany,66.0,,Festival,Techno
+153,Antrieb #25 / Volume Berlin,,2024-08-09 21:00:00+00,2024-08-10 03:00:00+00,Berlin,Germany,"Volume, Berlin, Germany",66.0,,Festival,Techno
+154,"GEMINI with Flaga, Herbrido, MVX, The Enveloper",,2024-06-21 21:00:00+00,2024-06-22 03:00:00+00,Dortmund,Germany,"Oma Doris, Dortmund, Germany",66.0,,Festival,Techno
+155,BASSGEFLÜSTER X SYNDEN. INDOOR FESTIVAL,,2024-05-10 21:00:00+00,2024-05-11 03:00:00+00,TBA,Germany,"Weltspiele, Germany",66.0,,Festival,Techno
+156,SYNDEN. with BMG & Basstrologe,,2024-04-05 21:00:00+00,2024-04-06 03:00:00+00,Cologne,Germany,"Elektroküche, Cologne, Germany",66.0,,Festival,Techno
+157,"Synden x SIRO’s Bday with Jacidorex, H! Dude & many more",,2024-03-23 21:00:00+00,2024-03-24 03:00:00+00,Cologne,Germany,"Essigfabrik, Cologne, Germany",66.0,,Festival,Techno
+158,SYNDEN Mainz with Daniela Hensel,,2024-04-13 21:00:00+00,2024-04-14 03:00:00+00,Mainz,Germany,"Roof175, Mainz, Germany",66.0,,Festival,Techno
+159,Trinity at Matrix,,2024-01-13 21:00:00+00,2024-01-14 03:00:00+00,Bochum,Germany,"Matrix, Bochum, Germany",66.0,,Festival,Techno
+160,GravityX at Mauerpfeiffer,,2023-11-11 21:00:00+00,2023-11-12 03:00:00+00,Saarbrücken,Germany,"Mauerpfeiffer, Saarbrücken, Germany",66.0,,Festival,Techno
+161,OVERRATED at Maze,,2023-12-02 21:00:00+00,2023-12-03 03:00:00+00,Tel Aviv,Israel,"Maze, Tel Aviv, Israel",66.0,,Festival,Techno
+162,CRASH TEST,,2025-07-19 22:00:00+00,2025-07-20 06:00:00+00,Krakow,Poland,"STK 47 WAREHOUSE, Krakow",67.0,,Festival,Electronic
+163,OBXENE ANNIVERSARY + SECRET AFTER PARTY,,2025-04-24 23:00:00+00,2025-04-25 07:00:00+00,Berlin,Germany,"ÆDEN, Berlin",67.0,,Festival,Electronic
+164,Techno Friday – Open Decks (Second Floor),,2024-10-24 23:00:00+00,2024-10-25 06:00:00+00,Berlin,Germany,"Recede Club, Berlin",67.0,,Festival,Electronic
+165,TOXIC – TECHNO,,2024-10-18 23:00:00+00,2024-10-19 06:00:00+00,Berlin,Germany,"Recede Club, Berlin",67.0,,Festival,Electronic
+166,Wave Zebra × OBXENE BERLIN,,2024-09-21 22:00:00+00,2024-09-22 07:00:00+00,Berlin,Germany,"Hype Park, Berlin",67.0,,Festival,Electronic
+167,Techno Mittwoch – TURBINE/TUNNEL,,2023-11-29 23:00:00+00,2023-11-30 05:00:00+00,Berlin,Germany,"AVA Club, Berlin",67.0,,Festival,Electronic
+168,Global Underground: Garden,,2023-08-25 22:00:00+00,2023-08-26 06:00:00+00,Berlin,Germany,"AVA Club, Berlin",67.0,,Festival,Electronic
+169,OBXENE w/ Lady Maru & Might Be Twins,,2023-07-13 23:00:00+00,2023-07-14 07:00:00+00,Berlin,Germany,"TBA, Berlin",67.0,,Festival,Electronic
+170,[IL]LEGAL w/ Afem Syko × In Verruf,,2024-08-23 23:00:00+00,2024-08-24 07:00:00+00,Berlin,Germany,"Recede Club, Berlin, Germany",67.0,,Festival,Electronic
+171,HARD CRASH TEST,,2024-07-19 23:00:00+00,2024-07-20 08:00:00+00,Kraków,Poland,"STK 47 Warehouse, Kraków, Poland",67.0,,Festival,Electronic
+172,[IL]LEGAL × OBXENE Showcase,,2024-06-28 23:00:00+00,2024-06-29 08:00:00+00,Berlin,Germany,"ÆDEN, Berlin, Germany",67.0,,Festival,Electronic
+173,OST × Fête de la Musique,,2024-06-21 15:00:00+00,2024-06-22 00:00:00+00,Berlin,Germany,"OST Club Open-Air, Berlin, Germany",67.0,,Festival,Electronic
+174,OBXENE Birthday Party,,2024-04-25 23:00:00+00,2024-04-26 08:00:00+00,Berlin,Germany,"Zur Klappe, Berlin, Germany",67.0,,Festival,Electronic
+175,OBXENE w/ Messiahwaits & MSKD,,2024-05-31 23:00:00+00,2024-06-01 07:00:00+00,Berlin,Germany,"Recede Club, Berlin, Germany",67.0,,Festival,Electronic
+183,Future Event,ORGANIZER,2025-06-19 22:00:00+00,2025-06-20 02:30:00+00,Riyadh,Saudi Arabia,"Dirab Circuit, Riyadh, Saudi Arabia",44.0,,Festival,Drum & Bass
+185,Stranger Things,Upside Down,2025-07-03 01:00:00+00,2025-07-04 09:00:00+00,Johannesburg,South Africa,15 Fake Avenue,44.0,,FESTIVAL & OPEN-AIR,Trance
+186,Testing Event,Test,2025-07-01 00:00:00+00,0001-01-01 00:00:00+00,Test,Test,Test,44.0,,EDUCATIONAL & NETWORKING,House
+187,Outset X Odyssey's Ibiza with Fantasm,Reboot Events IRE,2025-07-08 00:00:00+00,0001-01-01 00:00:00+00,Ibiza,Spain,"Carrer Salvador Espriu, 07820 San Antonio",44.0,,CLUB & NIGHTLIFE,Techno
+188,Sound Waves 2025,Praia de Esmoriz,2025-07-05 00:00:00+00,0001-01-01 00:00:00+00,Esmoriz,Portugal,Praia de Esmoriz,44.0,,FESTIVAL & OPEN-AIR,Techno
+189,Tramunfest 2025,Midnight Entertainment,2025-07-04 00:00:00+00,0001-01-01 00:00:00+00,Girona,Girona,"Sant Jordi Desvalls, Girona",44.0,,CLUB & NIGHTLIFE,Techno
+190,VERKNIPT Holiday Festival 2025,VERKNIPT,2025-06-29 00:00:00+00,0001-01-01 00:00:00+00,Pag Island,Croatia,Zrce Beach ,44.0,,FESTIVAL & OPEN-AIR,Techno
+191,Basto Festival 2025,Spook.club,2025-06-27 00:00:00+00,0001-01-01 00:00:00+00,Valencia,Spain,La Marina de Valencia La Marina de Valencia,44.0,,CLUB & NIGHTLIFE,Techno
+192,HIVE Festival 2025,HIVE Festival,2025-06-20 00:00:00+00,0001-01-01 00:00:00+00,Gräfenhainichen,Germany,Ferropolis Ferropolisstrasse 1; 06773 ,44.0,,FESTIVAL & OPEN-AIR,Techno
+193,Fantasm All Night Long,Rotterdamse Rave,2025-06-13 00:00:00+00,0001-01-01 00:00:00+00,Rotterdam,Netherlands,"Maassilo Maashaven Zuidzijde 1-2, 3081 AE",44.0,,CLUB & NIGHTLIFE,Hardcore
+194,VERKNIPT Festival 2025,VERKNIPT,2025-06-07 00:00:00+00,0001-01-01 00:00:00+00,Utrecht,Netherlands,"Strijkviertel Strijkviertel 72, 3454 PP",44.0,,FESTIVAL & OPEN-AIR,Techno
+195,Piramide,Cocorico,2025-06-01 00:00:00+00,0001-01-01 00:00:00+00,Riccione,Italy,"Cocoricò Viale Chieti 44, 47838",44.0,,CLUB & NIGHTLIFE,Techno
+196,VOID Festival 2025,VOID V¡ENNA,2025-05-31 00:00:00+00,0001-01-01 00:00:00+00,Metastadt,Wien,"Wien Dr. Otto-Neurath-Gasse 3 , 1220 ",44.0,,CLUB & NIGHTLIFE,Techno
+197,We Are One x Schlachthof Festival,WE ARE ONE,2025-05-28 00:00:00+00,0001-01-01 00:00:00+00,Wiesbaden,Wiesbaden,"Schlachthof Wiesbaden Murnaustraße 1, 65189 ",44.0,,FESTIVAL & OPEN-AIR,Techno
+198,XXL Malta 2025,,2025-05-22 00:00:00+00,0001-01-01 00:00:00+00,Attard ATD,Malta,"UNO MALTA Crafts Village, Ta''Qali, 4000",44.0,,FESTIVAL & OPEN-AIR,Techno
+199,TOKYO INVASION,,2025-05-17 00:00:00+00,0001-01-01 00:00:00+00,Minato-ku,Japan,"SEL OCTAGON TOKYO Axall Roppongi B1F, 7-8-6 Roppongi",44.0,,CLUB & NIGHTLIFE,Techno
+200,"Benjamin Berg B2B Boris Werner, DJ Pipe, Naomi",,2025-07-25 20:00:00+00,2025-07-26 02:00:00+00,Amsterdam,Netherlands,"Overhoeksplein 3, 1031KS, Amsterdam",54.0,,CLUB & NIGHTLIFE,Techno
+205,Divergent x Interlinked Artists Showcase,,2025-10-26 21:30:00+00,2025-10-27 03:00:00+00,Amsterdam,Netherlands,50:HERTZ House & Techno Cafe Rembrandt Square,51.0,,SHOWCASE & INDUSTRY,Techno
+206,CODE 303 x UNDRGRND - Fourth Edition,UNDRGRND,2025-10-03 00:00:00+00,0001-01-01 00:00:00+00,Amsterdam ,Netherlands,CLUB JOHN DOE,44.0,,CLUB & NIGHTLIFE,Techno
+207,HARD TECHNO OP Z'N RAUWST,HET FUNDAMENT,2025-09-26 00:00:00+00,0001-01-01 00:00:00+00,Apeldoorn,Netherlands,"CLUB FYX, HOOFDSTRAAT 171B",44.0,,CLUB & NIGHTLIFE,Techno
+208,Phantom Group Round 2,Phantom Group,2025-07-04 00:00:00+00,0001-01-01 00:00:00+00,Leuven,Belgium,"Club Rumba, Leuven",44.0,,CLUB & NIGHTLIFE,Techno
+209,Get Your Groove On,,2025-10-17 23:00:00+00,2025-10-18 19:00:00+00,Amsterdam,Netherlands,"John Doe Rembrandtplein 31, 1017 CT",70.0,,CLUB & NIGHTLIFE,Techno
+210,CRASH TEST,JUGEND,2025-07-19 00:00:00+00,0001-01-01 00:00:00+00,Kraków,Poland,"STK 47 WAREHOUSE Kraków, 30-727, Pana Tadeusza 6,",44.0,,CLUB & NIGHTLIFE,Techno
+211,CRASH TEST,Ciało,2025-07-18 00:00:00+00,0001-01-01 00:00:00+00,Wrocław,Poland,"Ciało, Joannitów 13, 50-086",44.0,,CLUB & NIGHTLIFE,Techno
+214,Afrikaans is groot,Afrikaanse mense,2025-08-31 00:00:00+00,0001-01-01 00:00:00+00,Pretoria,South africa,Pretoria stadsaal,44.0,29.0,CLUB & NIGHTLIFE,Disco
+215,My past event that was super cool,TOYTOY,2025-10-22 00:00:00+00,0001-01-01 00:00:00+00,Johannesburg,South Africa,"14 Henrietta Avenue, Henrietta",44.0,30.0,SHOWCASE & INDUSTRY,Disco
+220,q,q,2025-10-22 00:00:00+00,0001-01-01 00:00:00+00,q,q,q,44.0,27.0,CLUB & NIGHTLIFE,Trance
+221,"Ben UFO, Jasmín",,2025-11-22 23:00:00+00,2025-11-23 06:00:00+00,Amsterdam,Netherlands,"Shelter Amsterdam Overhoeksplein 3, 1031KS",54.0,,CLUB & NIGHTLIFE,Techno
+222,Sara Landry at ADE,Beatport,2025-10-24 00:00:00+00,0001-01-01 00:00:00+00,Amsterdam,Netherlands,Church,44.0,31.0,CLUB & NIGHTLIFE,Techno
+223,"""TAKEOFF"" Label Showcase by SPACE 92 (50:HERTZ CLUB TRAIN - Sunrise Trip)",50:HERTZ,2025-10-25 00:00:00+00,0001-01-01 00:00:00+00,Amsterdam,Netherlands,Centraal Station,44.0,31.0,SHOWCASE & INDUSTRY,Techno
+224,Klangkuenstler - Outworld,Klangkuenstler,2025-10-25 00:00:00+00,0001-01-01 00:00:00+00,Amsterdam,Netherlands,Ziggo Dome,44.0,31.0,TOURS & SPECIAL FORMATS,Techno
+225,Friends x 750,J5 Beats,2025-10-23 00:00:00+00,0001-01-01 00:00:00+00,Amsterdam,Netherlands,Leidsestraat 68,44.0,31.0,CLUB & NIGHTLIFE,Techno
+226,Teletech x FYM,Free Your Mind,2025-10-26 00:00:00+00,0001-01-01 00:00:00+00,Amsterdam,Netherlands,Escape Club,44.0,31.0,CLUB & NIGHTLIFE,Techno
+227,DYEN pres. Reckless,Reckless,2025-10-25 00:00:00+00,0001-01-01 00:00:00+00,Amsterdam,Netherlands,Escape Club,44.0,31.0,CLUB & NIGHTLIFE,Techno
+228,Divergent x Interlinked Artists Showcase,50:HERTZ ,2025-10-26 00:00:00+00,0001-01-01 00:00:00+00,Amsterdam,Netherlands,Cafe Rembrandt Square,44.0,31.0,SHOWCASE & INDUSTRY,Techno
+229,COFFEESHOP RAVE x FERAL,FERAL x The Dolphins Amsterdam,2025-10-23 00:00:00+00,0001-01-01 00:00:00+00,Amsterdam,Netherlands,Kerkstraat 39,44.0,31.0,TOURS & SPECIAL FORMATS,House
+230,VERKNIPT x PHANTOM - Paris,,2025-11-01 00:00:00+00,2025-11-02 12:00:00+00,Paris,France,"Phantom, Paris 8 Bd de Bercy, 75012",55.0,,FESTIVAL & OPEN-AIR,Techno
+231,VERKNIPT Portugal,,2025-11-01 12:00:00+00,2025-11-02 12:00:00+00,lisboa,Portugal,"Kais Lisbon Cais da viscondessa, 1200-109",55.0,,FESTIVAL & OPEN-AIR,Techno
+232,VERKNIPT B2B Special,,2025-11-08 12:00:00+00,2025-11-08 00:00:00+00,Zaandam,Netherlands,"Taets Art & Event Park Hemkade 18 (Hembrugterrein), 1506 PR Amsterdam ",55.0,,FESTIVAL & OPEN-AIR,Techno
+233,UNDRGRND x Halloween Special,,2025-10-31 23:00:00+00,2025-11-01 07:00:00+00,Amsterdam,Netherlands,"John Doe Rembrandtplein 31, 1017 CT",70.0,,CLUB & NIGHTLIFE,Techno
+234,CODE 303 x UNDRGRND,,2025-11-07 23:00:00+00,2025-11-08 07:00:00+00,Amsterdam,Netherlands,"John Doe Rembrandtplein 31, 1017 CT",70.0,,CLUB & NIGHTLIFE,Techno
+235,DRVN x UNDRGRND,,2025-11-14 23:00:00+00,2025-11-15 07:00:00+00,Netherlands,Amsterdam,"John Doe Rembrandtplein 31, 1017 CT",70.0,,CLUB & NIGHTLIFE,Techno
+236,"Renate Klubnacht w Running Hot, Eliott Litrowski, Jeremy Sylvester, Amy Dabbs, Kenny Blacksmith",Renate Club,2025-10-11 00:00:00+00,0001-01-01 00:00:00+00,Berlin,Germany,Renate Alt Stralau 70; Friedrichshain; 10245 Berlin; Germany,44.0,,CLUB & NIGHTLIFE,Techno
+237,Muse Festival 2025,Crackhouse Theia Crush Muse Festival,2025-07-25 00:00:00+00,0001-01-01 00:00:00+00,Gdańsk,Germany,"Centrum św. Jana w Gdańsku Świętojańska 50, 80-840",44.0,,FESTIVAL & OPEN-AIR,Techno
+238,Smolna Season Closing: Clara Cuvé extended 6h set,,2025-06-20 00:00:00+00,0001-01-01 00:00:00+00,Warszawa,Warszawa,"Smolna Smolna 38, 00-375 ",44.0,,FESTIVAL & OPEN-AIR,Techno
+239,MIDINACHT X MODULE,MIDI AGENCY MODULECPH,2025-06-14 00:00:00+00,0001-01-01 00:00:00+00, København V,Danmark,"MODULE Vesterbrogade 2B, 1620",44.0,,CLUB & NIGHTLIFE,Techno
+240,"Pearson Sound, Diogo, Anastasia Zems, NVNO",Lux Fragil,2025-09-13 00:00:00+00,0001-01-01 00:00:00+00,Lisboa,Portugal,"Lux Fragil Av. Infante D. Henrique, armazém A, Cais da Pedra a Sta. Apolónia, 1950-376 ",44.0,,CLUB & NIGHTLIFE,Trance
+241,MERCREDI SOIR X MAISON BERYL,Virage,2025-07-25 00:00:00+00,0001-01-01 00:00:00+00,Missoffe,Virage,26 rue Hélène-et-François Missoffe,44.0,,FESTIVAL & OPEN-AIR,Trance
+242,Club Tineke Halloween,,2025-10-31 23:00:00+00,2025-11-01 05:00:00+00,Amsterdam,Netherlands,"Het Sieraad Postjesweg 1, 1057 DT",91.0,,CLUB & NIGHTLIFE,House
+243,Higherlife Jamsession,,2025-11-27 23:00:00+00,2025-11-28 06:00:00+00,Amsterdam,Netherlands,"The Loft Amsterdam 1031 KS, Overhoeksplein 1",91.0,,CLUB & NIGHTLIFE,House
+244,"The Loft presents: BELLA, Eliza Rose & Sam Alfred",,2025-11-29 18:30:00+00,2025-11-30 23:00:00+00,Amsterdam,Netherlands,"The Loft Amsterdam 1031 KS, Overhoeksplein 1",91.0,,CLUB & NIGHTLIFE,House
+245,The Loft presents: Mees Salomé,,2025-11-29 23:00:00+00,2025-11-30 05:00:00+00,Amsterdam,Netherlands,"The Loft Amsterdam 1031 KS, Overhoeksplein 1",91.0,,CLUB & NIGHTLIFE,Techno
+246,Test111,,2025-11-12 22:00:00+00,2025-11-13 06:00:00+00,Amsterdam,Netherlands,1112 Rembrandt,93.0,,CLUB & NIGHTLIFE,Techno
+248,New Era - TILLATEC - session 4,,2025-11-07 23:00:00+00,2025-11-08 05:00:00+00,Amsterdam,Netherlands,TILLATEC Doctor Jan van Breemenstraat 1; 1056 AB,89.0,,CLUB & NIGHTLIFE,Techno
+249,Herrensauna 10 Year Anniversary Weekender,,2025-11-22 23:00:00+00,2025-11-23 06:00:00+00,Amsterdam,Netherlands,TILLATEC Doctor Jan van Breemenstraat 1; 1056 AB,89.0,,CLUB & NIGHTLIFE,Techno
+250,NEST,,2025-10-10 00:00:00+00,0001-01-01 00:00:00+00,Stuttgart,Germany,"Fridas Pier Uferstraße 107, 70188",44.0,,CLUB & NIGHTLIFE,Techno
+251,PHENOMENH: A Lunar Experience,,2025-09-20 00:00:00+00,0001-01-01 00:00:00+00,Malmö,Germany,"Plan B Norra Grängesbergsgatan 26, 21450",44.0,,CLUB & NIGHTLIFE,Techno
+252,FRIDA WIRD VIER UND FEIERT TECHNO & TRANCE,Fridas Pier,2025-09-29 00:00:00+00,0001-01-01 00:00:00+00,Stuttgart,Germany,"Fridas Pier Uferstraße 107, 70188",44.0,,FESTIVAL & OPEN-AIR,Techno
+253,"Anna Reusch, Bjørnson, Andre Keller",Fridas Pier,2025-07-04 00:00:00+00,0001-01-01 00:00:00+00,Stuttgart,Germany,"Fridas Pier Uferstraße 107, 70188",44.0,,CLUB & NIGHTLIFE,Techno
+254,"Patrick Mason, Bjørnson, Leo Tiger",Fridas Pier,2025-05-28 00:00:00+00,0001-01-01 00:00:00+00,Stuttgart,Germany,"Fridas Pier Uferstraße 107, 70188",44.0,,CLUB & NIGHTLIFE,Techno
+255,"Space 92, Bjørnson",Fridas Pier,2025-03-15 00:00:00+00,0001-01-01 00:00:00+00,Stuttgart,Germany,"Fridas Pier Uferstraße 107, 70188",44.0,,CLUB & NIGHTLIFE,Techno
+774,TiM TASTE (DE) @FLUCC WANNE,FLUCC WANNE,2024-01-26 00:00:00+00,0001-01-01 00:00:00+00,Vienna,Austria,FLUCC Praterstern 5; 1020,44.0,,SHOWCASE & INDUSTRY,Techno
+257,RITVALES 2025,BREAKFAST LIVE,2025-11-01 00:00:00+00,0001-01-01 00:00:00+00,Antioquia,Colombia,"Parque Norte Cra. 53 #76-115, Medellín",44.0,,FESTIVAL & OPEN-AIR,Techno
+258,Hocus Pocus 2025,,2025-10-31 00:00:00+00,0001-01-01 00:00:00+00,"Miami, FL ",USA,Factory Town 4800 NW 37th Ave,44.0,,FESTIVAL & OPEN-AIR,Techno
+259,"THUNDER: Lee Ann Roberts, Parfait, SHOKI287, HELEN FREY","Kilomètre25, Amnexia",2025-10-25 00:00:00+00,0001-01-01 00:00:00+00,Paris,France,Kilomètre25 8 Boulevard MacDonald 75019,44.0,,CLUB & NIGHTLIFE,Techno
+260,'TAKEOFF' Label Showcase by Space 92 (50:HERTZ CLUB TRAIN - Sunrise Trip),50:HERTZ,2025-10-25 00:00:00+00,0001-01-01 00:00:00+00,Amsterdam,Netherlands,"Amsterdam Central Station Stationsplein, 1012 AB",44.0,,SHOWCASE & INDUSTRY,Techno
+261,Lilly Palmer: Bigger than techno album premiere,Lilly Palmer,2025-10-24 00:00:00+00,0001-01-01 00:00:00+00,Amsterdam,Netherlands,WestWeelde Klönneplein 4,44.0,,CLUB & NIGHTLIFE,Techno
+262,Test past event ,Organ,2025-11-01 00:00:00+00,0001-01-01 00:00:00+00,Joburg,South Africa,14 Fakier Hassiem Street,44.0,,TOURS & SPECIAL FORMATS,Disco
+263,Q-Factory presents ADE Techno Night,Q-Factory,2025-10-23 00:00:00+00,0001-01-01 00:00:00+00,Amsterdam,Netherlands,"Q-Factory Atlantisplein 1, 1093 NE",44.0,,CLUB & NIGHTLIFE,Techno
+264,Brunch Electronik Málaga,"Centris Events, Brunch Electronik Málaga",2025-10-10 00:00:00+00,0001-01-01 00:00:00+00,Málaga,Spain,"Auditorio Málaga Cortijo de Torres C. Paquiro, 9, 29006",44.0,,FESTIVAL & OPEN-AIR,Techno
+265,TECHNO ESSENTIALS,ZEROTOKYO,2025-10-04 00:00:00+00,0001-01-01 00:00:00+00,"Kabukicho, Shinjuku-ku",Tokyo,"Zerotokyo B1-B4 Tokyu Kabukicho Tower, 1-29-1 ",44.0,,CLUB & NIGHTLIFE,Techno
+266,Le Jardin Electronique 2025,Productions du jardin / Jardin électronique,2025-09-13 00:00:00+00,0001-01-01 00:00:00+00,Lomme/Lille,France,Lomme/Lille,44.0,,FESTIVAL & OPEN-AIR,Techno
+267,block x Encore. Space 92,,2025-09-12 00:00:00+00,0001-01-01 00:00:00+00,Portobello,Ireland,"block. 13-14, Liberty Ln",44.0,,CLUB & NIGHTLIFE,Techno
+268,No Sundays Without Techno,128 BPM SPECIAL,2025-11-02 00:00:00+00,0001-01-01 00:00:00+00,Amsterdam,Netherlands,"John Doe Rembrandtplein 31, 1017 CT",44.0,,CLUB & NIGHTLIFE,Techno
+269,UNDRGRND x Halloween Special,128 BPM SPECIAL,2025-10-31 00:00:00+00,0001-01-01 00:00:00+00,Amsterdam,Netherlands,"John Doe Rembrandtplein 31, 1017 CT",44.0,,CLUB & NIGHTLIFE,Techno
+270,Lino Fuso pres: Endless Undrgrnd x ADE,"128 BPM SPECIAL, Amsterdam Dance Event, endlessbcn",2025-10-26 00:00:00+00,0001-01-01 00:00:00+00,Amsterdam,Netherlands,"John Doe Rembrandtplein 31, 1017 CT",44.0,,CLUB & NIGHTLIFE,Techno
+271,AFTER ADE - Endless x Eat The Beat x Undrgrnd,"128 BPM SPECIAL, Matteo Freyrie, endlessbcn, Eat The Beat",2025-10-25 00:00:00+00,0001-01-01 00:00:00+00,Amsterdam,Netherlands,"Waterhouse Studios Danzigerkade 1, 1013 AP",44.0,,SHOWCASE & INDUSTRY,Techno
+272,ADE UNDRGRND x Beatfreak Records Showcase,128 BPM SPECIAL,2025-10-24 00:00:00+00,0001-01-01 00:00:00+00,Amsterdam,Netherlands,"John Doe Rembrandtplein 31, 1017 CT",44.0,,CLUB & NIGHTLIFE,Techno
+273,No Sundays Without Techno,128 BPM SPECIAL,2025-10-19 00:00:00+00,0001-01-01 00:00:00+00,Amsterdam,Netherlands,"John Doe Rembrandtplein 31, 1017 CT",44.0,,CLUB & NIGHTLIFE,Techno
+274,No Sundays Without Techno,128 BPM SPECIAL,2025-10-12 00:00:00+00,0001-01-01 00:00:00+00,Amsterdam,Netherlands,"John Doe Rembrandtplein 31, 1017 CT",44.0,,CLUB & NIGHTLIFE,Techno
+275,Shut Up and Dance,128 BPM SPECIAL,2025-10-10 00:00:00+00,0001-01-01 00:00:00+00,Amsterdam,Netherlands,"John Doe Rembrandtplein 31, 1017 CT",44.0,,CLUB & NIGHTLIFE,Techno
+276,No Sundays Without Techno,128 BPM SPECIAL,2025-10-05 00:00:00+00,0001-01-01 00:00:00+00,Amsterdam,Netherlands,"John Doe Rembrandtplein 31, 1017 CT",44.0,,CLUB & NIGHTLIFE,Techno
+277,UNDRGRND x CODE 303,128 BPM SPECIAL,2025-10-03 00:00:00+00,0001-01-01 00:00:00+00,Amsterdam,Netherlands,"John Doe Rembrandtplein 31, 1017 CT",44.0,,CLUB & NIGHTLIFE,Techno
+278,RADIANT x UNDRGRND,128 BPM SPECIAL,2025-09-26 00:00:00+00,0001-01-01 00:00:00+00,Amsterdam,Netherlands,"John Doe Rembrandtplein 31, 1017 CT",44.0,,CLUB & NIGHTLIFE,Techno
+279,No Sundays Without Techno,128 BPM SPECIAL,2025-09-21 00:00:00+00,0001-01-01 00:00:00+00,Amsterdam,Netherlands,"John Doe Rembrandtplein 31, 1017 CT",44.0,,CLUB & NIGHTLIFE,Techno
+280,INSLAG x UNDRGRND,128 BPM SPECIAL,2025-09-19 00:00:00+00,0001-01-01 00:00:00+00,Amsterdam,Netherlands,"John Doe Rembrandtplein 31, 1017 CT",44.0,,CLUB & NIGHTLIFE,Techno
+281,No Sundays Without Techno,128 BPM SPECIAL,2025-09-14 00:00:00+00,0001-01-01 00:00:00+00,Amsterdam,Netherlands,"John Doe Rembrandtplein 31, 1017 CT",44.0,,CLUB & NIGHTLIFE,Techno
+282,Get Your Groove On,128 BPM SPECIAL,2025-08-22 00:00:00+00,0001-01-01 00:00:00+00,Amsterdam,Netherlands,"John Doe Rembrandtplein 31, 1017 CT",44.0,,CLUB & NIGHTLIFE,Techno
+283,No Sundays Without Techno,128 BPM SPECIAL,2025-08-17 00:00:00+00,0001-01-01 00:00:00+00,Amsterdam,Netherlands,"John Doe Rembrandtplein 31, 1017 CT",44.0,,CLUB & NIGHTLIFE,Techno
+284,APHELION x UNDRGRND,128 BPM SPECIAL,2025-08-15 00:00:00+00,0001-01-01 00:00:00+00,Amsterdam,Netherlands,"John Doe Rembrandtplein 31, 1017 CT",44.0,,CLUB & NIGHTLIFE,Techno
+285,No Sundays Without Techno,128 BPM SPECIAL,2025-08-10 00:00:00+00,0001-01-01 00:00:00+00,Amsterdam,Netherlands,"John Doe Rembrandtplein 31, 1017 CT",44.0,,CLUB & NIGHTLIFE,Techno
+286,No Sundays Without Techno,128 BPM SPECIAL,2025-08-03 00:00:00+00,0001-01-01 00:00:00+00,Amsterdam,Netherlands,"John Doe Rembrandtplein 31, 1017 CT",44.0,,CLUB & NIGHTLIFE,Techno
+287,RADIANT x UNDRGRND,128 BPM SPECIAL,2025-08-01 00:00:00+00,0001-01-01 00:00:00+00,Amsterdam,Netherlands,"John Doe Rembrandtplein 31, 1017 CT",44.0,,CLUB & NIGHTLIFE,Techno
+288,No Sundays Without Techno,128 BPM SPECIAL,2025-07-27 00:00:00+00,0001-01-01 00:00:00+00,Amsterdam,Netherlands,"John Doe Rembrandtplein 31, 1017 CT",44.0,,CLUB & NIGHTLIFE,Techno
+289,UNDRGRND x KARISMA,128 BPM SPECIAL,2025-07-25 00:00:00+00,0001-01-01 00:00:00+00,Amsterdam,Netherlands,"John Doe Rembrandtplein 31, 1017 CT",44.0,,CLUB & NIGHTLIFE,Techno
+290,Get Your Groove On,128 BPM SPECIAL,2025-07-18 00:00:00+00,0001-01-01 00:00:00+00,Amsterdam,Netherlands,"John Doe Rembrandtplein 31, 1017 CT",44.0,,CLUB & NIGHTLIFE,Techno
+291,No Sundays Without Techno,128 BPM SPECIAL,2025-07-20 00:00:00+00,0001-01-01 00:00:00+00,Amsterdam,Netherlands,"John Doe Rembrandtplein 31, 1017 CT",44.0,,CLUB & NIGHTLIFE,Techno
+292,No Sundays Without Techno,128 BPM SPECIAL,2025-07-13 00:00:00+00,0001-01-01 00:00:00+00,Amsterdam,Netherlands,"John Doe Rembrandtplein 31, 1017 CT",44.0,,CLUB & NIGHTLIFE,Techno
+293,Sweedish Affairs x UNDRGRND,128 BPM SPECIAL,2025-07-11 00:00:00+00,0001-01-01 00:00:00+00,Amsterdam,Netherlands,"John Doe Rembrandtplein 31, 1017 CT",44.0,,CLUB & NIGHTLIFE,Techno
+294,No Sundays Without Techno,128 BPM SPECIAL,2025-07-06 00:00:00+00,0001-01-01 00:00:00+00,Amsterdam,Netherlands,"John Doe Rembrandtplein 31, 1017 CT",44.0,,CLUB & NIGHTLIFE,Techno
+295,UNDRGRND x CODE 303,"UNDRGRND, 128 BPM SPECIAL",2025-07-04 00:00:00+00,0001-01-01 00:00:00+00,Amsterdam,Netherlands,"John Doe Rembrandtplein 31, 1017 CT",44.0,,CLUB & NIGHTLIFE,Techno
+296,No Sundays Without Techno,128 BPM SPECIAL,2025-06-29 00:00:00+00,0001-01-01 00:00:00+00,Amsterdam,Netherlands,"John Doe Rembrandtplein 31, 1017 CT",44.0,,CLUB & NIGHTLIFE,Techno
+297,Radiant x UNDRGRND,128 BPM SPECIAL,2025-06-27 00:00:00+00,0001-01-01 00:00:00+00,Amsterdam,Netherlands,"John Doe Rembrandtplein 31, 1017 CT",44.0,,CLUB & NIGHTLIFE,Techno
+298,No Sundays Without Techno,128 BPM SPECIAL,2025-06-22 00:00:00+00,0001-01-01 00:00:00+00,Amsterdam,Netherlands,"John Doe Rembrandtplein 31, 1017 CT",44.0,,CLUB & NIGHTLIFE,Techno
+299,Endless x Tronic,"128 BPM SPECIAL, Tronic Events, endlessbcn",2025-06-20 00:00:00+00,0001-01-01 00:00:00+00,Amsterdam,Netherlands,"John Doe Rembrandtplein 31, 1017 CT",44.0,,CLUB & NIGHTLIFE,Techno
+301,No Sundays Without Techno,128 BPM SPECIAL,2025-06-15 00:00:00+00,0001-01-01 00:00:00+00,Amsterdam,Netherlands,"John Doe Rembrandtplein 31, 1017 CT",44.0,,CLUB & NIGHTLIFE,Techno
+302,Lighthouse Records x UNDRGRND,128 BPM SPECIAL,2025-06-13 00:00:00+00,0001-01-01 00:00:00+00,Amsterdam,Netherlands,"John Doe Rembrandtplein 31, 1017 CT",44.0,,CLUB & NIGHTLIFE,Techno
+303,No Sundays Without Techno,128 BPM SPECIAL,2025-06-08 00:00:00+00,0001-01-01 00:00:00+00,Amsterdam,Netherlands,"John Doe Rembrandtplein 31, 1017 CT",44.0,,CLUB & NIGHTLIFE,Techno
+304,UNDRGRND X ƎLEMENTS,128 BPM SPECIAL,2025-06-06 00:00:00+00,0001-01-01 00:00:00+00,Amsterdam,Netherlands,"John Doe Rembrandtplein 31, 1017 CT",44.0,,CLUB & NIGHTLIFE,Techno
+305,No Sundays Without Techno,128 BPM SPECIAL,2025-06-01 00:00:00+00,0001-01-01 00:00:00+00,Amsterdam,Netherlands,"John Doe Rembrandtplein 31, 1017 CT",44.0,,CLUB & NIGHTLIFE,Techno
+306,Global Underground Sessions,128 BPM SPECIAL,2025-05-30 00:00:00+00,0001-01-01 00:00:00+00,Amsterdam,Netherlands,"John Doe Rembrandtplein 31, 1017 CT",44.0,,CLUB & NIGHTLIFE,Techno
+307,No Sundays Without Techno,128 BPM SPECIAL,2025-05-25 00:00:00+00,0001-01-01 00:00:00+00,Amsterdam,Netherlands,"John Doe Rembrandtplein 31, 1017 CT",44.0,,CLUB & NIGHTLIFE,Techno
+308,UNDRGRND x CODE 303,128 BPM SPECIAL,2025-05-23 00:00:00+00,0001-01-01 00:00:00+00,Amsterdam,Netherlands,"John Doe Rembrandtplein 31, 1017 CT",44.0,,CLUB & NIGHTLIFE,Techno
+309,No Sundays Without Techno,128 BPM SPECIAL,2025-05-18 00:00:00+00,0001-01-01 00:00:00+00,Amsterdam,Netherlands,"John Doe Rembrandtplein 31, 1017 CT",44.0,,CLUB & NIGHTLIFE,Techno
+310,UNDRGRND,128 BPM SPECIAL,2025-05-16 00:00:00+00,0001-01-01 00:00:00+00,Amsterdam,Netherlands,"John Doe Rembrandtplein 31, 1017 CT",44.0,,CLUB & NIGHTLIFE,Techno
+311,No Sundays Without Techno,128 BPM SPECIAL,2025-05-11 00:00:00+00,0001-01-01 00:00:00+00,Amsterdam,Netherlands,"John Doe Rembrandtplein 31, 1017 CT",44.0,,CLUB & NIGHTLIFE,Techno
+312,INSLAG,128 BPM SPECIAL,2025-05-09 00:00:00+00,0001-01-01 00:00:00+00,Amsterdam,Netherlands,"John Doe Rembrandtplein 31, 1017 CT",44.0,,CLUB & NIGHTLIFE,Techno
+313,No Sundays Without Techno,128 BPM SPECIAL,2025-05-04 00:00:00+00,0001-01-01 00:00:00+00,Amsterdam,Netherlands,"John Doe Rembrandtplein 31, 1017 CT",44.0,,CLUB & NIGHTLIFE,Techno
+314,UNDRGRND x 8 YEARS CHROM RECORDINGS,128 BPM SPECIAL,2025-05-02 00:00:00+00,0001-01-01 00:00:00+00,Amsterdam,Netherlands,"John Doe Rembrandtplein 31, 1017 CT",44.0,,CLUB & NIGHTLIFE,Techno
+315,No Sundays Without Techno,128 BPM SPECIAL,2025-04-27 00:00:00+00,0001-01-01 00:00:00+00,Amsterdam,Netherlands,"John Doe Rembrandtplein 31, 1017 CT",44.0,,CLUB & NIGHTLIFE,Techno
+316,King's Night x UNDRGRND,128 BPM SPECIAL,2025-04-25 00:00:00+00,0001-01-01 00:00:00+00,Amsterdam,Netherlands,"John Doe Rembrandtplein 31, 1017 CT",44.0,,CLUB & NIGHTLIFE,Techno
+317,NSWT - Extended Hours,128 BPM SPECIAL,2025-04-20 00:00:00+00,0001-01-01 00:00:00+00,Amsterdam,Netherlands,"John Doe Rembrandtplein 31, 1017 CT",44.0,,CLUB & NIGHTLIFE,Techno
+318,RADIANT x UNDRGRND,128 BPM SPECIAL,2025-04-18 00:00:00+00,0001-01-01 00:00:00+00,Amsterdam,Netherlands,"John Doe Rembrandtplein 31, 1017 CT",44.0,,CLUB & NIGHTLIFE,Techno
+319,No Sundays Without Techno,128 BPM SPECIAL,2025-04-13 00:00:00+00,0001-01-01 00:00:00+00,Amsterdam,Netherlands,"John Doe Rembrandtplein 31, 1017 CT",44.0,,CLUB & NIGHTLIFE,Techno
+320,No Sundays Without Techno,128 BPM SPECIAL,2025-04-06 00:00:00+00,0001-01-01 00:00:00+00,Amsterdam,Netherlands,"John Doe Rembrandtplein 31, 1017 CT",44.0,,CLUB & NIGHTLIFE,Techno
+321,UNDRGRND x RAVE PARTY,128 BPM SPECIAL,2025-03-28 00:00:00+00,0001-01-01 00:00:00+00,Amsterdam,Netherlands,"John Doe Rembrandtplein 31, 1017 CT",44.0,,CLUB & NIGHTLIFE,Techno
+322,Alex Sharp BASH,128 BPM SPECIAL,2025-03-23 00:00:00+00,0001-01-01 00:00:00+00,Amsterdam,Netherlands,"John Doe Rembrandtplein 31, 1017 CT",44.0,,CLUB & NIGHTLIFE,Techno
+323,No Sundays Without Techno,128 BPM SPECIAL,2025-03-16 00:00:00+00,0001-01-01 00:00:00+00,Amsterdam,Netherlands,"John Doe Rembrandtplein 31, 1017 CT",44.0,,CLUB & NIGHTLIFE,Techno
+324,The Art of Groove,128 BPM SPECIAL Angelo Perim,2025-03-14 00:00:00+00,0001-01-01 00:00:00+00,Amsterdam,Netherlands,"John Doe Rembrandtplein 31, 1017 CT",44.0,,CLUB & NIGHTLIFE,Techno
+325,Undrgrnd,Undrgrnd,2025-02-28 00:00:00+00,0001-01-01 00:00:00+00,Amsterdam,Netherlands,"John Doe Rembrandtplein 31, 1017 CT",44.0,,CLUB & NIGHTLIFE,Techno
+326,UNDRGRND,UNDRGRND,2025-02-21 00:00:00+00,0001-01-01 00:00:00+00,Amsterdam,Netherlands,"John Doe Rembrandtplein 31, 1017 CT",44.0,,CLUB & NIGHTLIFE,Techno
+327,No Sundays Without Techno,128 BPM SPECIAL,2025-02-16 00:00:00+00,0001-01-01 00:00:00+00,Amsterdam,Netherlands,"John Doe Rembrandtplein 31, 1017 CT",44.0,,CLUB & NIGHTLIFE,Techno
+328,LOVE 4 ALL with Melisa Dust,128 BPM SPECIAL,2025-02-14 00:00:00+00,0001-01-01 00:00:00+00,Amsterdam,Netherlands,"John Doe Rembrandtplein 31, 1017 CT",44.0,,CLUB & NIGHTLIFE,Techno
+329,Talrabauken x Undrgrnd,128 BPM SPECIAL,2025-01-31 00:00:00+00,0001-01-01 00:00:00+00,Amsterdam,Netherlands,"John Doe Rembrandtplein 31, 1017 CT",44.0,,SHOWCASE & INDUSTRY,Techno
+330,No Sundays Without Techno,128 BPM SPECIAL,2025-01-19 00:00:00+00,0001-01-01 00:00:00+00,Amsterdam,Netherlands,"John Doe Rembrandtplein 31, 1017 CT",44.0,,CLUB & NIGHTLIFE,Techno
+331,Undrgrnd x Ro*minimal,Undrgrnd,2025-01-17 00:00:00+00,0001-01-01 00:00:00+00,Amsterdam,Netherlands,"John Doe Rembrandtplein 31, 1017 CT",44.0,,CLUB & NIGHTLIFE,Techno
+332,Lose Yourself In The Music,Next Door,2025-01-11 00:00:00+00,0001-01-01 00:00:00+00,Amsterdam,Netherlands,Next Door Korte Leidsedwarsstraat 24 1017 RC,44.0,,CLUB & NIGHTLIFE,Techno
+333,KAVAL SVIRI - EP Release Party,128 BPM SPECIAL,2025-01-10 00:00:00+00,0001-01-01 00:00:00+00,Amsterdam,Netherlands,"John Doe Rembrandtplein 31, 1017 CT",44.0,,CLUB & NIGHTLIFE,Techno
+334,No Sundays Without Techno,128 BPM SPECIAL,2025-01-05 00:00:00+00,0001-01-01 00:00:00+00,Amsterdam,Netherlands,"John Doe Rembrandtplein 31, 1017 CT",44.0,,CLUB & NIGHTLIFE,Techno
+335,BATO Event A'dam,"THE OTHER SIDE, Bato Boat Party, BATO BATO Event A'dam, RAMINEM, HEAVEN Amsterdam",2025-10-17 00:00:00+00,0001-01-01 00:00:00+00,Amsterdam,The Netherlands,"THE OTHER SIDE Rigakade 10, 1013BC ",44.0,,FESTIVAL & OPEN-AIR,Techno
+336,Aphelion Amsterdam,Aphelion,2025-08-30 00:00:00+00,0001-01-01 00:00:00+00,Amsterdam,The Netherlands,"THE OTHER SIDE Rigakade 10, 1013BC",44.0,,CLUB & NIGHTLIFE,Techno
+337,Heaven Amsterdam,Madam Amsterdam,2025-07-25 00:00:00+00,0001-01-01 00:00:00+00,Amsterdam,Netherlands,"Madam Overhoeksplein 3, 1031 KS",44.0,,CLUB & NIGHTLIFE,Techno
+338,Bato Boat Party (ALAR),Bato Boat Party,2025-07-05 00:00:00+00,0001-01-01 00:00:00+00,Amsterdam,Netherlands,"Bert Haanstrakade 800, 1087 HM",44.0,,TOURS & SPECIAL FORMATS,Techno
+339,BATO A'dam BB (BATO Boat Party),Bato Boat Party,2025-04-12 00:00:00+00,0001-01-01 00:00:00+00,Amsterdam,Netherlands,"Bert Haanstrakade 800, 1087 HM",44.0,,TOURS & SPECIAL FORMATS,Techno
+340,UNDRGRND x RAVE PARTY,128 BPM SPECIAL,2025-03-28 00:00:00+00,0001-01-01 00:00:00+00,Amsterdam,Netherlands,"John Doe Rembrandtplein 31, 1017 CT",44.0,,CLUB & NIGHTLIFE,Techno
+341,SOROUSH invites,Madam Amsterdam,2025-03-15 00:00:00+00,0001-01-01 00:00:00+00,Amsterdam,Netherlands,"Madam Overhoeksplein 3, 1031 KS",44.0,,CLUB & NIGHTLIFE,Techno
+342,Renate Klubnacht ,Renate,2025-10-11 00:00:00+00,0001-01-01 00:00:00+00,Berlin,Germany,Renate Alt Stralau 70; Friedrichshain; 10245,44.0,,CLUB & NIGHTLIFE,Techno
+343,Muse Festival 2025,"Crackhouse, Muse Festival",2025-07-25 00:00:00+00,0001-01-01 00:00:00+00,Gdańsk,Poland,"Centrum św. Jana w Gdańsku Świętojańska 50, 80-840",44.0,,FESTIVAL & OPEN-AIR,Techno
+344,Eli Brown at Cinema Hall 10/10,IAM Productions,2025-10-10 00:00:00+00,0001-01-01 00:00:00+00,Budapest,Hungary,"Cinema Hall Népligeti út 2., 1101",44.0,,SHOWCASE & INDUSTRY,Techno
+345,HISTORICAL TALES OFFICIAL AFTERPARTY,Black Mamba Production,2025-09-20 00:00:00+00,0001-01-01 00:00:00+00,Budapest,Hungary,"Akvárium Klub Erzsébet tér, 1051",44.0,,CLUB & NIGHTLIFE,Techno
+346,B my Lake Festival 2025,Deadcode Production B my Lake Festival,2025-07-24 00:00:00+00,0001-01-01 00:00:00+00,Hungary,Velence,"North Beach Fő utca 144, Velence 2481",44.0,,FESTIVAL & OPEN-AIR,Techno
+347,HISTORICAL TALES official afterparty,Black Mamba Production,2025-05-24 00:00:00+00,0001-01-01 00:00:00+00,Budapest,Hungary,"Akvárium Klub Erzsébet tér, 1051",44.0,,CLUB & NIGHTLIFE,Techno
+348,Rebūke (Afterlife) 04/25,IAM Productions,2025-04-25 00:00:00+00,0001-01-01 00:00:00+00,Budapest,Hungary,"Akvárium Klub Erzsébet tér, 1051",44.0,,CLUB & NIGHTLIFE,Techno
+349,CODE - LA TRILOGÍA (1/3),Fabrik,2025-10-11 00:00:00+00,0001-01-01 00:00:00+00,Madrid,Spain,"Fabrik Av. de la Industria 82, 28970 Humanes de",44.0,,FESTIVAL & OPEN-AIR,Techno
+350,OLYMPE RAVE,Kilomètre25,2025-10-10 00:00:00+00,0001-01-01 00:00:00+00,Paris,France,Kilomètre25 8 Boulevard MacDonald 75019,44.0,,FESTIVAL & OPEN-AIR,Techno
+351,Fantasm 3 hour set,Claydrum,2025-09-05 00:00:00+00,0001-01-01 00:00:00+00,Maastricht,Maastricht,"Complex Maastricht Griend 6-7, 6221 AJ",44.0,,CLUB & NIGHTLIFE,Techno
+352,Camp Party Bierzo,Agosto 2025,2025-08-30 00:00:00+00,0001-01-01 00:00:00+00,Albares de la Ribera,Spain,"Albares de la Ribera, El Bierzo",44.0,,FESTIVAL & OPEN-AIR,Techno
+353,Albares de la Ribera,Dvrk Sun,2025-07-26 00:00:00+00,0001-01-01 00:00:00+00,Lisboa,Portugal,"8 Marvila Praça David Leandro da Silva 8, 1950-064",44.0,,FESTIVAL & OPEN-AIR,Techno
+354,Kappa FuturFestival 2025,Kappa FuturFestival,2025-07-04 00:00:00+00,0001-01-01 00:00:00+00,Torino,Italy,"Parco Dora Corso Mortara 60, 10149",44.0,,FESTIVAL & OPEN-AIR,Techno
+355,OSKUR with Daniella da Silva,Selva,2025-07-11 00:00:00+00,0001-01-01 00:00:00+00,Palma de Mallorca,Spain,Selva Club Gremi Fusters 44,44.0,,CLUB & NIGHTLIFE,Techno
+356,Illusion,Kilomètre25,2025-06-26 00:00:00+00,0001-01-01 00:00:00+00,Paris,France,Kilomètre25 8 Boulevard MacDonald 75019,44.0,,CLUB & NIGHTLIFE,Techno
+357,THE GARAGE HARD NIGHT,THE GARAGE CLUB BCN,2025-05-24 00:00:00+00,0001-01-01 00:00:00+00,Barcelona,Spain,"THE GARAGE CLUB BCN Passatge Can Polític, 13, b, 08907 Hospitalet de Llobregat",44.0,,CLUB & NIGHTLIFE,Techno
+358,AREA ØNE & Daniella da Silva,,2025-05-09 00:00:00+00,0001-01-01 00:00:00+00,Liverpool,United Kingdom,"Arts Club 90 Seel Street, L1 4BH",44.0,,CLUB & NIGHTLIFE,Techno
+359,Pisiboat: Daniella da Silva,Pisiboat,2025-04-24 00:00:00+00,0001-01-01 00:00:00+00,Paris,France,"Pisiboat 13 Port de la Rapée, 75012",44.0,,CLUB & NIGHTLIFE,Techno
+360,CODE 167 in Fabrik,Fabrik,2025-04-12 00:00:00+00,0001-01-01 00:00:00+00,Madrid,Spain,"Fabrik Av. de la Industria 82, 28970 Humanes de",44.0,,FESTIVAL & OPEN-AIR,Techno
+361,Rage Rave invites Daniella da Silva,Disturb Techno KØMPLEX Lisbon Fastlove,2025-03-21 00:00:00+00,0001-01-01 00:00:00+00,Domingos,Lisbon,Kømplex Lisbon Praceta Rodrigues Nr5 2685-327,44.0,,CLUB & NIGHTLIFE,Techno
+362,Illusion Rave Mirage Aurora,Rex Club,2025-02-26 00:00:00+00,0001-01-01 00:00:00+00,Paris,France,Rex Club 5 boulevard Poissonnière; 75002,44.0,,CLUB & NIGHTLIFE,Techno
+363,Crow Techno Club,LAB theClub,2025-01-31 00:00:00+00,0001-01-01 00:00:00+00,Madrid,Spain,LAB theCLUB Estación de Chamartín. Primera planta s/n 28036,44.0,,CLUB & NIGHTLIFE,Techno
+364,Fight Club: Round 2,FightClubTechno,2025-01-11 00:00:00+00,0001-01-01 00:00:00+00,Pantin,France,"La Cité Fertile 14 avenue Edouard Vaillant, 93500",44.0,,CLUB & NIGHTLIFE,Techno
+365,BLACKWORKS at SPAZIO900,BLACKWORKS,2024-12-31 00:00:00+00,0001-01-01 00:00:00+00,Roma,Italy,"Spazio 900 Piazza Guglielmo Marconi 26/B, 00144 Roma (RM)",44.0,,FESTIVAL & OPEN-AIR,Techno
+366,UNDRGRND x CODE 303,UNDRGRND,2025-10-03 00:00:00+00,0001-01-01 00:00:00+00,Amsterdam,Netherlands,"John Doe Rembrandtplein 31, 1017 CT",44.0,,CLUB & NIGHTLIFE,Techno
+367,STC Weekend Warmup,Sonic Tonic Collective,2024-06-29 00:00:00+00,0001-01-01 00:00:00+00,Amsterdam,Netherlands,"Our House Museum Amstelstraat 24, 1017 DA",44.0,,FESTIVAL & OPEN-AIR,Techno
+368,Techno Pressure Sequence,De Dijk,2023-09-23 00:00:00+00,0001-01-01 00:00:00+00,Maasdijk,The Netherlands,"De Dijk Maasdijk 8, 2676 AE",44.0,,FESTIVAL & OPEN-AIR,Techno
+369,Hard techno ladies night ,The Bas[s]ment,2023-08-04 00:00:00+00,0001-01-01 00:00:00+00,Amsterdam,Netherlands,"The Bas[s]ment Nieuwpoortkade 2A Nieuwpoortkade 2A, 1055 RX",44.0,,CLUB & NIGHTLIFE,Techno
+370,TEMPLE,Saskia Laval,2023-04-01 00:00:00+00,0001-01-01 00:00:00+00,Amsterdam,Netherlands,"Oosterbar Mauritskade 57, 1092 AD",44.0,,CLUB & NIGHTLIFE,Techno
+371,Temple,Saskia Laval,2022-09-03 00:00:00+00,0001-01-01 00:00:00+00,Amsterdam,Netherlands,"Recycle Lounge Gallery Club Zuiderzeeweg 44, 1095KJ",44.0,,CLUB & NIGHTLIFE,Techno
+372,CHAYOTE - Berlin,Saskia Laval,2022-08-13 00:00:00+00,0001-01-01 00:00:00+00,Berlin,Germany,"Belushi's Berlin (Mitte) Ziegelstrasse 28, 10117",44.0,,CLUB & NIGHTLIFE,Techno
+373,CHAYOTE - Amsterdam,Saskia Laval,2022-07-22 00:00:00+00,0001-01-01 00:00:00+00,Amsterdam,Netherlands,De Verbroederij Johan van Hasseltweg 21,44.0,,CLUB & NIGHTLIFE,Techno
+374,Lino Fuso pres: Endless Undrgrnd x ADE,,2025-11-07 23:00:00+00,2025-11-08 06:00:00+00,Amsterdam,Netherlands,"John Doe Rembrandtplein 31, 1017 CT",51.0,,CLUB & NIGHTLIFE,Techno
+375,RAVING CHARLIE: Hard Techno,,2025-11-05 23:00:00+00,2025-11-06 04:00:00+00,Amsterdam,Netherlands,nachbar Nieuwezijds Voorburgwal 169a,97.0,,CLUB & NIGHTLIFE,Techno
+376,RAVING CHARLIE: Hard Techno / Rave,,2025-11-12 23:00:00+00,2025-11-13 04:00:00+00,Amsterdam,Netherlands,nachbar Nieuwezijds Voorburgwal 169a,97.0,,CLUB & NIGHTLIFE,Techno
+377,RAVING CHARLIE: Hard Techno / Rave,,2025-11-19 11:00:00+00,2025-11-20 04:00:00+00,Amsterdam,Netherlands,nachbar Nieuwezijds Voorburgwal 169a,97.0,,CLUB & NIGHTLIFE,Techno
+378,RAVING CHARLIE: Hard Techno / Rave,,2025-11-26 23:00:00+00,2025-11-27 04:00:00+00,Amsterdam,Netherlands,nachbar Nieuwezijds Voorburgwal 169a,97.0,,CLUB & NIGHTLIFE,Techno
+379,RAVING CHARLIE: Hard Techno / Rave,,2025-11-28 23:00:00+00,2025-11-29 05:00:00+00,Amsterdam,Netherlands,Panama Oostelijke Handelskade 4; 1019 Zeeburg,97.0,,CLUB & NIGHTLIFE,Techno
+380,RAVING CHARLIE: Hard Techno / Rave,,2025-12-03 23:00:00+00,2025-12-04 04:00:00+00,Amsterdam,Netherlands,nachbar Nieuwezijds Voorburgwal 169a,97.0,,CLUB & NIGHTLIFE,Techno
+381,RAVING CHARLIE: Hard Techno / Rave,,2025-12-10 23:00:00+00,2025-12-11 04:00:00+00,Amsterdam,Netherlands,nachbar Nieuwezijds Voorburgwal 169a,97.0,,CLUB & NIGHTLIFE,Techno
+382,RAVING CHARLIE: Hard Techno / Rave,,2025-12-17 23:00:00+00,2025-12-18 04:00:00+00,Amsterdam,Netherlands,nachbar Nieuwezijds Voorburgwal 169a,97.0,,CLUB & NIGHTLIFE,Techno
+383,RAVING CHARLIE: Hard Techno / Rave [Melkweg Max Hall],,2025-12-20 23:00:00+00,2025-12-21 04:00:00+00,Amsterdam,Netherlands,"Melkweg Lijnbaansgracht 234/a, 1017 Binnenstad",97.0,,CLUB & NIGHTLIFE,Techno
+384,RAVING CHARLIE: Hard Techno / Rave,,2025-12-27 23:00:00+00,2025-12-28 06:00:00+00,Amsterdam,Netherlands,Panama Oostelijke Handelskade 4; 1019 Zeeburg,97.0,,CLUB & NIGHTLIFE,Techno
+386,BOOST YOUR SUGAR,GIRLAXY,2025-10-26 00:00:00+00,0001-01-01 00:00:00+00,Amsterdam,Netherlands,Britton's Bakery Ferdinand Bolstraat 168H,44.0,,CLUB & NIGHTLIFE,Techno
+387,Walls & Skin ADE 2025 ,Oscar Mulder,2025-10-24 00:00:00+00,0001-01-01 00:00:00+00,Amsterdam,Netherlands,Walls & Skin,44.0,,CLUB & NIGHTLIFE,Techno
+388,UNDRGRND x CODE 303,,2025-10-03 23:00:00+00,2025-10-04 06:00:00+00,Amsterdam,Netherlands,"John Doe Rembrandtplein 31, 1017 CT",70.0,,CLUB & NIGHTLIFE,Techno
+389,No Sundays Without Techno,128 BPM SPECIAL,2025-09-28 00:00:00+00,0001-01-01 00:00:00+00,Amsterdam,Netherlands,"John Doe Rembrandtplein 31, 1017 CT",44.0,,CLUB & NIGHTLIFE,Techno
+390,UNDRGRND x CODE 303,,2025-08-29 23:00:00+00,2025-08-30 06:00:00+00,Amsterdam,Netherlands,"John Doe Rembrandtplein 31, 1017 CT",70.0,,CLUB & NIGHTLIFE,Techno
+391,The Gathering,Oscar Mulder,2025-08-16 00:00:00+00,0001-01-01 00:00:00+00,Soest,The Netherlands,"Artishock Steenhoffstraat 46a, 3764 BM",44.0,,CLUB & NIGHTLIFE,Techno
+392,No Sundays Without Techno,,2025-11-16 23:00:00+00,2025-11-17 06:00:00+00,Amsterdam,Netherlands,"John Doe Rembrandtplein 31, 1017 CT",70.0,,CLUB & NIGHTLIFE,Techno
+393,INSLAG x UNDRGRND,,2025-11-21 23:00:00+00,2025-11-22 07:00:00+00,Amsterdam,Netherlands,"John Doe Rembrandtplein 31, 1017 CT",70.0,,CLUB & NIGHTLIFE,Techno
+769,Vision Serpent x Im Freudentaumel - Label Showcase,Vision Serpent,2024-07-20 00:00:00+00,0001-01-01 00:00:00+00,Vienna,Austria,FLUCC Praterstern 5; 1020,44.0,,SHOWCASE & INDUSTRY,Techno
+394,No Sundays Without Techno,,2025-11-23 23:00:00+00,2025-11-24 04:00:00+00,Amsterdam,Netherlands,"John Doe Rembrandtplein 31, 1017 CT",70.0,,CLUB & NIGHTLIFE,Techno
+395,No Sundays Without Techno,,2025-11-02 23:00:00+00,2025-11-03 04:00:00+00,Amsterdam,Netherlands,"John Doe Rembrandtplein 31, 1017 CT",70.0,,CLUB & NIGHTLIFE,Techno
+396,UNDRGRND x Halloween Special,,2025-10-31 23:00:00+00,2025-11-01 07:00:00+00,Amsterdam,Netherlands,"John Doe Rembrandtplein 31, 1017 CT",70.0,,CLUB & NIGHTLIFE,Techno
+397,Endless Undrgrnd x ADE,,2025-10-26 23:00:00+00,2025-10-27 05:00:00+00,Amsterdam,Netherlands,"John Doe Rembrandtplein 31, 1017 CT",70.0,,CLUB & NIGHTLIFE,Techno
+398,ADE UNDRGRND x Beatfreak Records Showcase,,2025-10-24 23:00:00+00,2025-10-25 08:00:00+00,Amsterdam,Netherlands,"John Doe Rembrandtplein 31, 1017 CT",70.0,,SHOWCASE & INDUSTRY,Techno
+399,No Sundays Without Techno,,2025-10-19 23:00:00+00,2025-10-20 04:00:00+00,Amsterdam,Netherlands,"John Doe Rembrandtplein 31, 1017 CT",70.0,,CLUB & NIGHTLIFE,Techno
+400,No Sundays Without Techno,,2025-10-05 23:00:00+00,2025-10-06 04:00:00+00,Amsterdam,Netherlands,"John Doe Rembrandtplein 31, 1017 CT",70.0,,CLUB & NIGHTLIFE,Techno
+401,No Sundays Without Techno,,2025-09-28 23:00:00+00,2025-09-29 04:00:00+00,Amsterdam,Netherlands,"John Doe Rembrandtplein 31, 1017 CT",70.0,,CLUB & NIGHTLIFE,Techno
+402,INSLAG x UNDRGRND,,2025-09-19 23:00:00+00,2025-09-20 07:00:00+00,Amsterdam,Netherlands,"John Doe Rembrandtplein 31, 1017 CT",70.0,,CLUB & NIGHTLIFE,Techno
+403,No Sundays Without Techno,,2025-09-14 23:00:00+00,2025-09-15 04:00:00+00,Amsterdam,Netherlands,"John Doe Rembrandtplein 31, 1017 CT",70.0,,CLUB & NIGHTLIFE,Techno
+404,Get Your Groove On,,2025-09-12 23:00:00+00,2025-09-13 07:00:00+00,Amsterdam,Netherlands,"John Doe Rembrandtplein 31, 1017 CT",70.0,,CLUB & NIGHTLIFE,Techno
+405,No Sundays Without Techno,,2025-09-07 23:00:00+00,2025-09-08 04:00:00+00,Amsterdam,Netherlands,"John Doe Rembrandtplein 31, 1017 CT",70.0,,CLUB & NIGHTLIFE,Techno
+406,Shut Up and Dance,,2025-09-05 23:00:00+00,2025-09-06 07:00:00+00,Amsterdam,Netherlands,"John Doe Rembrandtplein 31, 1017 CT",70.0,,CLUB & NIGHTLIFE,Techno
+407,No Sundays Without Techno,,2025-08-31 23:00:00+00,2025-09-01 04:00:00+00,Amsterdam,Netherlands,"John Doe Rembrandtplein 31, 1017 CT",70.0,,CLUB & NIGHTLIFE,Techno
+408,No Sundays Without Techno,,2025-08-24 23:00:00+00,2025-08-25 04:00:00+00,Amsterdam,Netherlands,"John Doe Rembrandtplein 31, 1017 CT",70.0,,CLUB & NIGHTLIFE,Techno
+409,Recode Records x UNDRGRND,,2025-11-28 23:00:00+00,2025-11-29 07:00:00+00,Amsterdam,Netherlands,"John Doe Rembrandtplein 31, 1017 CT",70.0,,CLUB & NIGHTLIFE,Techno
+410,AFTER ADE - Endless x Eat The Beat x Undrgrnd,,2025-10-25 05:00:00+00,2025-10-26 14:00:00+00,Amsterdam,Netherlands,"Waterhouse Studios Danzigerkade 1, 1013 AP",70.0,,CLUB & NIGHTLIFE,Techno
+411,RADIANT x UNDRGRND,,2025-09-26 23:00:00+00,2025-09-27 07:00:00+00,Amsterdam,Netherlands,"John Doe Rembrandtplein 31, 1017 CT",70.0,,CLUB & NIGHTLIFE,Techno
+412,Get Your Groove On,,2025-08-22 23:00:00+00,2025-08-23 07:00:00+00,Amsterdam,Netherlands,"John Doe Rembrandtplein 31, 1017 CT",70.0,,CLUB & NIGHTLIFE,Techno
+413,No Sundays Without Techno,,2025-08-17 23:00:00+00,2025-08-18 04:00:00+00,Amsterdam,Netherlands,"John Doe Rembrandtplein 31, 1017 CT",70.0,,CLUB & NIGHTLIFE,Techno
+414,No Sundays Without Techno,,2025-08-10 23:00:00+00,2025-08-11 04:00:00+00,Amsterdam,Netherlands,"John Doe Rembrandtplein 31, 1017 CT",70.0,,CLUB & NIGHTLIFE,Techno
+415,APHELION x UNDRGRND,,2025-08-15 23:00:00+00,2025-08-16 07:00:00+00,Amsterdam,Netherlands,"John Doe Rembrandtplein 31, 1017 CT",70.0,,CLUB & NIGHTLIFE,Techno
+416,INSLAG x UNDRGRND,,2025-08-08 23:00:00+00,2025-08-09 07:00:00+00,Amsterdam,Netherlands,"John Doe Rembrandtplein 31, 1017 CT",70.0,,CLUB & NIGHTLIFE,Techno
+417,No Sundays Without Techno,,2025-08-03 23:00:00+00,2025-08-04 04:00:00+00,Amsterdam,Netherlands,"John Doe Rembrandtplein 31, 1017 CT",70.0,,CLUB & NIGHTLIFE,Techno
+418,RADIANT x UNDRGRND,,2025-08-01 23:00:00+00,2025-08-02 07:00:00+00,Amsterdam,Netherlands,"John Doe Rembrandtplein 31, 1017 CT",70.0,,CLUB & NIGHTLIFE,Techno
+419,No Sundays Without Techno,,2025-07-27 23:00:00+00,2025-07-28 04:00:00+00,Amsterdam,Netherlands,"John Doe Rembrandtplein 31, 1017 CT",70.0,,CLUB & NIGHTLIFE,Techno
+420,UNDRGRND x KARISMA,,2025-07-25 23:00:00+00,2025-07-26 07:00:00+00,Amsterdam,Netherlands,"John Doe Rembrandtplein 31, 1017 CT",70.0,,CLUB & NIGHTLIFE,Techno
+421,No Sundays Without Techno,,2025-07-20 23:00:00+00,2025-07-21 04:00:00+00,Amsterdam,Netherlands,"John Doe Rembrandtplein 31, 1017 CT",70.0,,CLUB & NIGHTLIFE,Techno
+770,BESSER DRAUF,FLUCC,2024-07-06 00:00:00+00,0001-01-01 00:00:00+00,Vienna,Austria,FLUCC Praterstern 5 1020,44.0,,CLUB & NIGHTLIFE,Techno
+422,Get Your Groove On,,2025-07-18 23:00:00+00,2025-07-19 07:00:00+00,Amsterdam,Netherlands,"John Doe Rembrandtplein 31, 1017 CT",70.0,,CLUB & NIGHTLIFE,Techno
+423,No Sundays Without Techno,,2025-07-13 23:00:00+00,2025-07-14 04:00:00+00,Amsterdam,Netherlands,"John Doe Rembrandtplein 31, 1017 CT",70.0,,CLUB & NIGHTLIFE,Techno
+424,Sweedish Affairs x UNDRGRND,,2025-07-11 23:00:00+00,2025-07-12 07:00:00+00,Amsterdam,Netherlands,"John Doe Rembrandtplein 31, 1017 CT",70.0,,CLUB & NIGHTLIFE,Techno
+425,No Sundays Without Techno,,2025-07-06 23:00:00+00,2025-07-07 04:00:00+00,Amsterdam,Netherlands,"John Doe Rembrandtplein 31, 1017 CT",70.0,,CLUB & NIGHTLIFE,Techno
+426,UNDRGRND x CODE 303,,2025-07-04 23:00:00+00,2025-07-05 07:00:00+00,Amsterdam,Netherlands,"John Doe Rembrandtplein 31, 1017 CT",70.0,,CLUB & NIGHTLIFE,Techno
+427,No Sundays Without Techno,,2025-06-29 23:00:00+00,2025-06-30 04:00:00+00,Amsterdam,Netherlands,"John Doe Rembrandtplein 31, 1017 CT",70.0,,CLUB & NIGHTLIFE,Techno
+428,Radiant x UNDRGRND,,2025-06-27 23:00:00+00,2025-06-28 04:00:00+00,Amsterdam,Netherlands,"John Doe Rembrandtplein 31, 1017 CT",70.0,,CLUB & NIGHTLIFE,Techno
+429,No Sundays Without Techno,,2025-06-22 23:00:00+00,2025-06-23 04:00:00+00,Amsterdam,Netherlands,"John Doe Rembrandtplein 31, 1017 CT",70.0,,CLUB & NIGHTLIFE,Techno
+430,Endless x Tronic,,2025-06-20 23:00:00+00,2025-06-21 04:00:00+00,Amsterdam,Netherlands,"John Doe Rembrandtplein 31, 1017 CT",70.0,,CLUB & NIGHTLIFE,Techno
+431,No Sundays Without Techno,,2025-06-15 23:00:00+00,2025-06-16 04:00:00+00,Amsterdam,Netherlands,"John Doe Rembrandtplein 31, 1017 CT",70.0,,CLUB & NIGHTLIFE,Techno
+432,Lighthouse Records x UNDRGRND,,2025-06-13 23:00:00+00,2025-06-14 04:00:00+00,Amsterdam,Netherlands,"John Doe Rembrandtplein 31, 1017 CT",70.0,,CLUB & NIGHTLIFE,Techno
+433,No Sundays Without Techno,,2025-06-08 23:00:00+00,2025-06-09 04:00:00+00,Amsterdam,Netherlands,"John Doe Rembrandtplein 31, 1017 CT",70.0,,CLUB & NIGHTLIFE,Techno
+434,UNDRGRND X ƎLEMENTS,,2025-06-06 23:00:00+00,2025-06-07 07:00:00+00,Amsterdam,Netherlands,"John Doe Rembrandtplein 31, 1017 CT",70.0,,CLUB & NIGHTLIFE,Techno
+435,No Sundays Without Techno,,2025-06-01 23:00:00+00,2025-06-02 04:00:00+00,Amsterdam,Netherlands,"John Doe Rembrandtplein 31, 1017 CT",70.0,,CLUB & NIGHTLIFE,Techno
+436,Global Underground Sessions,,2025-05-30 23:00:00+00,2025-05-31 07:00:00+00,Amsterdam,Netherlands,"John Doe Rembrandtplein 31, 1017 CT",70.0,,CLUB & NIGHTLIFE,Techno
+437,No Sundays Without Techno,,2025-05-25 23:00:00+00,2025-05-26 04:00:00+00,Amsterdam,Netherlands,"John Doe Rembrandtplein 31, 1017 CT",70.0,,CLUB & NIGHTLIFE,Techno
+438,UNDRGRND x CODE 303,,2025-05-23 23:00:00+00,2025-05-24 07:00:00+00,Amsterdam,Netherlands,"John Doe Rembrandtplein 31, 1017 CT",70.0,,CLUB & NIGHTLIFE,Techno
+439,No Sundays Without Techno,,2025-05-18 23:00:00+00,2025-05-19 04:00:00+00,Amsterdam,Netherlands,"John Doe Rembrandtplein 31, 1017 CT",70.0,,CLUB & NIGHTLIFE,Techno
+440,UNDRGRND,,2025-05-16 23:00:00+00,2025-05-17 07:00:00+00,Amsterdam,Netherlands,"John Doe Rembrandtplein 31, 1017 CT",70.0,,CLUB & NIGHTLIFE,Techno
+441,No Sundays Without Techno,,2025-05-11 23:00:00+00,2025-05-12 04:00:00+00,Amsterdam,Netherlands,"John Doe Rembrandtplein 31, 1017 CT",70.0,,CLUB & NIGHTLIFE,Techno
+442,INSLAG,,2025-05-09 23:00:00+00,2025-05-10 07:00:00+00,Amsterdam,Netherlands,"John Doe Rembrandtplein 31, 1017 CT",70.0,,CLUB & NIGHTLIFE,Techno
+443,No Sundays Without Techno,,2025-05-04 23:00:00+00,2025-05-05 04:00:00+00,Amsterdam,Netherlands,"John Doe Rembrandtplein 31, 1017 CT",70.0,,CLUB & NIGHTLIFE,Techno
+444,UNDRGRND x 8 YEARS CHROM RECORDINGS,,2025-05-02 23:00:00+00,2025-05-03 07:00:00+00,Amsterdam,Netherlands,"John Doe Rembrandtplein 31, 1017 CT",70.0,,CLUB & NIGHTLIFE,Techno
+445,No Sundays Without Techno,,2025-04-27 23:00:00+00,2025-04-28 04:00:00+00,Amsterdam,Netherlands,"John Doe Rembrandtplein 31, 1017 CT",70.0,,CLUB & NIGHTLIFE,Techno
+446,King's Night x UNDRGRND,,2025-04-25 11:00:00+00,2025-04-26 07:00:00+00,Amsterdam,Netherlands,"John Doe Rembrandtplein 31, 1017 CT",70.0,,CLUB & NIGHTLIFE,Techno
+447,NSWT - Extended Hours,,2025-04-20 23:00:00+00,2025-04-21 07:00:00+00,Amsterdam,Netherlands,"John Doe Rembrandtplein 31, 1017 CT",70.0,,CLUB & NIGHTLIFE,Techno
+448,RADIANT x UNDRGRND,,2025-04-18 23:00:00+00,2025-04-19 07:00:00+00,Amsterdam,Netherlands,"John Doe Rembrandtplein 31, 1017 CT",70.0,,CLUB & NIGHTLIFE,Techno
+449,No Sundays Without Techno,,2025-04-13 23:00:00+00,2025-04-14 04:00:00+00,Amsterdam,Netherlands,"John Doe Rembrandtplein 31, 1017 CT",70.0,,CLUB & NIGHTLIFE,Techno
+450,PULSATE x UNDRGRND,,2025-04-11 23:00:00+00,2025-04-12 07:00:00+00,Amsterdam,Netherlands,"John Doe Rembrandtplein 31, 1017 CT",70.0,,CLUB & NIGHTLIFE,Techno
+451,No Sundays Without Techno,,2025-04-06 23:00:00+00,2025-04-07 04:00:00+00,Amsterdam,Netherlands,"John Doe Rembrandtplein 31, 1017 CT",70.0,,CLUB & NIGHTLIFE,Techno
+452,404 x UNDRGRND,,2025-04-04 23:00:00+00,2025-04-05 07:00:00+00,Amsterdam,Netherlands,"John Doe Rembrandtplein 31, 1017 CT",70.0,,CLUB & NIGHTLIFE,Techno
+453,Halloween Special,,2025-10-29 23:30:00+00,2025-10-30 04:00:00+00,Amsterdam,Netherlands,nachbar Nieuwezijds Voorburgwal 169a,97.0,,CLUB & NIGHTLIFE,Techno
+454,ADE CLOSING RAVING CHARLIE,,2025-10-26 22:00:00+00,2025-10-27 04:00:00+00,Amsterdam,Netherlands,Panama Oostelijke Handelskade 4; 1019 Zeeburg,97.0,,CLUB & NIGHTLIFE,Techno
+455,ADE RAVING CHARLIE,,2025-10-22 10:00:00+00,2025-10-23 04:00:00+00,Amsterdam,Netherlands,nachbar Nieuwezijds Voorburgwal 169a,97.0,,CLUB & NIGHTLIFE,Techno
+456,RAVING CHARLIE,,2025-10-17 11:30:00+00,2025-10-18 05:00:00+00,Amsterdam,Netherlands,"Melkweg Lijnbaansgracht 234/a, 1017 Binnenstad",97.0,,CLUB & NIGHTLIFE,Techno
+457,RAVING CHARLIE,,2025-10-08 11:00:00+00,2025-10-09 04:00:00+00,Amsterdam,Netherlands,nachbar Nieuwezijds Voorburgwal 169a,97.0,,CLUB & NIGHTLIFE,Techno
+458,RAVING CHARLIE,,2025-10-15 11:00:00+00,2025-10-16 04:00:00+00,Amsterdam,Netherlands,nachbar Nieuwezijds Voorburgwal 169a,97.0,,CLUB & NIGHTLIFE,Techno
+459,Rave w/ TROYJAMES,,2025-10-04 11:30:00+00,2025-10-05 05:00:00+00,Amsterdam,Netherlands,Panama Oostelijke Handelskade 4; 1019 Zeeburg,97.0,,CLUB & NIGHTLIFE,Techno
+460,Rave w/ ØTRACK B2B 4NGELDEV1L,,2025-10-01 11:30:00+00,2025-10-02 04:00:00+00,Amsterdam,Netherlands,nachbar Nieuwezijds Voorburgwal 169a,97.0,,CLUB & NIGHTLIFE,Techno
+461,Rave at Melkweg,,2025-09-27 00:00:00+00,2025-09-28 06:00:00+00,Amsterdam,Netherlands,"Melkweg Lijnbaansgracht 234/a, 1017 Binnenstad",97.0,,CLUB & NIGHTLIFE,Techno
+462,RAVING CHARLIE x Lost In Paris,,2025-09-24 11:00:00+00,2025-09-25 04:00:00+00,Amsterdam,Netherlands,nachbar Nieuwezijds Voorburgwal 169a,97.0,,CLUB & NIGHTLIFE,Techno
+463,Rave w/ POKEDECKS,,2025-09-17 11:00:00+00,2025-09-18 04:00:00+00,Amsterdam ,Netherlands ,nachbar Nieuwezijds Voorburgwal 169a,97.0,,CLUB & NIGHTLIFE,Techno
+464,Rave: B2B MADNESS,,2025-09-13 23:30:00+00,2025-09-14 05:00:00+00,Amsterdam,Netherlands,Panama Oostelijke Handelskade 4; 1019 Zeeburg,97.0,,CLUB & NIGHTLIFE,Techno
+465,Rave w/ Zeyvers,,2025-08-27 23:00:00+00,2025-08-28 04:00:00+00,Amsterdam,Netherlands,nachbar Nieuwezijds Voorburgwal 169a,97.0,,CLUB & NIGHTLIFE,Techno
+466,Rave at Melkweg,,2025-08-23 23:00:00+00,2025-08-24 05:00:00+00,Amsterdam,Netherlands,"Melkweg Lijnbaansgracht 234/a, 1017 Binnenstad",97.0,,CLUB & NIGHTLIFE,Techno
+467,Rave w/ BIØNIC BAMBI,,2025-08-20 23:00:00+00,2025-08-21 04:00:00+00,Amsterdam,Netherlands,nachbar Nieuwezijds Voorburgwal 169a,97.0,,CLUB & NIGHTLIFE,Techno
+468,Rave w/ DLVM [IT],,2025-08-16 23:00:00+00,2025-08-17 05:00:00+00,Amsterdam,Netherlands,Panama Oostelijke Handelskade 4; 1019 Zeeburg,97.0,,CLUB & NIGHTLIFE,Techno
+469, Rave w/ JTN,,2025-08-13 23:00:00+00,2025-08-14 04:00:00+00,Amsterdam,Netherlands,nachbar Nieuwezijds Voorburgwal 169a,97.0,,CLUB & NIGHTLIFE,Techno
+470,Rave w/ S3M,,2025-08-06 23:00:00+00,2025-08-07 04:00:00+00,Amsterdam,Netherlands,nachbar Nieuwezijds Voorburgwal 169a,97.0,,CLUB & NIGHTLIFE,Techno
+471,Rave w/ ANG ,,2025-08-01 23:00:00+00,2025-08-02 05:00:00+00,Amsterdam,Netherlands,Panama Oostelijke Handelskade 4; 1019 Zeeburg,97.0,,CLUB & NIGHTLIFE,Techno
+472,MIDINACHT X MODULE,"MIDI AGENCY, MODULECPH",2025-06-14 00:00:00+00,0001-01-01 00:00:00+00,København V,Danmark,"MODULE Vesterbrogade 2B, 1620 ",44.0,,CLUB & NIGHTLIFE,Techno
+473,Renate Klubnacht,Renate Club,2025-05-10 00:00:00+00,0001-01-01 00:00:00+00,Berlin,Germany,Renate Alt Stralau 70; Friedrichshain; 10245,44.0,,FESTIVAL & OPEN-AIR,Techno
+474,DISCO PATIO XIII,DISCO PATIO,2025-04-05 00:00:00+00,0001-01-01 00:00:00+00,Berlin,Germany,SECRET PLACE,44.0,,CLUB & NIGHTLIFE,Techno
+475,House Of Underground,House Of Underground,2025-03-22 00:00:00+00,0001-01-01 00:00:00+00,East Lisbon,Portugal," Avenida Infante Dom Henrique, AAFC, 1900-320",44.0,,CLUB & NIGHTLIFE,Techno
+476,PMU Nightclub,"Le Mazette, PMU Nightclub",2025-03-21 00:00:00+00,0001-01-01 00:00:00+00,Paris,France,"69 Port de la Rapée, 75012",44.0,,CLUB & NIGHTLIFE,Techno
+477,Grishagreg & Anastasia Zems,Musicbox,2024-10-19 00:00:00+00,0001-01-01 00:00:00+00,Lisboa,Portogallo,"MusicBox R. Nova do Carvalho 24, 1200-292",44.0,,CLUB & NIGHTLIFE,Techno
+478,PANTHERA w/ The Hacker,Panthera,2024-09-20 00:00:00+00,0001-01-01 00:00:00+00,Prior Velho,Portugal,"Higher Ground R. Ary dos Santos 20 1°Andar, 2685-311",44.0,,CLUB & NIGHTLIFE,Techno
+479,MERCREDI SOIR,Virage,2024-06-19 00:00:00+00,0001-01-01 00:00:00+00,Paris,France,"26 Rue Hélène et François Missoffe, 75017",44.0,,CLUB & NIGHTLIFE,Techno
+480,Dancing Dolphins 2nd Edition,"Buena Onda Social Club, Dancing Dolphins",2024-05-24 00:00:00+00,0001-01-01 00:00:00+00,Barcelona,Spain,"Buena Onda Social Club Carrer del Canó, 4, Gràcia, 08012",44.0,,CLUB & NIGHTLIFE,Techno
+481,Renate Klubnacht,"Enigma Music & Arts, Renate Club",2024-04-19 00:00:00+00,0001-01-01 00:00:00+00,Berlin,Germany,Renate Alt Stralau 70; Friedrichshain; 10245,44.0,,CLUB & NIGHTLIFE,Techno
+482,Ogazón at Lux Fragil,Lux Fragil,2024-03-22 00:00:00+00,0001-01-01 00:00:00+00,Lisboa,Portugal,"Lux Fragil Av. Infante D. Henrique, armazém A, Cais da Pedra a Sta. Apolónia, 1950-376",44.0,,CLUB & NIGHTLIFE,Techno
+483,Sunday Remedy with Alzaya,Alzaya,2024-02-25 00:00:00+00,0001-01-01 00:00:00+00,Milan,Italy,"Arca Via Rimini, 38 20142",44.0,,CLUB & NIGHTLIFE,Techno
+484,Les Yeux Orange x EXOTIKA ,LesYeuxOrange,2024-02-23 00:00:00+00,0001-01-01 00:00:00+00,Paris,France,La Rotonde Stalingrad 6-8 Place de la Bataille de Stalingrad - 75019,44.0,,CLUB & NIGHTLIFE,Techno
+485,S//IP x Anastasia Zems,sllipnicosia,2024-02-10 00:00:00+00,0001-01-01 00:00:00+00,Nicosia,Cyprus,"S//IP Theofanous Theodotou, 1065",44.0,,CLUB & NIGHTLIFE,Techno
+486,Halloween Night 'THE SHINING',Laska Bar,2023-10-28 00:00:00+00,0001-01-01 00:00:00+00,Rīga,Latvia,"Laska V21 Vagonu iela 21Latgales priekšpilsēta, LV-1009",44.0,,CLUB & NIGHTLIFE,Techno
+487,Hard Fist,,2023-09-23 00:00:00+00,0001-01-01 00:00:00+00,Lyon,France,Terminal Club 3 Rue Terme; 69001,44.0,,CLUB & NIGHTLIFE,Techno
+488,NOZZ Day 2 + Meet & Greet,Midnight Mirage,2025-10-12 00:00:00+00,0001-01-01 00:00:00+00,Mumbai,India,6th Floor Fun Republic Mall Fun Republic Rd,44.0,,SHOWCASE & INDUSTRY,Techno
+490,NOZZ India Tour 2025 — Night 1,The BPM Theory + Techno Takeover India,2025-10-10 00:00:00+00,0001-01-01 00:00:00+00,Mumbai,India,6th Floor Fun Republic Mall Fun Republic Rd,44.0,,CLUB & NIGHTLIFE,Techno
+491,IYKYK: NOZZ ,The BPM Theory x Team HK,2025-10-11 00:00:00+00,0001-01-01 00:00:00+00,Mumbai,India,Waves – The HighTide Club,44.0,,CLUB & NIGHTLIFE,Techno
+492,PAST EVENT,PAST,2025-10-01 00:00:00+00,0001-01-01 00:00:00+00,PAST,PAST,PAST,44.0,,VENUE & COMMUNITY DRIVEN,Disco
+493,Drafbaan × Graanfabriek,De Graanfabriek,2025-10-18 00:00:00+00,0001-01-01 00:00:00+00,Groningen,Netherlands,"Graanfabriek, Stavangerweg 10, 9723 JC",44.0,,CLUB & NIGHTLIFE,Techno
+494,RAZJEB — Hard Techno Rave,Oczki Warsaw x Razjeb,2025-10-24 00:00:00+00,0001-01-01 00:00:00+00,Warsaw,Poland,"OCZKI, Wojciecha Oczki 1A, 02-007",44.0,,CLUB & NIGHTLIFE,Techno
+495,C-TRULLO — Winter Opening,C-Trullo Events x Wood Clubroom,2025-10-25 00:00:00+00,0001-01-01 00:00:00+00,Lecce,Italy,"Wood Clubroom, Strada Provinciale Lecce Torre Chianca 30, 73100",44.0,,CLUB & NIGHTLIFE,Techno
+496,AFTERD4RK — Halloween Special,Afterdark SK,2025-10-31 00:00:00+00,0001-01-01 00:00:00+00,Bratislava,Slovakia,Subdeck,44.0,,CLUB & NIGHTLIFE,Techno
+497,Libella Festival 2025,Libella Festival,2025-07-12 00:00:00+00,0001-01-01 00:00:00+00,Bochum,Germany,"Kemnader See, Oveney-Seite, NRW",44.0,,CLUB & NIGHTLIFE,Techno
+498,NOZZ at Odonien (Cologne Debut),EhrenKlub,2025-06-07 00:00:00+00,0001-01-01 00:00:00+00,Cologne,Germany,"Hornstraße 85, 50823",44.0,,CLUB & NIGHTLIFE,Techno
+499,Hive Festival Warm-Up,HIVE Festival,2025-06-16 00:00:00+00,0001-01-01 00:00:00+00,Berlin,Germany,Ferropolis,44.0,,CLUB & NIGHTLIFE,Techno
+500,Let Him Cook Radio x NOZZ,Let Him Cook Radio,2025-07-02 00:00:00+00,0001-01-01 00:00:00+00,Marseille,France,Marseille,44.0,,CLUB & NIGHTLIFE,Techno
+501,NOZZ at Club Sams,Club Sams,2025-05-31 00:00:00+00,0001-01-01 00:00:00+00,Bielefeld,Germany,Club Sams,44.0,,CLUB & NIGHTLIFE,Techno
+502,Club Sams: NOZZ,Club Sams,2025-05-31 00:00:00+00,0001-01-01 00:00:00+00,Bielefeld,Germany,"Feilenstraße 2, 33602",44.0,,CLUB & NIGHTLIFE,Techno
+503,RAVING CHARLIE x Lost In Paris,,2025-09-24 23:00:00+00,2025-09-25 04:00:00+00,Amsterdam,Netherlands,nachbar Nieuwezijds Voorburgwal 169a,97.0,,CLUB & NIGHTLIFE,Techno
+504,ORVEX,ORVEX,2025-10-18 00:00:00+00,0001-01-01 00:00:00+00,Berlin,Germany,"MaHalla Wilhelminenhofstraße 76, 12459",44.0,,CLUB & NIGHTLIFE,Techno
+505,DISTURB & KØMPLEX Hell/ween 12h Festival,Disturb Techno x KØMPLEX Lisbon x Fastlove,2025-10-31 00:00:00+00,0001-01-01 00:00:00+00,Lisbon,Portugal,Kømplex Lisbon Praceta Domingos Rodrigues Nr5 2685-327,44.0,,CLUB & NIGHTLIFE,Techno
+506,S1N3RGY COLLECTIVE PRESENTS,John Doe Amsterdam x S1N3RGY COLLECTIVE,2025-10-25 00:00:00+00,0001-01-01 00:00:00+00,Amsterdam,Netherlands,"John Doe Rembrandtplein 31, 1017 CT",44.0,,CLUB & NIGHTLIFE,Techno
+507,S1N3RGY - THE ORIGIN HARD TECHNO RAVE,S1N3RGY COLLECTIVE,2025-08-30 00:00:00+00,0001-01-01 00:00:00+00,Amsterdam,Netherlands,"John Doe Rembrandtplein 31, 1017 CT",44.0,,CLUB & NIGHTLIFE,Techno
+508,Riktus with Charlie Sparks,Riktus,2025-08-14 00:00:00+00,0001-01-01 00:00:00+00,Lisboa,Portugal,"Ministerium Club Praça Comércio 72, 1100-148",44.0,,CLUB & NIGHTLIFE,Techno
+509,Dvrksun & Estrago After Party,KØMPLEX Lisbon,2025-06-13 00:00:00+00,0001-01-01 00:00:00+00,Lisbon,Portugal,Kømplex Lisbon Praceta Domingos Rodrigues Nr5 2685-327,44.0,,CLUB & NIGHTLIFE,Techno
+510,KØMPLEX 2 Years Anniversay,Disturb Techno x KØMPLEX Lisbon x Fastlove,2025-05-24 00:00:00+00,0001-01-01 00:00:00+00,Lisbon,Portugal,Kømplex Lisbon Praceta Domingos Rodrigues Nr5 2685-327,44.0,,CLUB & NIGHTLIFE,Techno
+511,Disturb Hard with Nikolina,Disturb Techno x KØMPLEX Lisbon x Fastlove,2025-04-17 00:00:00+00,0001-01-01 00:00:00+00,Lisbon,Portugal,Kømplex Lisbon Praceta Domingos Rodrigues Nr5 2685-327,44.0,,CLUB & NIGHTLIFE,Techno
+512,Satiata Non Stop By Riktus - Round 3,Riktus,2025-04-10 00:00:00+00,0001-01-01 00:00:00+00,Lisboa,Portugal,"Ministerium Club Praça Comércio 72, 1100-148",44.0,,CLUB & NIGHTLIFE,Techno
+513,Rage Rave invites Daniella da Silva,Disturb Techno x KØMPLEX Lisbon x Fastlove,2025-03-21 00:00:00+00,0001-01-01 00:00:00+00,Lisbon,Portugal,Kømplex Lisbon Praceta Domingos Rodrigues Nr5 2685-327,44.0,,CLUB & NIGHTLIFE,Techno
+514,Disturb Weekend Festival,KØMPLEX Lisbon,2025-03-07 00:00:00+00,0001-01-01 00:00:00+00,Lisbon,Portugal,Kømplex Lisbon Praceta Domingos Rodrigues Nr5 2685-327,44.0,,CLUB & NIGHTLIFE,Techno
+515,Hard Level with Angel Karel,Disturb Techno x KØMPLEX Lisbon  x Fastlove,2025-02-22 00:00:00+00,0001-01-01 00:00:00+00,Lisbon,Portugal,Kømplex Lisbon Praceta Domingos Rodrigues Nr5 2685-327,44.0,,CLUB & NIGHTLIFE,Techno
+516,Rage Rave invites Don Woezik,Disturb Techno x KØMPLEX Lisbon  x Fastlove,2025-02-07 00:00:00+00,0001-01-01 00:00:00+00,Lisbon,Portugal,Kømplex Lisbon Praceta Domingos Rodrigues Nr5 2685-327,44.0,,CLUB & NIGHTLIFE,Techno
+517,DISTURB w/ CARV,Disturb Techno x KØMPLEX Lisbon,2025-01-18 00:00:00+00,0001-01-01 00:00:00+00,Lisbon,Portugal,Kømplex Lisbon Praceta Domingos Rodrigues Nr5 2685-327,44.0,,CLUB & NIGHTLIFE,Techno
+518,RAGE RAVE Supersonic NYE,Temple x Fastlove,2024-12-31 00:00:00+00,0001-01-01 00:00:00+00,Lisboa,Portugal,"TEMPLE Pátio do Pinzaleiro 26, 1200-869",44.0,,CLUB & NIGHTLIFE,Techno
+519,KØMPLEX & TVRBØLÆNCE,KØMPLEX Lisbon,2024-12-27 00:00:00+00,0001-01-01 00:00:00+00,Lisbon,Portugal,Kømplex Lisbon Praceta Domingos Rodrigues Nr5 2685-327,44.0,,CLUB & NIGHTLIFE,Techno
+520,DISTURB & TUTTY FRUTTY 12h Xmas Rave,Disturb Techno x KØMPLEX Lisbon x Fastlove,2024-12-20 00:00:00+00,0001-01-01 00:00:00+00,Lisbon,Portugal,Kømplex Lisbon Praceta Domingos Rodrigues Nr5 2685-327,44.0,,CLUB & NIGHTLIFE,Techno
+521,SEV!L!R BIRTHDAY BASH,Templeist,2025-08-15 00:00:00+00,0001-01-01 00:00:00+00,Istanbul Province,Turkey,Club Temple Azehit Muhtar Mh. 34435 Beyoaylu,44.0,,CLUB & NIGHTLIFE,Techno
+522,TECHNO AM WASSER' x OPEN AIR RAVE 2025,Karl Wimmer,2025-07-04 00:00:00+00,0001-01-01 00:00:00+00,Vienna,Austria,"Usus am Wasser An der Neuen Donau 1, 1210",44.0,,CLUB & NIGHTLIFE,Techno
+523,TECHNO AM BEACH x OPEN AIR 2025,Karl Wimmer,2025-06-16 00:00:00+00,0001-01-01 00:00:00+00,Vienna,Austria,Vienna City Beach Club Am Hubertusdamm 2; 1220,44.0,,CLUB & NIGHTLIFE,Techno
+524,VOID Festival 2025,VOID V¡ENNA,2025-05-31 00:00:00+00,0001-01-01 00:00:00+00,Wien,Austria,"Metastadt Wien Dr. Otto-Neurath-Gasse 3 , 1220",44.0,,CLUB & NIGHTLIFE,Techno
+525,Techno Am Beach x Free Open Air 2025,Karl Wimmer,2025-05-18 00:00:00+00,0001-01-01 00:00:00+00,Vienna,Austria,Vienna City Beach Club Am Hubertusdamm 2; 1220,44.0,,FESTIVAL & OPEN-AIR,Techno
+526,TREZOR TOUR,REDROOM LABEL,2024-12-07 00:00:00+00,0001-01-01 00:00:00+00,Bratislava,Slovakia,"Subdeck Tyršovo nábrežie 85101, 851 01",44.0,,CLUB & NIGHTLIFE,Techno
+527,Halloween Warehouse Rave,VOID Vienna,2024-10-31 00:00:00+00,0001-01-01 00:00:00+00,Wien,Austria,"Wiener Werkshallen 2. Haidequerstraße 1-3, 1110",44.0,,CLUB & NIGHTLIFE,Techno
+528,TECHNO AM WASSER x OPEN AIR RAVE 2024,Karl Wimmer,2024-05-04 00:00:00+00,0001-01-01 00:00:00+00,Vienna,Austria,"Usus am Wasser An der Neuen Donau 1, 1210",44.0,,CLUB & NIGHTLIFE,Techno
+529,Verknallt 2023,Verknallt,2023-09-23 00:00:00+00,0001-01-01 00:00:00+00,Vösendorf,Austria,Club Exil Marktstrasse 13A 2331 Vösendorf,44.0,,FESTIVAL & OPEN-AIR,Techno
+530,Verknallt RAVE,Club Exil,2023-09-08 00:00:00+00,0001-01-01 00:00:00+00,Vösendorf,Austria,Club Exil Marktstrasse 13A 2331,44.0,,CLUB & NIGHTLIFE,Techno
+531,Soundcora 28.11,,2025-11-28 23:00:00+00,2025-11-29 10:00:00+00,Amsterdam,Netherlands,TILLATEC Doctor Jan van Breemenstraat 1; 1056 AB,89.0,,CLUB & NIGHTLIFE,Techno
+532,Vault Sessions x Dynamic Reflection,,2025-11-29 11:00:00+00,2025-11-30 05:00:00+00,Amsterdam,Netherlands,TILLATEC Doctor Jan van Breemenstraat 1; 1056 AB,89.0,,CLUB & NIGHTLIFE,Techno
+533,POING x The Planet,,2025-12-05 23:00:00+00,2025-12-06 07:00:00+00,Amsterdam,Netherlands,TILLATEC Doctor Jan van Breemenstraat 1; 1056 AB,89.0,,CLUB & NIGHTLIFE,Techno
+534,VBX TILLATEC - 06.12,,2025-12-06 23:00:00+00,2025-12-07 06:00:00+00,Amsterdam,Netherlands,TILLATEC Doctor Jan van Breemenstraat 1; 1056 AB,89.0,,CLUB & NIGHTLIFE,Techno
+535,Primal Instinct TILLATEC SHOWCASE,,2025-12-12 23:00:00+00,2025-12-13 07:00:00+00,Amsterdam,Netherlands,TILLATEC Doctor Jan van Breemenstraat 1; 1056 AB,89.0,,SHOWCASE & INDUSTRY,Techno
+536,ELBEREC Showcase,,2025-10-31 23:00:00+00,2025-11-01 08:00:00+00,Amsterdam,Netherlands,TILLATEC Doctor Jan van Breemenstraat 1; 1056 AB,89.0,,CLUB & NIGHTLIFE,Techno
+537,"VBX, fabric & Loud-Contact present: PLAYGROUND",,2025-10-27 09:00:00+00,2025-10-28 21:00:00+00,Amsterdam,Netherlands,TILLATEC Doctor Jan van Breemenstraat 1; 1056 AB,89.0,,CLUB & NIGHTLIFE,Techno
+538,giegling ...IsBurning ,,2025-10-25 21:00:00+00,2025-10-27 06:00:00+00,Amsterdam,Netherlands,TILLATEC Doctor Jan van Breemenstraat 1; 1056 AB,89.0,,FESTIVAL & OPEN-AIR,Techno
+539,Disturbia x Sk_Eleven,,2025-10-24 23:00:00+00,2025-10-25 10:00:00+00,Amsterdam,Netherlands,TILLATEC Doctor Jan van Breemenstraat 1; 1056 AB,89.0,,CLUB & NIGHTLIFE,Techno
+540,Vault Sessions @ TILLATEC | ADE,,2025-10-23 23:00:00+00,2025-10-24 11:00:00+00,Amsterdam,Netherlands,TILLATEC Doctor Jan van Breemenstraat 1; 1056 AB,89.0,,CLUB & NIGHTLIFE,Techno
+541,.VRIL & Wata Igarashi pres. Phantom Circuits LIVE at ADE,,2025-10-23 16:00:00+00,2025-10-24 09:00:00+00,Amsterdam,Netherlands,TILLATEC Doctor Jan van Breemenstraat 1; 1056 AB,89.0,,CLUB & NIGHTLIFE,Techno
+542,LASTER ADE 2025,,2025-10-22 23:00:00+00,2025-10-23 08:00:00+00,Amsterdam,Netherlands,TILLATEC Doctor Jan van Breemenstraat 1; 1056 AB,89.0,,CLUB & NIGHTLIFE,Techno
+543,Electronic Wave X Cloaka pres: PRZ Live and CEM3340 Live,,2025-10-19 20:00:00+00,2025-10-20 05:00:00+00,Amsterdam,Netherlands,TILLATEC Doctor Jan van Breemenstraat 1; 1056 AB,89.0,,CLUB & NIGHTLIFE,Techno
+544,New Year's Eve,,2025-12-31 22:00:00+00,2026-01-01 09:00:00+00,Amsterdam,Netherlands,"Shelter Amsterdam Overhoeksplein 3, 1031KS",54.0,,CLUB & NIGHTLIFE,Techno
+545,Energy Events – One Year Anniversary,,2025-12-05 21:00:00+00,2025-12-05 03:00:00+00,Amsterdam,Netherlands,"OT301, Overtoom 301, 1054 HW",98.0,,CLUB & NIGHTLIFE,Techno
+546,ADE Pop Up Party,,2025-10-24 15:00:00+00,2025-10-24 21:00:00+00,Amsterdam,Netherlands,"Starbucks The Bank, Rembrandtplein 20, 1017 CV Amsterdam",98.0,,SHOWCASE & INDUSTRY,Techno
+547,ADE Showcase,,2025-10-23 19:00:00+00,2025-10-23 00:30:00+00,Amsterdam,Netherlands,"Vice Versa, Ceintuurbaan 206, 1072 GC",98.0,,CLUB & NIGHTLIFE,Techno
+548,FREAKS AND FREQUENCIES,,2025-08-01 20:00:00+00,2025-08-02 02:00:00+00,Amsterdam,Netherlands,"De Sering, Rhoneweg 6, 1043 AH",98.0,,CLUB & NIGHTLIFE,Techno
+549,REMIX VOL. 1,,2025-07-20 13:00:00+00,2025-07-20 20:00:00+00,Amsterdam,Netherlands,"Rembrandtplein 17, 1017 CT Amsterdam",98.0,,CLUB & NIGHTLIFE,House
+550,Der Hintergarten,,2025-07-12 21:00:00+00,2025-07-13 03:00:00+00,Amsterdam,Netherlands,"Jan van Galenstraat 76, 1056 CC Amsterdam",98.0,,CLUB & NIGHTLIFE,Drum & Bass
+551,Vice Versa 7 Year Anniversary,,2025-05-17 21:30:00+00,2025-05-18 02:30:00+00,Amsterdam,Netherlands,"Ceintuurbaan 206, 1072 GC Amsterdam",98.0,,CLUB & NIGHTLIFE,Techno
+552,LUVDR.,,2025-01-24 21:00:00+00,2025-01-25 03:00:00+00,Amsterdam,Netherlands,"OT301, Overtoom 301, 1054 HW",98.0,,CLUB & NIGHTLIFE,Techno
+553,De Sering Night,,2024-11-30 22:00:00+00,2024-12-01 03:00:00+00,Amsterdam,Netherlands,"Rhôneweg 6, 1043 AH",98.0,,CLUB & NIGHTLIFE,Techno
+554,"Ammé, Joey Daniel, Rayzir",,2025-11-08 23:00:00+00,2025-11-09 06:00:00+00,Amsterdam,Netherlands,"Shelter Amsterdam Overhoeksplein 3, 1031KS",54.0,,CLUB & NIGHTLIFE,Techno
+555,V.S presents Dimensions,,2025-11-14 23:00:00+00,2025-11-15 06:00:00+00,Amsterdam,Netherlands,"Shelter Amsterdam Overhoeksplein 3, 1031KS",54.0,,CLUB & NIGHTLIFE,Techno
+556,Shelter presents: OG Records,,2025-11-15 23:00:00+00,2025-11-16 06:00:00+00,Amsterdam,Netherlands,"Shelter Amsterdam Overhoeksplein 3, 1031KS",54.0,,CLUB & NIGHTLIFE,Techno
+557,Shelter presents: ALL I NEED,,2025-11-21 23:00:00+00,2025-11-22 06:00:00+00,Amsterdam,Netherlands,"Shelter Amsterdam Overhoeksplein 3, 1031KS",54.0,,CLUB & NIGHTLIFE,Techno
+558,"Franky Rizardo, Cuartero, Easttown B2B Rooléh",,2025-11-28 23:00:00+00,2025-11-29 06:00:00+00,Amsterdam,Netherlands,"Shelter Amsterdam Overhoeksplein 3, 1031KS",54.0,,CLUB & NIGHTLIFE,Techno
+559,ORVEX: Launch Event,,2025-10-18 23:00:00+00,2025-10-19 06:00:00+00,Mahalla Berlin,Germany,Wilhelminenhofstraße 76/77,99.0,,CLUB & NIGHTLIFE,Techno
+771,Vision Serpent x Im Freudentaumel with Lampé,Vision Serpent,2024-04-19 00:00:00+00,0001-01-01 00:00:00+00,Vienna,Austria,FLUCC Praterstern 5; 1020,44.0,,SHOWCASE & INDUSTRY,Techno
+560,Daydreaming Open Air,Legendary Moments,2018-07-20 00:00:00+00,0001-01-01 00:00:00+00,Budapest,Hungary,Budapest,44.0,,FESTIVAL & OPEN-AIR,House
+561,Oliver Schories Live at Corvin Club,Legendary Moments,2018-05-19 00:00:00+00,0001-01-01 00:00:00+00,Budapest,Hungary,Corvin Club Piarista köz 2. 1052,44.0,,CLUB & NIGHTLIFE,House
+562,Colin Benders pres. Hiss & Hertz,,2025-11-15 23:00:00+00,2025-11-16 07:00:00+00,Amsterdam,Netherlands,"Lofi Basisweg 63, 1043AN",44.0,,CLUB & NIGHTLIFE,Techno
+563,13 YEARS OF TLF,,2025-12-06 22:00:00+00,2025-12-07 04:00:00+00,Scotland,United Kingdom,"Unit 51 Carnegie's Brae, AB10 1BF Aberdeen",100.0,,FESTIVAL & OPEN-AIR,Techno
+564,DAY & NIGHT CHURCH RAVE,,2025-07-26 14:00:00+00,2025-07-27 03:00:00+00,Aberdeen,United Kingdom,"The Priory 33 Belmont St, AB10 1JS",100.0,,TOURS & SPECIAL FORMATS,Techno
+565,Rewind Mayday Day Rave,,2025-05-04 15:00:00+00,2025-05-04 22:00:00+00,Aberdeen,United Kingdom,The Social (Bridge Street),100.0,,FESTIVAL & OPEN-AIR,Techno
+566,TLF X PHG,,2025-04-05 23:00:00+00,2025-04-05 03:00:00+00,Aberdeen,United Kingdom,"The Tunnels, Carnegie's Brae, AB10 1BF",100.0,,FESTIVAL & OPEN-AIR,Techno
+567,TLF presents AISHA,,2024-10-05 22:00:00+00,2024-10-05 03:00:00+00,Aberdeen,Scotland,"Unit 51, Carnegie’s Brae",100.0,,CLUB & NIGHTLIFE,Techno
+568,TLF 12th Birthday,,2024-09-07 22:00:00+00,2024-09-08 03:00:00+00,Scotland,United Kingdom,"Unit 51 Carnegie's Brae, AB10 1BF Aberdeen",100.0,,FESTIVAL & OPEN-AIR,Techno
+569,Gary Beck & Harvey Mckay,,2024-08-10 23:00:00+00,2024-08-11 03:00:00+00,Aberdeen,United Kingdom,"The Tunnels Carnegie's Brae, AB10 1BF",100.0,,CLUB & NIGHTLIFE,Techno
+570,TLF X RARE: Slam,,2024-03-30 23:00:00+00,2024-03-31 03:00:00+00,Aberdeen,United Kingdom,"The Tunnels Carnegie's Brae, AB10 1BF",100.0,,CLUB & NIGHTLIFE,Techno
+571,Xenia UA,,2024-03-02 22:00:00+00,2024-03-03 03:00:00+00,Scotland,United Kingdom,"Unit 51 Carnegie's Brae, AB10 1BF Aberdeen",100.0,,CLUB & NIGHTLIFE,Techno
+572,2023 Closer: Juliet Fox,,2023-12-09 23:00:00+00,2023-12-10 04:00:00+00,Aberdeen,United Kingdom,"The Tunnels Carnegie's Brae, AB10 1BF",100.0,,CLUB & NIGHTLIFE,Techno
+573,TLF INVITES ALT8,,2023-11-04 23:00:00+00,2023-11-05 04:00:00+00,Aberdeen,United Kingdom,"The Tunnels Carnegie's Brae, AB10 1BF",100.0,,CLUB & NIGHTLIFE,Techno
+574,TLF 11th birthday with AISHA ,,2023-09-30 23:00:00+00,2023-10-01 04:00:00+00,Aberdeen,United Kingdom,"The Tunnels Carnegie's Brae, AB10 1BF",100.0,,FESTIVAL & OPEN-AIR,Techno
+575,BASSWELL,,2023-06-03 23:00:00+00,2023-06-04 04:00:00+00,Scotland,United Kingdom,"Unit 51 Carnegie's Brae, AB10 1BF Aberdeen",100.0,,CLUB & NIGHTLIFE,Techno
+576,TLF & Tunnels present: SLAM,,2023-04-01 22:00:00+00,2023-04-02 03:00:00+00,Aberdeen,United Kingdom,"The Tunnels Carnegie's Brae, AB10 1BF",100.0,,CLUB & NIGHTLIFE,Techno
+577,TLF Invites Xenia UA,,2023-01-28 22:00:00+00,2023-01-29 04:00:00+00,Aberdeen,United Kingdom,"The Tunnels Carnegie's Brae, AB10 1BF",100.0,,CLUB & NIGHTLIFE,Techno
+578,DAVE the Drummer at Tunnels,,2022-11-26 22:00:00+00,2022-11-27 04:00:00+00,Aberdeen,United Kingdom,"The Tunnels Carnegie's Brae, AB10 1BF",100.0,,FESTIVAL & OPEN-AIR,Techno
+579,Eternal presents: Rudosa,Eternal Events,2025-10-18 00:00:00+00,0001-01-01 00:00:00+00,Liverpool,United Kingdom,"Meraki 3 Dickson St,, L3 7EB",44.0,,CLUB & NIGHTLIFE,Techno
+580,Meduza & James Hype present Our House,The Night League,2025-09-01 00:00:00+00,0001-01-01 00:00:00+00,Balearic Islands,Spain,"Hï Ibiza Platja d''en Bossa s/n, 07817 Sant Josep de sa Talaia",44.0,,CLUB & NIGHTLIFE,House
+581,Fixate presents: Rudosa,Fixate,2025-05-16 00:00:00+00,0001-01-01 00:00:00+00,Sheffield,United Kingdom,"Panke Social 16 Exchange street, S25TR",44.0,,CLUB & NIGHTLIFE,House
+582,NINE YEARS SYNOID,SYNOID,2025-05-10 00:00:00+00,0001-01-01 00:00:00+00,Saarbrücken,Germany,"Mauerpfeiffer Lebacher Straße 1-7a, D-66113",44.0,,CLUB & NIGHTLIFE,Techno
+583,Codex vs. Union Three labels' Showcase,IAMT MUSIC 2021 SCP,2024-10-17 00:00:00+00,0001-01-01 00:00:00+00,Amsterdam,Netherlands,Club Up Korte Leidsedwarsstraat 26-1; 1017 Binnenstad,44.0,,SHOWCASE & INDUSTRY,Techno
+584,TURBO 003,HiddenEvents,2024-09-18 00:00:00+00,0001-01-01 00:00:00+00,Manchester,United Kingdom,"Hidden 17 DownTex Mill, Mary Street, M3 1DZ",44.0,,CLUB & NIGHTLIFE,Techno
+585,Techno with Rudosa and Angel Karel,Rogue Puppet,2024-05-03 00:00:00+00,0001-01-01 00:00:00+00,Leeds,England,"The Old Red Bus Station 104 Vicar Lane , LS2 7NL",44.0,,CLUB & NIGHTLIFE,Techno
+586,Synaptica w./ Vitalic,OST,2024-04-27 00:00:00+00,0001-01-01 00:00:00+00,Friedrichshain,Germany,"OST Alt-Stralau, 1-2, 10245",44.0,,CLUB & NIGHTLIFE,Techno
+587,Sinister X SURVIVE Warehouse Rave,Sinister Events x SURVIVE,2024-03-23 00:00:00+00,0001-01-01 00:00:00+00,Bochum,Germany,"Matrix Hauptstr. 200, 44892",44.0,,CLUB & NIGHTLIFE,Techno
+588,SHINE BOXING NIGHT ,SHINE,2023-12-26 00:00:00+00,0001-01-01 00:00:00+00,Belfast,United Kingdom,"The Telegraph Building 124-144 Royal Avenue, BT1 1ND",44.0,,CLUB & NIGHTLIFE,Techno
+589,Rudosa All Night Long,Moments In Time x SYMBØL,2023-09-30 00:00:00+00,0001-01-01 00:00:00+00,Glasgow,United Kingdom,"SYMBØL 323 Sauchiehall Street, G2 3HW",44.0,,CLUB & NIGHTLIFE,Techno
+590,CODE 155 en Fabrik,,2023-09-02 00:00:00+00,0001-01-01 00:00:00+00,Madrid,Spain,"Fabrik Av. de la Industria 82, 28970 Humanes de",44.0,,FESTIVAL & OPEN-AIR,Techno
+591,NADA with Rudosa,NADA LISBON,2023-09-01 00:00:00+00,0001-01-01 00:00:00+00,Lisbon,Portugal,"NADA Lisbon R. Ary dos Santos 3, Armazém 6, 2685-312 Prior Velho",44.0,,CLUB & NIGHTLIFE,Techno
+594,BASSKRAFTKOLLEKTIV x WAGENHALLEN,basskraftkollektiv x Wagenhallen,2025-08-23 00:00:00+00,0001-01-01 00:00:00+00,Stuttgart,Germany,Wagenhallen Stuttgart (Kleiner Raum),44.0,,CLUB & NIGHTLIFE,Techno
+596,BLOODLUST × OLYMPE RAVE,Olympe Rave × Adel Wav (and CC2),2025-04-26 00:00:00+00,0001-01-01 00:00:00+00,Regensburg,Germany,"CC2 Domplatz 3, Regensburg",44.0,,CLUB & NIGHTLIFE,Techno
+597,Berlin Calling,Sixth Dimension Studios,2024-11-23 00:00:00+00,0001-01-01 00:00:00+00,Berlin,Germany,Unknown,44.0,,CLUB & NIGHTLIFE,Techno
+598,ZUL Closing Summer – Chapter 1 (Open Air),ZUL,2024-08-31 00:00:00+00,0001-01-01 00:00:00+00,Vitoria-Gasteiz,Spain, Northern Spain,44.0,,CLUB & NIGHTLIFE,Techno
+599,To The Bone x Sixsixsounds — One Year Anniversary,To The Bone × Sixsixsounds,2024-10-26 00:00:00+00,0001-01-01 00:00:00+00,Bielefeld,Germany,Sams,44.0,,CLUB & NIGHTLIFE,Techno
+600,Rave Revolution 038,Rave Revolution,2025-03-28 00:00:00+00,0001-01-01 00:00:00+00,Zwolle,The Netherlands,MRT,44.0,,CLUB & NIGHTLIFE,Techno
+601,Color & Bass,Color & Bass,2025-03-15 00:00:00+00,0001-01-01 00:00:00+00,Leipzig,Germany,Westhafen Leipzig,44.0,,CLUB & NIGHTLIFE,Techno
+602,NOX,Echo Recordings,2025-03-08 00:00:00+00,0001-01-01 00:00:00+00,Gronigen,Netherlands,Graanfabriek,44.0,,CLUB & NIGHTLIFE,Techno
+603,Berrylectro × Flym,Berrylectro × Flym,2025-02-15 00:00:00+00,0001-01-01 00:00:00+00,Münster,Germany,"PULS Club Hafenstraße 64, 48153 Münster",44.0,,CLUB & NIGHTLIFE,Techno
+604,DOPAMYN Indoor Festival,Taktlos Events × Hard Times,2025-03-07 00:00:00+00,0001-01-01 00:00:00+00,Essen,Germany,Delta & Westend,44.0,,CLUB & NIGHTLIFE,Techno
+605,Beats Bass Carnival ,Art of Urban Life,2025-03-02 00:00:00+00,0001-01-01 00:00:00+00,Berlin,Germany,City,44.0,,CLUB & NIGHTLIFE,Techno
+606,SKIMASKE pres. SixSixSounds Showcase,SKIMASKE × SixSixSounds,2025-04-04 00:00:00+00,0001-01-01 00:00:00+00,Bremen,Germany,2RaumClub,44.0,,CLUB & NIGHTLIFE,Techno
+607,Infrasoon Events x SixSixSounds Showcase,Infrasoon Events & SixSixSounds,2025-04-19 00:00:00+00,0001-01-01 00:00:00+00,Amsterdam,Netherlands,"Melkweg – Lijnbaansgracht 234A, 1017 PH Amsterdam",44.0,,CLUB & NIGHTLIFE,Techno
+608,Graf Invites — Birthday Edition,Bloodlust x Elusive x Graf Invites,2025-05-17 00:00:00+00,0001-01-01 00:00:00+00,Leipzig,Germany,Club Czerny,44.0,,CLUB & NIGHTLIFE,Techno
+609,CC2 x Die Rakete pres. RZVX & Yana ETC,CC2 Events x Die Rakete,2025-05-16 00:00:00+00,0001-01-01 00:00:00+00,Nürnberg,Germany,"Die Rakete Vogelweiherstraße 64, 90441 Nürnberg",44.0,,CLUB & NIGHTLIFE,Techno
+610,Graf Invites,Graf Techno,2025-07-26 00:00:00+00,0001-01-01 00:00:00+00,Regensburg,Germany,Club Czerny,44.0,,CLUB & NIGHTLIFE,Techno
+611,Burak Yeter & FRIENDS - ADE,SUPPERCLUB AMSTERDAM,2024-10-16 00:00:00+00,0001-01-01 00:00:00+00,Amsterdam,Netherlands,"Supperclub Singel 460, 1017 AW",44.0,,CLUB & NIGHTLIFE,Electronic
+612,Creamfields 2024,Creamfields,2024-08-22 00:00:00+00,0001-01-01 00:00:00+00,Cheshire,UK,Creamfields Daresbury; Warrington; WA4 4AR,44.0,,FESTIVAL & OPEN-AIR,Electronic
+613,JUMPSTART FESTIVAL 2024,JUMPSTART FESTIVAL,2024-06-21 00:00:00+00,0001-01-01 00:00:00+00,Selangor,UK,"TBA - Gamuda Cove, 2377, 42700",44.0,,FESTIVAL & OPEN-AIR,Electronic
+614,HiLLOWEEN,Hi Hidden Club,2023-10-28 00:00:00+00,0001-01-01 00:00:00+00,Jawa Barat,Indonesia,"Hi Hidden Club Jl. Dr. Setiabudi No. 35, Pasteur, Kec. Sukajadi, Kota Bandung, 40161",44.0,,SHOWCASE & INDUSTRY,Electronic
+615,Lockdown – Live Performance,Level Up,2025-08-16 00:00:00+00,0001-01-01 00:00:00+00,Port Macquarie,Australia,"Port Macquarie, NSW, Australia",44.0,,SHOWCASE & INDUSTRY,Electronic
+616,Dancing Dead (ADE),Dancing Dead / Marnik & Friends,2025-10-23 00:00:00+00,0001-01-01 00:00:00+00,Amsterdam,Netherlands,Club Up,44.0,,CLUB & NIGHTLIFE,Techno
+617,Flicker – Upcoming Acts Showcase,Flicker Mildura,2025-08-19 00:00:00+00,0001-01-01 00:00:00+00,Mildura,Australia,"99 Langtree Ave, Mildura VIC 3500, Australia",44.0,,SHOWCASE & INDUSTRY,Electronic
+618,Flicker – Upcoming Acts Showcase,Flicker Mildura,2025-08-19 00:00:00+00,0001-01-01 00:00:00+00,Mildura,Australia,"99 Langtree Ave, Mildura VIC 3500, Australia",44.0,,SHOWCASE & INDUSTRY,Electronic
+619,Nexchapter (ADE),Nexchapter,2025-10-24 00:00:00+00,0001-01-01 00:00:00+00,Amsterdam,Netherlands,Prime Club,44.0,,CLUB & NIGHTLIFE,Electronic
+620,Beats On Tap,Party in the Alley,2025-09-20 00:00:00+00,0001-01-01 00:00:00+00,Ringwood,Australia,"25 Lacey St, Ringwood VIC, Australia",44.0,,CLUB & NIGHTLIFE,Electronic
+621,Cloud Nine Invades Bendigo,Soundbar Bendigo,2025-08-29 00:00:00+00,0001-01-01 00:00:00+00,Bendigo,Australia,"54 Bull Street, Bendigo VIC, Australia",44.0,,CLUB & NIGHTLIFE,Electronic
+622,Lebanon Meza Lounge — DJ & Dinner Club,Lebanon Meza Lounge,2025-09-28 00:00:00+00,0001-01-01 00:00:00+00,Stockholm,Sweden,"Tegnérgatan 16, 113 58",44.0,,FESTIVAL & OPEN-AIR,Techno
+623,Garden at 528 Ibiza — Kaluki x 528,528 Ibiza / Kaluki,2025-09-26 00:00:00+00,0001-01-01 00:00:00+00,Ibiza,Spain,"528 Ibiza, Ctra. Sant Antoni, Km 9.5, 07820 Sant Antoni de Portmany",44.0,,SHOWCASE & INDUSTRY,Techno
+624,Garden at 528 Ibiza,528 Ibiza / Kaluki,2025-08-05 00:00:00+00,0001-01-01 00:00:00+00,Ibiza,Spain,"528 Ibiza, Ctra. Sant Antoni, Km 9.5, 07820 Sant Antoni de Portmany",44.0,,FESTIVAL & OPEN-AIR,-
+625,Garden at 528 Ibiza,528 Ibiza / Kaluki,2025-08-05 00:00:00+00,0001-01-01 00:00:00+00,Ibiza,Spain,"528 Ibiza, Ctra. Sant Antoni, Km 9.5, 07820 Sant Antoni de Portmany",44.0,,FESTIVAL & OPEN-AIR,-
+626,Pikes Presents – 528 Ibiza (Flash),528 Ibiza / Pikes Ibiza,2025-08-05 00:00:00+00,0001-01-01 00:00:00+00,Ibiza,Spain,"528 Ibiza, Ctra. Sant Antoni, Km 9.5, 07820 Sant Antoni de Portmany",44.0,,FESTIVAL & OPEN-AIR,House
+627,Café Mambo Ibiza – ICN Showcase,ICN Ibiza / Café Mambo,2025-08-01 00:00:00+00,0001-01-01 00:00:00+00,Ibiza,Spain,"Café Mambo, Carrer Vara de Rey 3, Sant Antoni de Portmany, Ibiza, Spain",44.0,,SHOWCASE & INDUSTRY,House
+628,Hello,Hello,2025-11-05 00:00:00+00,0001-01-01 00:00:00+00,Birmingham,United Kingdom,Leeghwaterlaan 14,44.0,,TOURS & SPECIAL FORMATS,Hardcore
+629,test past artist event (timeline),see,2025-11-03 00:00:00+00,0001-01-01 00:00:00+00,'s-Hertogenbosch,Netherlands,Leeghwaterlaan 14,44.0,,CLUB & NIGHTLIFE,Trance
+630,again updated test event,asdf,2025-11-03 00:00:00+00,0001-01-01 00:00:00+00,asdf,asdf,adsd,44.0,,FESTIVAL & OPEN-AIR,Trance
+631,Event 1 updated,asdf,2025-11-03 00:00:00+00,0001-01-01 00:00:00+00,asdf,asdf,asdf,44.0,,TOURS & SPECIAL FORMATS,Disco
+633,KOEMPEL COLLECTIVE Presents: SCHUILKELDER,,2023-12-02 22:00:00+00,2023-12-03 03:00:00+00,Heerlen,Netherlands,"Dautzenbergstraat 28A, Heerlen, Netherlands",101.0,,CLUB & NIGHTLIFE,Techno
+634,KOEMPEL COLLECTIVE Presents: DE LOSVLOER,,2024-04-20 21:00:00+00,2024-04-21 04:00:00+00,Heerlen,Netherlands,Heerlen City Center,101.0,,CLUB & NIGHTLIFE,Techno
+635,Hard Surface – A Raving Experience,,2024-11-09 22:00:00+00,2024-11-10 05:00:00+00,Heerlen,Netherlands,"Maastrichterstraat 200, 6411 CX",101.0,,CLUB & NIGHTLIFE,Techno
+636,Hard Surface – A Raving Experience,,2025-03-29 23:00:00+00,2025-03-30 05:00:00+00,Limburg,Netherlands,"Popodium Nieuwe Nor, Maastrichterstraat 200, 6411 CX Heerlen",101.0,,CLUB & NIGHTLIFE,Techno
+637,CARBON RITUAL – EP Release Party,,2025-07-18 22:00:00+00,2025-07-19 02:00:00+00,Heerlen,Netherlands,Outpoet,101.0,,SHOWCASE & INDUSTRY,Techno
+638,Hard Surface: A Raving Experience – Chapter 3,,2025-10-17 23:00:00+00,2025-10-18 05:00:00+00,Limburg,Netherlands,Poppodium Nieuwe Nor Heerlen,101.0,,CLUB & NIGHTLIFE,Techno
+639,Hard Surface,,2026-04-18 22:00:00+00,2026-04-19 05:00:00+00,Limburg,Netherlands,Poppodium Nieuwe Nor Heerlen,101.0,,SHOWCASE & INDUSTRY,Techno
+640,TENET Presents: EXIST,,2025-10-18 22:00:00+00,2025-10-19 04:00:00+00,Utrecht,Netherlands,Club Poema,104.0,,CLUB & NIGHTLIFE,House
+641,The Bulldog Rave,,2025-12-18 22:00:00+00,2025-12-19 03:00:00+00,Amsterdam,Netherlands,The Bulldog Palace,104.0,,CLUB & NIGHTLIFE,House
+642,EXIST at The NEX,,2025-11-21 08:30:00+00,2025-11-22 02:30:00+00,Castricum,Netherlands,"Dorpsstraat 37, 1901 EH",104.0,,CLUB & NIGHTLIFE,House
+643,TENET Presents: CORE,,2025-11-08 22:00:00+00,2025-11-09 03:00:00+00,Alphen aan den Rijn,Netherlands,"Club De Generaal, Alphen a/d Rijn",105.0,,CLUB & NIGHTLIFE,House
+644,TENET Presents: EXIST,,2025-10-18 22:00:00+00,2025-10-19 03:00:00+00,Utrecht,Netherlands,Club Poema,105.0,,CLUB & NIGHTLIFE,Techno
+645,Rammen Maar: 15 Years of SYSTEM OVERLOAD,,2025-11-28 21:00:00+00,2025-11-29 02:30:00+00,Castricum,Netherlands,"Dorpsstraat 37, 1901 EH",105.0,,CLUB & NIGHTLIFE,Techno
+646,EXIST at The NEX,,2025-11-21 20:30:00+00,2025-11-22 02:30:00+00,Castricum,Netherlands,The NEX,105.0,,CLUB & NIGHTLIFE,Techno
+772,Proxima B,SILSAN,2024-04-13 00:00:00+00,0001-01-01 00:00:00+00,München,Germany,"Feierwerk Hansastrasse 39, 81373",44.0,,CLUB & NIGHTLIFE,Techno
+648,BOOST YOUR SUGAR,GIRLAXY,2025-10-26 00:00:00+00,0001-01-01 00:00:00+00,Amsterdam,Netherlands,Britton's Bakery Ferdinand Bolstraat 168H,44.0,,SHOWCASE & INDUSTRY,Techno
+649,PHANTOM GROUP - Hard techno rave,RIZE,2025-10-14 00:00:00+00,0001-01-01 00:00:00+00,Amsterdam,Netherlands,"John Doe Rembrandtplein 31, 1017 CT",44.0,,CLUB & NIGHTLIFE,Techno
+650,PHANTOM GROUP w MIESØ,RIZE,2025-09-02 00:00:00+00,0001-01-01 00:00:00+00,Amsterdam,Netherlands,"John Doe Rembrandtplein 31, 1017 CT",44.0,,CLUB & NIGHTLIFE,Techno
+651,BASIS Talent Night,BASIS,2025-08-15 00:00:00+00,0001-01-01 00:00:00+00,Utrecht,Netherlands,BASIS Oudegracht aan de Werf 97 3511 AL,44.0,,CLUB & NIGHTLIFE,Techno
+652,RAVING CHARLIE: Hard Techno ,RavingCharlie,2025-03-12 00:00:00+00,0001-01-01 00:00:00+00,Amsterdam,Netherlands,iNN Amsterdam Lijnbaansgracht 238,44.0,,CLUB & NIGHTLIFE,Techno
+653,RAVING CHARLIE: Hard Techno / Rave w/ ØTRACK [IT] / DAISIMØND / AMSIES / MIESØ,Raving Charlie,2025-03-12 00:00:00+00,0001-01-01 00:00:00+00,Amsterdam,The Netherlands,"Lijnbaansgracht 238, Amsterdam",44.0,,CLUB & NIGHTLIFE,Techno
+654,DuysteR,DuysteR,2025-11-29 00:00:00+00,0001-01-01 00:00:00+00,Nijmegen,Netherlands,"Carolus Bioscoop 16 Tweede Walstraat, Gelderland, 6511LV",44.0,,CLUB & NIGHTLIFE,Techno
+655,20kHz x TrapLabRadio,20kHz,2025-11-28 00:00:00+00,0001-01-01 00:00:00+00,Venlo,The Netherlands,"Poppodium Grenswerk Peperstraat 10, 5911 HA",44.0,,FESTIVAL & OPEN-AIR,Disco
+656,Bram 'n Bass,Bram 'n Bass,2025-11-22 00:00:00+00,0001-01-01 00:00:00+00,Nijmegen,Netherlands,"Merleyn Hertogstraat 13, 6511 RV",44.0,,CLUB & NIGHTLIFE,Drum & Bass
+657,RAVELAND,Amsterdam Nights,2025-11-12 00:00:00+00,0001-01-01 00:00:00+00,Amsterdam,Netherlands,"John Doe Rembrandtplein 31, 1017 CT",44.0,,CLUB & NIGHTLIFE,Techno
+658,PHANTOM GROUP ,PHANTOM GROUP,2025-10-14 00:00:00+00,0001-01-01 00:00:00+00,Amsterdam,Netherlands,"John Doe Rembrandtplein 31, 1017 CT",44.0,,CLUB & NIGHTLIFE,Techno
+659,"Once unseen, now on scene",M-BIA Event Promotion,2025-08-29 00:00:00+00,0001-01-01 00:00:00+00,Berlin,Germany,"M-BIA Dircksenstr. 123, 10178",44.0,,FESTIVAL & OPEN-AIR,Techno
+660,Antiguo Festival,Antiguo,2025-11-21 00:00:00+00,0001-01-01 00:00:00+00,Antiguo,Spain,Parque de Nicolás Salmerón Nº 9 (Antiguo Madchester Club),44.0,,CLUB & NIGHTLIFE,Techno
+661,JALEO MUSIC: THE NEW ERA,Jaleo Music,2024-01-20 00:00:00+00,0001-01-01 00:00:00+00,Almería,Spain,Complejo Jaleo Music,44.0,,CLUB & NIGHTLIFE,Techno
+662,WohnzimmerTechno Indoor Festival ,WohnzimmerTechnoBerlin,2025-11-28 00:00:00+00,0001-01-01 00:00:00+00,Berlin,Germany,"Void Club Wiesenweg 5, 10365",44.0,,CLUB & NIGHTLIFE,Techno
+663,Liquid Night invites NoNameLeft All Night Long,Liquid Night,2025-11-22 00:00:00+00,0001-01-01 00:00:00+00,Budapest,Hungary,A38 Petőfi Bridge; 1114; Budai alsó rakpart,44.0,,CLUB & NIGHTLIFE,Techno
+664,Grauzone x TURBO Label Night,Grauzone,2025-09-06 00:00:00+00,0001-01-01 00:00:00+00,Munich,Germany ,"Legal Sendlinger Tor, Thalkirchener Strasse 2, 80337 Munchen",44.0,,SHOWCASE & INDUSTRY,Techno
+665,PrachtNACHT,Pracht_FFM,2025-07-19 00:00:00+00,0001-01-01 00:00:00+00,Frankfurt,Germany,"Pracht Niddastr. 54, 60327 am Main",44.0,,CLUB & NIGHTLIFE,Techno
+666,Praerie Festival,Praerie Festival,2025-07-12 00:00:00+00,0001-01-01 00:00:00+00,München,Germany,"Bahnwärter Thiel Tumblingerstraße 29, 80333",44.0,,FESTIVAL & OPEN-AIR,Techno
+667,Spectral,,2025-07-12 00:00:00+00,0001-01-01 00:00:00+00,Austria,Vienna,FLUCC Praterstern 5; 1020,44.0,,CLUB & NIGHTLIFE,Techno
+668,Quantum Awakening Festival,Brooklyn Electric Group,2025-05-23 00:00:00+00,0001-01-01 00:00:00+00,New Jersey,United States of America,"Hammonton, New Jersey",44.0,,FESTIVAL & OPEN-AIR,Trance
+669,Birgits Weekender ,Birgit & Beer,2025-05-02 00:00:00+00,0001-01-01 00:00:00+00,Berlin,Germany,"Birgit Schleusenufer 3, 10997 ",44.0,,FESTIVAL & OPEN-AIR,Techno
+670,Free Open Air & Demonstration,Praerie Festival,2025-05-01 00:00:00+00,0001-01-01 00:00:00+00,Berlin,Germany,"Tempelhofer Feld Tempelhofer Damm, 12101",44.0,,FESTIVAL & OPEN-AIR,Techno
+671,TECHNOGENIX,Yalta,2025-03-29 00:00:00+00,0001-01-01 00:00:00+00,Sofia,Bulgaria,Yalta Club 20 Tzar Osvoboditel Blvd 1000,44.0,,CLUB & NIGHTLIFE,Techno
+672,Liquid Night invites NoNameLeft,Liquid Night,2025-02-06 00:00:00+00,0001-01-01 00:00:00+00,Budapest,Hungary,"Turbina Budapest, Vajdahunyad street 4., 1082",44.0,,CLUB & NIGHTLIFE,Techno
+673,madhaūs presents: UNDRGRND RETURNS,madhaūs,2025-01-10 00:00:00+00,0001-01-01 00:00:00+00,Saudi Arabia ,Saudi Arabia ,Rhythm Studio 7,44.0,,FESTIVAL & OPEN-AIR,Techno
+674,Antrieb #29 w// Nonameleft,The White Rabbit,2024-12-06 00:00:00+00,0001-01-01 00:00:00+00,Berlin,Germany,"The White Rabbit Revaler Str 99, 10245",44.0,,FESTIVAL & OPEN-AIR,Techno
+773,Cosmic Connection,Relinquo,2024-02-01 00:00:00+00,0001-01-01 00:00:00+00,Wien,Austria,"Kramladen U-Bahnbogen 39-40, Lerchenfeldergürtel, 1080",44.0,,CLUB & NIGHTLIFE,Techno
+675,WohnzimmerTechno X ONYX,WohnzimmerTechno,2024-11-23 00:00:00+00,0001-01-01 00:00:00+00,Berlin,Germany,"Void Club Wiesenweg 5, 10365",44.0,,FESTIVAL & OPEN-AIR,Techno
+676,KOSMOS with NoNameLeft,elipamanoke,2024-11-16 00:00:00+00,0001-01-01 00:00:00+00,Leipzig,Germany,"elipamanoke Markranstädter Straße 4, 04229",44.0,,CLUB & NIGHTLIFE,Techno
+677,Mainground Sessions A38,Liquid Night x Mainground Music x Belocca,2024-10-19 00:00:00+00,0001-01-01 00:00:00+00,Budapest,Hungary,A38 Petőfi Bridge; 1114; Budai alsó rakpart,44.0,,CLUB & NIGHTLIFE,Techno
+678,Dusk Till Dawn Ep.3,HOUSE,2024-09-20 00:00:00+00,0001-01-01 00:00:00+00,Toronto,Canada,Secret Location,44.0,,CLUB & NIGHTLIFE,Techno
+679,Deep Pool,Deep Pool,2024-08-24 00:00:00+00,0001-01-01 00:00:00+00,Petőfibánya,Hungary,"TBA - Petőfibánya, located 70 km from Budapest.",44.0,,CLUB & NIGHTLIFE,Techno
+680,Bachblyten Festival,Bachblyten Festival,2024-07-26 00:00:00+00,0001-01-01 00:00:00+00,Husum-Schwesing,Germany,"Flugplatz Schwesing Husum Am Flugplatz, 25813 ",44.0,,CLUB & NIGHTLIFE,Techno
+681,Maurice Mino invites,Ritter Butzke,2024-07-12 00:00:00+00,0001-01-01 00:00:00+00,Berlin,Germany,Ritter Butzke Ritterstrasse 26; Kreuzberg; 10969,44.0,,CLUB & NIGHTLIFE,Techno
+682,Puzzles #7 feat. NoNameLeft & Kate Hex,Puzzles Records,2024-06-07 00:00:00+00,0001-01-01 00:00:00+00,Sydney,Australia,Secret Location,44.0,,CLUB & NIGHTLIFE,Techno
+683,Puzzles #6 feat. NoNameLeft & Kate Hex,Puzzles Records,2024-06-01 00:00:00+00,0001-01-01 00:00:00+00,Sydney,Australia,Secret Location,44.0,,CLUB & NIGHTLIFE,Techno
+684,Liquid Night x Pacha Barcelona ,Liquid Night,2024-05-25 00:00:00+00,0001-01-01 00:00:00+00,Budapest,Hungary,"Fabrika 1. Bogdani St, 1033",44.0,,CLUB & NIGHTLIFE,Techno
+685,Project: Undergrunn vol.4 - Dimensional Drift,Disrupt,2024-04-19 00:00:00+00,0001-01-01 00:00:00+00,Laksevåg,Norway,"Smien Damsgårdsveien 227, 5160",44.0,,CLUB & NIGHTLIFE,Techno
+686,Elektrisch,,2024-03-23 00:00:00+00,0001-01-01 00:00:00+00,Nürnberg,Germany,"Die Rakete Vogelweiherstraße 64, 90441",44.0,,CLUB & NIGHTLIFE,Techno
+687,Lunar New Year Celebrations,Pure Black Events,2024-02-10 00:00:00+00,0001-01-01 00:00:00+00,Helsinki ,Slovakia,KAFÉ KOMA 87,44.0,,CLUB & NIGHTLIFE,Techno
+688,Liquid Night,Liquid Night,2024-01-20 00:00:00+00,0001-01-01 00:00:00+00,Budapest,Hungary,Fabrika 1. Bogdani St 1033,44.0,,CLUB & NIGHTLIFE,Techno
+689,With You pres. NoNameLeft,With You,2023-06-30 00:00:00+00,0001-01-01 00:00:00+00,Cape Town,South Africa,"District 61 Harrington Street, 7925",44.0,,FESTIVAL & OPEN-AIR,Techno
+691,Unseen Berlin 2.0,M-BIA,2025-08-29 00:00:00+00,0001-01-01 00:00:00+00,Berlin,Germany,"Dircksenstraße 123, 10178",44.0,,CLUB & NIGHTLIFE,-
+692,Unseen Berlin 2.0,M-BIA,2025-08-29 00:00:00+00,0001-01-01 00:00:00+00,Berlin,Germany,"Dircksenstraße 123, 10178",44.0,,CLUB & NIGHTLIFE,Techno
+694,Play Thing,BCR Group,2019-10-12 00:00:00+00,0001-01-01 00:00:00+00,Seoul,Republic of Korea,"BBCB: Beton Brut+Concrete Bar B2 22, Bogwang-ro 60-gil, Yongsan-gu",44.0,,CLUB & NIGHTLIFE,Techno
+695,Monika - Pulsar EP Release Party with Friends,Pulsar,2019-09-27 00:00:00+00,0001-01-01 00:00:00+00,Seoul,Republic of Korea,"Villain B1, Itaewon-ro 203, Yongsan-gu⠀",44.0,,CLUB & NIGHTLIFE,House
+696,Burning Man Decompression 2025,Burning Man,2025-10-18 00:00:00+00,0001-01-01 00:00:00+00,Oakland,Calafornia,The Loom,44.0,,FESTIVAL & OPEN-AIR,House
+697,Concrete Bar_play Thing,BCR Group,2019-09-16 00:00:00+00,0001-01-01 00:00:00+00,Seoul,Republic of Korea,"BBCB: Beton Brut+Concrete Bar B2 22, Bogwang-ro 60-gil, Yongsan-gu",44.0,,CLUB & NIGHTLIFE,Techno
+698,Sober Morning Coffee Rave,Jad Alshurbaji,2025-11-29 00:00:00+00,0001-01-01 00:00:00+00,Amsterdam,Netherlands,"Vessel Amsterdam, 1014 ZG, Revaleiland 500",44.0,,CLUB & NIGHTLIFE,Techno
+699,TM Residence,TM Residence,2025-11-07 00:00:00+00,0001-01-01 00:00:00+00,Amsterdam,Netherlands,"Toekomstmuziek Danzigerbocht 29, 1013 AM",44.0,,CLUB & NIGHTLIFE,Techno
+700,ADE Lowfriends Invites,The Black Dog,2025-10-25 00:00:00+00,0001-01-01 00:00:00+00,Amsterdam,Netherlands,The Black Dog,44.0,,SHOWCASE & INDUSTRY,Techno
+701,Sober Morning Coffee Rave,TSC Amsterdm Marathon Edition,2025-10-18 00:00:00+00,0001-01-01 00:00:00+00,Amsterdam,Netherlands,"Vessel Amsterdam, 1014 ZG, Revaleiland 500",44.0,,CLUB & NIGHTLIFE,Techno
+702,Resonate – Trance Classics,ROJO,2025-03-30 00:00:00+00,0001-01-01 00:00:00+00,Jersey,United Kingdom,ROJO,44.0,,CLUB & NIGHTLIFE,Techno
+703,Bank Holiday Special – Quemard B2B Lucuz (All Night),The Mary Rose,2024-08-25 00:00:00+00,0001-01-01 00:00:00+00,Jersey,United Kingdom,The Mary Rose,44.0,,SHOWCASE & INDUSTRY,Techno
+704,Resonate Trance Classics – Boat Party,Sunset boat experience,2025-09-20 00:00:00+00,0001-01-01 00:00:00+00,Jersey,Channel Islands,Channel Islands,44.0,,CLUB & NIGHTLIFE,Techno
+705,Resonate – Trance Classics,Resonate,2025-10-07 00:00:00+00,0001-01-01 00:00:00+00,Jersey,Channel Islands,ROJO,44.0,,SHOWCASE & INDUSTRY,Trance
+706,Resonate – Trance Classics,Resonate,2024-03-09 00:00:00+00,0001-01-01 00:00:00+00,Jersey,Channel Islands,Jersey Club,44.0,,CLUB & NIGHTLIFE,Trance
+707,ORKA x MIA MAO,ORKA,2025-11-20 00:00:00+00,0001-01-01 00:00:00+00,Lille,France,Mia Mao,44.0,,CLUB & NIGHTLIFE,Techno
+708,ORKA Records – Première Vague,ORKA,2025-10-25 00:00:00+00,0001-01-01 00:00:00+00,Paris,France,"4 Quai Saint-Bernard, 75005",44.0,,CLUB & NIGHTLIFE,Techno
+709,SAKRAL,SAKRAL,2025-09-06 00:00:00+00,0001-01-01 00:00:00+00,Paris,France,"Mia Mao 12A Rue Ella Fitzgerald, 75019",44.0,,CLUB & NIGHTLIFE,Techno
+710,ORKA x SAKRAL: Popof / Anna Reusch / Skollaris,"ORꓘA, Sakral and Skøllaris",2025-01-04 00:00:00+00,0001-01-01 00:00:00+00,Paris,France,"4 Quai Saint-Bernard , 75005",44.0,,CLUB & NIGHTLIFE,Techno
+711,Birgits Weekender,Birgit x Skøllaris,2024-07-05 00:00:00+00,0001-01-01 00:00:00+00,Berlin,Germany,"Schleusenufer 3, 10997",44.0,,CLUB & NIGHTLIFE,Techno
+712,ORꓘA x Badaboum,"ORꓘA, BADABOUM and Skøllaris",2024-05-24 00:00:00+00,0001-01-01 00:00:00+00,Paris,France,"BADABOUM Code 69, Rue des Taillandiers, 75011",44.0,,CLUB & NIGHTLIFE,Techno
+713,BEWONDER," BEWONDER Collective, Jonathan Guéguen",2024-04-20 00:00:00+00,0001-01-01 00:00:00+00,Paris,France,"Warehouse 47.201435, -1.572869",44.0,,CLUB & NIGHTLIFE,Techno
+714,ORꓘA invites,"ORꓘA, Skøllaris",2024-03-09 00:00:00+00,0001-01-01 00:00:00+00,Paris,France,"ORKA Club 5 Quai Saint-Bernard, 75005",44.0,,CLUB & NIGHTLIFE,Techno
+715,ORꓘA x SBB,"ORꓘA, Skøllaris and Joseph Disco",2023-09-16 00:00:00+00,0001-01-01 00:00:00+00,Paris,France,"ORKA CLUB 5 Quai Saint-Bernard, 75005",44.0,,CLUB & NIGHTLIFE,Techno
+716,ORKA SAISON II,ORꓘA and Skøllaris,2023-11-24 00:00:00+00,0001-01-01 00:00:00+00,Paris,France,"ORꓘA 5 Quai Saint-Bernard, 75005",44.0,,CLUB & NIGHTLIFE,Techno
+717,Shut Up and Dance,,2026-01-30 23:00:00+00,2026-01-31 07:00:00+00,Amsterdam,Netherlands,"John Doe Rembrandtplein 31, 1017 CT",70.0,,CLUB & NIGHTLIFE,Techno
+718,RAVEGROUND,,2026-01-31 23:00:00+00,2026-02-01 07:00:00+00,Amsterdam,Netherlands,"John Doe Rembrandtplein 31, 1017 CT",70.0,,CLUB & NIGHTLIFE,Techno
+719,No Sundays Without Techno,,2026-02-01 23:00:00+00,2026-02-02 07:00:00+00,Amsterdam,Netherlands,"John Doe Rembrandtplein 31, 1017 CT",70.0,,CLUB & NIGHTLIFE,Techno
+720,FUNK DE NACHT x UNDRGRND,,2026-02-06 23:00:00+00,2026-02-07 07:00:00+00,Amsterdam,Netherlands,"John Doe Rembrandtplein 31, 1017 CT",70.0,,CLUB & NIGHTLIFE,Techno
+721,No Sundays Without Techno,,2026-02-08 23:00:00+00,2026-02-09 04:00:00+00,Amsterdam,Netherlands,"John Doe Rembrandtplein 31, 1017 CT",70.0,,CLUB & NIGHTLIFE,Techno
+722,DRVN x UNDRGRND,,2026-02-13 23:00:00+00,2026-02-14 07:00:00+00,Amsterdam,Netherlands,"John Doe Rembrandtplein 31, 1017 CT",70.0,,CLUB & NIGHTLIFE,Techno
+723,No Sundays Without Techno,,2026-02-14 23:00:00+00,2026-02-15 04:00:00+00,Amsterdam,Netherlands,"John Doe Rembrandtplein 31, 1017 CT",70.0,,CLUB & NIGHTLIFE,Techno
+724,CODE 303 x UNDRGRND,,2026-02-20 23:00:00+00,2026-02-21 07:00:00+00,Amsterdam,Netherlands,"John Doe Rembrandtplein 31, 1017 CT",70.0,,CLUB & NIGHTLIFE,Techno
+725,No Sundays Without Techno,,2026-02-22 23:00:00+00,2026-02-23 04:00:00+00,Amsterdam,Netherlands,"John Doe Rembrandtplein 31, 1017 CT",70.0,,CLUB & NIGHTLIFE,Techno
+726,No Sundays Without Techno,,2025-11-30 23:00:00+00,2025-12-01 04:00:00+00,Amsterdam,Netherlands,"John Doe Rembrandtplein 31, 1017 CT",70.0,,CLUB & NIGHTLIFE,Techno
+727,Syntherklass x UNDRGRND,,2025-12-05 23:00:00+00,2025-12-06 07:00:00+00,Amsterdam,Netherlands,"John Doe Rembrandtplein 31, 1017 CT",70.0,,CLUB & NIGHTLIFE,Techno
+728,No Sundays Without Techno,,2025-12-07 23:00:00+00,2025-12-08 07:00:00+00,Amsterdam,Netherlands,"John Doe Rembrandtplein 31, 1017 CT",70.0,,CLUB & NIGHTLIFE,Techno
+729,Get Your Groove On,,2025-12-12 23:00:00+00,2025-12-13 07:00:00+00,Amsterdam,Netherlands,"John Doe Rembrandtplein 31, 1017 CT",70.0,,CLUB & NIGHTLIFE,Techno
+730,No Sundays Without Techno,,2025-12-14 23:00:00+00,2025-12-15 04:00:00+00,Amsterdam,Netherlands,"John Doe Rembrandtplein 31, 1017 CT",70.0,,CLUB & NIGHTLIFE,Techno
+731,CODE 303 x UNDRGRND,,2025-12-19 23:00:00+00,2025-12-20 07:00:00+00,Amsterdam,Netherlands,"John Doe Rembrandtplein 31, 1017 CT",70.0,,CLUB & NIGHTLIFE,Techno
+732,No Sundays Without Techno,,2025-12-21 23:00:00+00,2025-12-22 04:00:00+00,Amsterdam,Netherlands,"John Doe Rembrandtplein 31, 1017 CT",70.0,,CLUB & NIGHTLIFE,Techno
+733,Christmas Special x UNDRGRND,,2025-12-26 23:00:00+00,2025-12-27 07:00:00+00,Amsterdam,Netherlands,"John Doe Rembrandtplein 31, 1017 CT",70.0,,CLUB & NIGHTLIFE,Techno
+734,No Sundays Without Techno,,2025-12-28 23:00:00+00,2025-12-29 04:00:00+00,Amsterdam,Netherlands,"John Doe Rembrandtplein 31, 1017 CT",70.0,,CLUB & NIGHTLIFE,Techno
+735,First Groove 2026,,2026-01-02 23:00:00+00,2026-01-03 07:00:00+00,Amsterdam,Netherlands,"John Doe Rembrandtplein 31, 1017 CT",70.0,,CLUB & NIGHTLIFE,Techno
+736,No Sundays Without Techno,,2026-01-04 23:00:00+00,2026-01-05 04:00:00+00,Amsterdam,Netherlands,"John Doe Rembrandtplein 31, 1017 CT",70.0,,CLUB & NIGHTLIFE,Techno
+737,CODE 303 x UNDRGRND,,2026-01-09 11:00:00+00,2026-01-10 07:00:00+00,Amsterdam,Netherlands,"John Doe Rembrandtplein 31, 1017 CT",70.0,,CLUB & NIGHTLIFE,Techno
+738,No Sundays Without Techno,,2026-01-11 23:00:00+00,2026-01-12 04:00:00+00,Amsterdam,Netherlands,"John Doe Rembrandtplein 31, 1017 CT",70.0,,CLUB & NIGHTLIFE,Techno
+739,Spectroom x UNDRGRND,,2026-01-16 23:00:00+00,2026-01-17 07:00:00+00,Amsterdam,Netherlands,"John Doe Rembrandtplein 31, 1017 CT",70.0,,CLUB & NIGHTLIFE,Techno
+740,No Sundays Without Techno,,2026-01-18 23:00:00+00,2026-01-19 04:00:00+00,Amsterdam,Netherlands,"John Doe Rembrandtplein 31, 1017 CT",70.0,,CLUB & NIGHTLIFE,Techno
+741,Get Your Groove On,,2026-01-23 23:00:00+00,2026-01-24 07:00:00+00,Amsterdam,Netherlands,"John Doe Rembrandtplein 31, 1017 CT ",70.0,,CLUB & NIGHTLIFE,Techno
+742,No Sundays Without Techno,,2026-01-25 23:00:00+00,2026-01-26 04:00:00+00,Amsterdam,Netherlands,"John Doe Rembrandtplein 31, 1017 CT",70.0,,CLUB & NIGHTLIFE,Techno
+743,Resist the Darkness,,2025-11-29 22:00:00+00,2025-11-30 04:00:00+00,Nijmegen,Netherlands,"Old Carolus Theatre, Tweede Walstraat 16",113.0,,CLUB & NIGHTLIFE,Techno
+744,CØNSTRUCT x 20kHz SPECTRA – B2B Invites Special,,2026-02-16 21:00:00+00,2026-02-17 03:00:00+00,Maastricht,Netherlands,Cavo Club,114.0,,CLUB & NIGHTLIFE,Techno
+745,20kHz Rave Resonant – Podcast Launch,,2025-11-27 16:00:00+00,2025-11-28 08:00:00+00,Nijmegen,Netherlands,Open Source Radio,115.0,,CLUB & NIGHTLIFE,Techno
+746,20kHz Silent Rave – Trance vs Techno,,2025-07-18 11:00:00+00,2025-07-19 05:00:00+00,Nijmegen,Netherlands,De Onderbroek,116.0,,TOURS & SPECIAL FORMATS,Techno
+747,Duyster – Resist the Darkness,,2025-11-29 10:00:00+00,2025-11-30 05:00:00+00,Nijmegen,Netherlands,Old Carolus Theatre Tweede Walstraat 16,116.0,,CLUB & NIGHTLIFE,Techno
+748,Traplab Radio Takeover,,2025-11-28 17:00:00+00,2025-11-29 22:00:00+00,Nijmegen,Netherlands,Traplab Radio Studio,116.0,,SHOWCASE & INDUSTRY,Techno
+749,TMT Collective x 20kHz x Koempel Collective – Berlin Premiere,,2026-02-13 22:00:00+00,2026-02-14 06:00:00+00,Berlin,Germany,M-BIA Club,116.0,,CLUB & NIGHTLIFE,Techno
+750,CØNSTRUCT x SPECTRA – B2B Invites Special,,2026-02-16 21:00:00+00,2026-02-17 03:00:00+00,Maastricht,Netherlands,CAVO,116.0,,CLUB & NIGHTLIFE,Techno
+751,Spectral with David Phoenix and Herbrido,Kramladen,2025-12-06 00:00:00+00,0001-01-01 00:00:00+00,Vienna,Austria,"Kramladen U-Bahnbogen 39-40, Lerchenfeldergürtel, 1080",44.0,,CLUB & NIGHTLIFE,Techno
+752,WAVINESS presents VISION SERPENT label night,OFF Kultur,2025-09-19 00:00:00+00,0001-01-01 00:00:00+00,Budapest,Hungary,"OFF Kultur 1045 Budapest, Berni utca 1.",44.0,,CLUB & NIGHTLIFE,Techno
+753,Somnambul BLN at das Werk Wien,Somnambul BLN,2025-05-28 00:00:00+00,0001-01-01 00:00:00+00,Vienna,Austria,"Das Werk Spittelauer Lände 12, Stadtbahnbogen 331, 1090",44.0,,CLUB & NIGHTLIFE,Techno
+754,Quantum Awakening Festival,Brooklyn Electric Group,2025-05-23 00:00:00+00,0001-01-01 00:00:00+00,New Jersey,United States of America,Hammonton,44.0,,CLUB & NIGHTLIFE,Trance
+755,Groovetide ,,2026-01-17 00:00:00+00,0001-01-01 00:00:00+00,Dalen ,Netherlands,Hoofdstraat 42,44.0,,CLUB & NIGHTLIFE,House
+756,Make a Move,,2025-11-08 00:00:00+00,0001-01-01 00:00:00+00,Rotterdam,Netherlands,Munch Rotterdam,44.0,,CLUB & NIGHTLIFE,House
+757,NYX op Vrijdag,NYX Amsterdam,2025-03-14 00:00:00+00,0001-01-01 00:00:00+00,Amsterdam,Netherlands,NYX Amsterdam,44.0,,CLUB & NIGHTLIFE,House
+758,Monasterio Session Opening ,Monasterio Moscow,2025-02-07 00:00:00+00,0001-01-01 00:00:00+00,Moscow,Russia,Rochdelskaya street 15/12 123022 Moscow,44.0,,UNDERGROUND & ALTERNATIVE,Techno
+759,OSTROM X NORMATIVE: SIEGE / HARD TECHNO /,Normative & OSTROM,2024-10-26 00:00:00+00,0001-01-01 00:00:00+00,Budapest,Hungary,Arzenal,44.0,,CLUB & NIGHTLIFE,Techno
+760,Candy Movement,Candy Movement,2025-10-11 00:00:00+00,0001-01-01 00:00:00+00,Bergamo,Italia,"Via  Vaccarezza , Osio Sopra, BG",44.0,,CLUB & NIGHTLIFE,Techno
+761,Enigma,Starnight management,2024-09-21 00:00:00+00,0001-01-01 00:00:00+00,Napoli,Italia,Centro direzionale di Napoli Isola E1,44.0,,CLUB & NIGHTLIFE,Techno
+762,Bolgia ,Candy MOvement,2025-10-11 00:00:00+00,0001-01-01 00:00:00+00,Bergamo,Italia,Via Vaccarezza,44.0,,CLUB & NIGHTLIFE,Techno
+763,Senza ID,133 records,2024-05-11 00:00:00+00,0001-01-01 00:00:00+00,Catania,Italia,new secret place,44.0,,CLUB & NIGHTLIFE,Techno
+764,Moyn x Südpol,Südpol,2025-04-26 00:00:00+00,0001-01-01 00:00:00+00,Hamburg,Germany,"Südpol Süderstraße 112, 20537",44.0,,CLUB & NIGHTLIFE,Techno
+765,Im Freudentaumel von Eben,Garten von Eben,2025-04-11 00:00:00+00,0001-01-01 00:00:00+00,Vienna,Austria,"FLUCC Praterstern 5, 1020",44.0,,CLUB & NIGHTLIFE,Techno
+766,Vision Serpent Showcase with Breger,Vision Serpent,2024-10-19 00:00:00+00,0001-01-01 00:00:00+00,Vienna,Austria,FLUCC Praterstern 5; 1020,44.0,,SHOWCASE & INDUSTRY,Techno
+767,Return to Paradise,Return to Paradise,2024-08-30 00:00:00+00,0001-01-01 00:00:00+00,New Jersey,United States of America,"Paradise Lakes Campground , Hammonton",44.0,,FESTIVAL & OPEN-AIR,Trance
+768,MONOCHROM - Rave On Society x Löwenzahn,RaveOnSociety,2024-07-27 00:00:00+00,0001-01-01 00:00:00+00,Vienna,Austria,Pratersauna Waldsteingartenstrasse 135; 1020,44.0,,CLUB & NIGHTLIFE,Techno
+775,Fortuna Im Freudentaumel,Silvester Tag & Nacht,2023-12-31 00:00:00+00,0001-01-01 00:00:00+00,Vienna,Austria,FLUCC Praterstern 5; 1020,44.0,,CLUB & NIGHTLIFE,Techno
+776,PRATERRAKETE,FLUCC,2023-11-03 00:00:00+00,0001-01-01 00:00:00+00,Vienna,Austria,FLUCC Praterstern 5; 1020,44.0,,CLUB & NIGHTLIFE,Techno
+777,Vision Serpent Label Launch ,FLUCC,2023-10-14 00:00:00+00,0001-01-01 00:00:00+00,Vienna,Austria,FLUCC Praterstern 5; 1020,44.0,,CLUB & NIGHTLIFE,Techno
+778,Subios Records Showcase with David Phoenix,Subios Records,2023-10-06 00:00:00+00,0001-01-01 00:00:00+00,Essen,Germany,Goethebunker Goethestr. 67; 45130,44.0,,SHOWCASE & INDUSTRY,Techno
+779,La Sierra Songwriting Retreats,La Sierra Casa,2025-09-03 00:00:00+00,0001-01-01 00:00:00+00,Alicante,Spain,"Near El Xinorlet / La Romana,",44.0,,FESTIVAL & OPEN-AIR,House
+780,Sam Feldt & Friends at ADE ,ADE showcase,2024-10-17 00:00:00+00,0001-01-01 00:00:00+00,Amsterdam,Netherlands,Hotel Arena,44.0,,SHOWCASE & INDUSTRY,House
+781, 125 Live!,Mill Street ,2025-09-07 00:00:00+00,0001-01-01 00:00:00+00,Scotland, United Kingdom,Mill Street,44.0,,FESTIVAL & OPEN-AIR,House
+789,CODE 303 x UNDRGRND,,2026-04-10 23:00:00+00,2026-04-11 07:00:00+00,Amsterdam ,Netherlands ,"John Doe Rembrandtplein 31, 1017 CT",70.0,,CLUB & NIGHTLIFE,Techno
+787,EXIST - The Bulldog Rave,,2026-04-09 11:00:00+00,2026-04-10 03:00:00+00,Amsterdam,Netherlands,"Leidseplein 15, Amsterdam",105.0,,TOURS & SPECIAL FORMATS,House
+790,No Sundays Without Techno,,2026-04-12 23:00:00+00,2026-04-13 03:00:00+00,Amsterdam ,Netherlands ,"John Doe Rembrandtplein 31, 1017 CT",70.0,,CLUB & NIGHTLIFE,Techno
+788,EXIST - The Bulldog Rave,,2026-04-09 10:00:00+00,2026-04-10 03:00:00+00,Amsterdam,Netherlands,"Leidseplein 15, Amsterdam",104.0,,TOURS & SPECIAL FORMATS,House
+783,Easter Special x No Sundays Without Techno,,2026-04-05 23:00:00+00,2026-04-06 07:00:00+00,Amsterdam,Netherlands,"John Doe Rembrandtplein 31, 1017 CT ",70.0,,CLUB & NIGHTLIFE,Techno
+793,No Sundays Without Techno,,2026-04-26 23:00:00+00,2026-04-27 04:00:00+00,Amsterdam ,Netherlands ,"John Doe Rembrandtplein 31, 1017 CT",70.0,,CLUB & NIGHTLIFE,Techno
+782,Melodic District x UNDRGRND,,2026-04-03 23:00:00+00,2026-04-04 07:00:00+00,Amsterdam,Netherlands,"John Doe Rembrandtplein 31, 1017",70.0,,CLUB & NIGHTLIFE,Techno
+791,Chrom Recordings 9 Years x UNDRGRND,,2026-04-17 23:00:00+00,2026-04-18 07:00:00+00,Amsterdam ,Netherland ,"John Doe Rembrandtplein 31, 1017 CT",70.0,,CLUB & NIGHTLIFE,Techno
+792,No Sundays Without Techno,,2026-04-19 23:00:00+00,2026-04-20 03:00:00+00,Amsterdam ,Netherlands ,"John Doe Rembrandtplein 31, 1017 CT",70.0,,CLUB & NIGHTLIFE,Techno
+794,Hard Techno / EASTER RAVE,,2026-04-03 23:00:00+00,2026-04-04 05:00:00+00,Amsterdam,Netherlands,Panama Oostelijke Handelskade 4; 1019,97.0,,CLUB & NIGHTLIFE,Techno
+795,Rave w/ BNJA b2b VADEY / HYPERSPECTRAL / DJOEYS,,2026-04-08 23:00:00+00,2026-04-09 04:00:00+00,Amsterdam,Netherlands,nachbar Nieuwezijds Voorburgwal 169a,97.0,,CLUB & NIGHTLIFE,Techno
+796,Hard Techno / Rave,,2026-04-17 23:00:00+00,2026-04-18 05:00:00+00,Amsterdam,Netherlands, Panama Oostelijke Handelskade 4; 1019 Zeeburg,97.0,,CLUB & NIGHTLIFE,Techno
+806,Get Your Groove On,,2026-05-15 23:00:00+00,2026-05-16 07:00:00+00,Amsterdam ,Netherlands ,John Doe,70.0,,CLUB & NIGHTLIFE,Techno
+797,Hard Techno / Rave,,2026-04-22 23:00:00+00,2026-04-23 04:00:00+00,Amsterdam,Netherlands,nachbar Nieuwezijds Voorburgwal 169a,97.0,,CLUB & NIGHTLIFE,Techno
+803,No Sundays Without Techno,,2026-05-03 23:00:00+00,2026-05-04 07:00:00+00,Amsterdam ,Netherlands ,John Doe,70.0,,CLUB & NIGHTLIFE,Techno
+807,No Sundays Without Techno,,2026-05-17 23:00:00+00,2026-05-18 07:00:00+00,Amsterdam ,Netherlands ,John Doe,70.0,,CLUB & NIGHTLIFE,Techno
+801,Night Gruuv x UNDRGRND,,2026-05-01 23:00:00+00,2026-05-02 07:00:00+00,Amsterdam,Netherlands,"John Doe Rembrandtplein 31, 1017 CT",70.0,,CLUB & NIGHTLIFE,Techno
+798,Fushion,,2026-04-10 21:00:00+00,2026-04-11 05:00:00+00,Amsterdam,Netherlands,Chin Chin Club,122.0,,CLUB & NIGHTLIFE,House
+805,No Sundays Without Techno,,2026-05-10 23:00:00+00,2026-05-11 07:00:00+00,Amsterdam ,Netherlands ,John Doe,70.0,,CLUB & NIGHTLIFE,Techno
+808,No Sundays Without Techno,,2026-05-24 23:00:00+00,2026-05-25 07:00:00+00,Amsterdam ,Netherlands ,John Doe,70.0,,CLUB & NIGHTLIFE,Techno
+804,Endless Amsterdam,,2026-05-08 23:00:00+00,2026-05-09 07:00:00+00,Amsterdam ,Netherlands ,John Doe,70.0,,CLUB & NIGHTLIFE,Techno
+802,RAVEGROUND - Hard Techno & Hard Bounce,,2026-05-02 23:00:00+00,2026-05-03 07:00:00+00,Amsterdam ,Netherlands ,John Doe,70.0,,CLUB & NIGHTLIFE,House
+819,Hospitality x HIGH TEA present: Hospital30 Amsterdam,,2026-06-06 14:00:00+00,2026-06-06 23:00:00+00,Amsterdam,The Netherlands,Tt. Vasumweg 171,129.0,,FESTIVAL & OPEN-AIR,-
+823,RYFT - HYPERSPACE ,RYFT ,2026-03-21 00:00:00+00,-infinity,Gauteng ,South Africa,At the River,,,CLUB & NIGHTLIFE,-
+817,HIGH TEA Presents: Souped UP Amsterdam,,2026-05-08 23:30:00+00,2026-05-09 05:30:00+00,Amsterdam,The Netherlands,"Lijnbaansgracht 234A, 1017 PH",129.0,,CLUB & NIGHTLIFE,-
+825,Raving Charlie,Raving Charlie,2025-11-19 00:00:00+00,-infinity,Amsterdam,Netherlands,"Nieuwezijds Voorburgwal 169, 1012 RK ",,,CLUB & NIGHTLIFE,-
+824,The Temple - Ritual of Respect ,The Temple ,2026-04-18 00:00:00+00,-infinity,Johannesburg,South Africa ,"304 Tungsten Rd, Strydompark ",,,CLUB & NIGHTLIFE,-
+818,HIGH TEA Festeaval 2026,,2026-08-15 14:00:00+00,2026-08-15 22:30:00+00,Amsterdam,The Netherlands,Basisweg 63,129.0,,FESTIVAL & OPEN-AIR,-
+820,HIGH TEA Tilburg x SUBQUAKE,,2026-09-05 14:00:00+00,2026-09-05 23:00:00+00,Tilburg,The Netherlands,"Veemarktstraat 44, 5017 HS",129.0,,FESTIVAL & OPEN-AIR,-
+816,HIGH TEA Berlin,,2026-05-09 23:59:00+00,2026-05-10 06:00:00+00,Berlin,Germany,"Obentrautstraße 19-21, 10963 Berlin",129.0,,CLUB & NIGHTLIFE,-
+827,The Temple ,,2026-05-30 00:00:00+00,-infinity,Johannesburg ,South Africa ,"Bad Manors 39 Gwi Gwi Mrwebi, Carfax Newtown",,,CLUB & NIGHTLIFE,-
+826,PHANTOM GROUP,PHANTOM GROUP,2025-11-25 00:00:00+00,-infinity,AMSTERDAM,NETHERLANDS,"Rembrandtplein 31, 1017 CT ",,,CLUB & NIGHTLIFE,-
+809,No Sundays Without Techno,,2026-05-31 23:00:00+00,2026-06-01 07:00:00+00,Amsterdam ,Netherlands ,John Doe,70.0,,CLUB & NIGHTLIFE,Techno
+800,Sonaptic Blue Wave,,2026-05-22 21:00:00+00,2026-05-23 03:00:00+00,Amsterdam,Netherlands,Leidseplein 15,126.0,,CLUB & NIGHTLIFE,House
+829,After Kingsday,,2026-04-27 21:00:00+00,2026-04-28 09:00:00+00,Amsterdam,Netherlands ,TILLATEC Doctor Jan van Breemenstraat 1; 1056 AB,131.0,,CLUB & NIGHTLIFE,-
+830,Laster invites Disturbia,,2026-04-18 23:00:00+00,2026-04-19 06:00:00+00,Madrid,Spain," The Bassement C. de Galileo, 2628015",131.0,,CLUB & NIGHTLIFE,-
+828,Summer Ed,,2026-06-06 23:00:00+00,2026-06-07 10:00:00+00,Amsterdam,Netherlands ,TILLATEC Doctor Jan van Breemenstraat 1; 1056 AB,131.0,,CLUB & NIGHTLIFE,-
+831,6 Year Anniversary,,2026-03-21 23:00:00+00,2026-03-22 09:00:00+00,Amsterdam ,Netherlands , TILLATEC Doctor Jan van Breemenstraat 1; 1056 AB,131.0,,CLUB & NIGHTLIFE,-
+840,Radiant x UNDRGRND,,2026-05-22 23:00:00+00,2026-05-23 07:00:00+00,Amsterdam,Netherlands ,"John Doe Rembrandtplein 31, 1017 CT",70.0,,CLUB & NIGHTLIFE,-
+832,Third Room,,2025-12-14 09:00:00+00,2025-12-14 20:00:00+00,Amsterdam,Netherlands ,TILLATEC Doctor Jan van Breemenstraat 1; 1056 AB,131.0,,FESTIVAL & OPEN-AIR,-
+837,Disturbia,,2024-09-21 23:00:00+00,2024-09-22 10:00:00+00,Amsterdam,Netherlands ,"Rasa86 Gedempt Hamerkanaal 86, 1021 KR",131.0,,CLUB & NIGHTLIFE,-
+833,Sk_Eleven,,2025-10-24 23:00:00+00,2025-10-25 10:00:00+00,Amsterdam,Netherlands ,TILLATEC Doctor Jan van Breemenstraat 1; 1056 AB,131.0,,CLUB & NIGHTLIFE,-
+834,After Kings Day,,2025-04-26 23:00:00+00,2025-04-27 06:00:00+00,Amsterdam,Netherlands ,TILLATEC Doctor Jan van Breemenstraat 1; 1056 AB,131.0,,CLUB & NIGHTLIFE,-
+835,5 Years Afterparty,,2025-03-16 08:00:00+00,2025-03-16 19:00:00+00,Amsterdam,Netherlands ,TILLATEC Doctor Jan van Breemenstraat 1; 1056 AB,131.0,,FESTIVAL & OPEN-AIR,-
+838,Disturbia,,2023-05-13 11:00:00+00,2023-05-14 08:00:00+00,Amsterdam,Netherlands,"RADION Louwesweg 1 ,1066 EA",131.0,,CLUB & NIGHTLIFE,-
+836,ADE: Disturbia x SK Eleven,,2024-10-18 20:00:00+00,2025-10-19 23:00:00+00,Amsterdam,Netherlands ,"Rasa86 Gedempt Hamerkanaal 86, 1021 KR",131.0,,CLUB & NIGHTLIFE,-
+839,Disturbia,,2023-03-11 23:00:00+00,2023-03-12 15:00:00+00,Amsterdam,Netherlands ,"RADION Louwesweg 1 ,1066 EA",131.0,,CLUB & NIGHTLIFE,-
+841,Gaya Carmeli BASH,,2026-05-29 23:00:00+00,2026-05-30 07:00:00+00,Amsterdam,Netherlands,"John Doe Rembrandtplein 31, 1017 CT",70.0,,CLUB & NIGHTLIFE,-
+843,FUTURE x HD Life - AN21 / Sikdope / Thomas Gold,Louder UK,2024-05-24 00:00:00+00,-infinity,London,United Kingdom,"103 Gaunt Street, London, SE1 6DP",,,CLUB & NIGHTLIFE,-
+844,Campo Solar,Campo Solar,2023-08-04 00:00:00+00,-infinity,Damme,Belgium,"Pijpeweg 2, 8340 Damme",,,FESTIVAL & OPEN-AIR,-
+842,Deep Horizon Ghent,Deep Horizon,2026-02-13 00:00:00+00,-infinity,Ghent,Belgium,"Klein Turkije 18-20, 9000 ",,,CLUB & NIGHTLIFE,-
+845,Deep Horizon Oslo,Deep Horizon,2025-11-15 00:00:00+00,-infinity,Oslo,Norway,"Kirsten Flagstads Plass 28, 0150 Oslo, Norway",,,CLUB & NIGHTLIFE,-
+850,Nomadic,Teknotribe ,2026-05-30 00:00:00+00,-infinity,Johannesburg ,South Africa,"39 Gwigwi Mrwebi St, Newtown, Johannesburg, 2113",,,CLUB & NIGHTLIFE,-
+846,"FUTURE presents Camden Cox, ESSEL, ManyFew",Louder UK,2024-08-23 00:00:00+00,-infinity,London,United Kingdom,"103 Gaunt Street, Elephant & Castle, London, SE1 6DP",,,CLUB & NIGHTLIFE,-
+847,Deep Horizon Bruges,Deep Horizon,2025-09-03 00:00:00+00,-infinity,Bruges,Belgium,"Zeeweg 42, 8490 Varsenare",,,FESTIVAL & OPEN-AIR,-
+851,Deep Horizon: London Debut (15/07 - Jaguar Shoes),Deep Horizon,2026-07-17 00:00:00+00,-infinity,London,United Kingdom,"32-36 Kingsland Rd, London E2 8DA, United Kingdom",,,CLUB & NIGHTLIFE,-
+854,RCL Fête: From Rotary's Heart To Yours,Rotary Club London,2025-06-14 00:00:00+00,-infinity,London,United Kingdom,"Villiers St, London, WC2N 6DU, United Kingdom",,,VENUE & COMMUNITY DRIVEN,-
+855,Horizon - The Next Chapter,Erik Scuka,2026-02-27 00:00:00+00,-infinity,Trieste,Italy,"Via Luigi Cadorna, 21a, 34123 Trieste TS",,,TOURS & SPECIAL FORMATS,-
+852,Bal des Blues 2022,Assemblée Générale des Etudiants (AGE),2022-09-26 00:00:00+00,-infinity,Namur,Belgium,"Rue de Bruxelles 61, 5000 Namur, Belgium",,,FESTIVAL & OPEN-AIR,-
+853,Bal des Blues 2022,AGE,2022-09-26 00:00:00+00,-infinity,Namur,Belgium,"Rue de Bruxelles 61, 5000 Namur",,,FESTIVAL & OPEN-AIR,-
+848,Deep Horizon Ghent,Deep Horizon,2026-02-13 00:00:00+00,-infinity,Ghent,Belgium,"Klein Turkije 18, 9000 Gent, Belgium",,,CLUB & NIGHTLIFE,-
+856,Zuke's free BYOB party,Zuke,2026-06-06 00:00:00+00,-infinity,Utrecht,The Netherlands,-,,,VENUE & COMMUNITY DRIVEN,-
+849,Deep Horizon Ghent,Deep Horizon,2026-02-13 00:00:00+00,-infinity,Ghent,Belgium,"Klein Turkije 18-20, 9000 Gent",,,CLUB & NIGHTLIFE,-

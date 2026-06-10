@@ -11,7 +11,7 @@ print("Combine csv data for artists")
 print("\n loading files")
 data_folder = '/Users/djenna/Gigevate_project/Gigevate-data (not cleaned)/gigevate-export/'
 
-# --- LOAD CSV FILES ---
+
 print("\n loading files")
 
 artists = pd.read_csv(data_folder + 'Artists.csv')
@@ -35,7 +35,7 @@ print(f" * LinkedGenres: {len(linked_genres)} rows")
 artist_details = pd.read_csv(data_folder + 'ArtistDetails.csv')
 print(f" * ArtistDetails: {len(artist_details)} rows")
 
-# rename some columns 
+# Rename some columns 
 
 # Artists
 artists_clean = artists[[

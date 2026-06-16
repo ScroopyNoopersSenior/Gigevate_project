@@ -65,13 +65,7 @@ class AvailabilityChecker:
         return event.iloc[0]
 
 
-    def has_conflict(
-        self,
-        event_start,
-        event_end,
-        booking_start,
-        booking_end
-    ):
+    def has_conflict(self, event_start, event_end, booking_start, booking_end):
 
         if pd.isna(event_start):
             return False
@@ -82,16 +76,9 @@ class AvailabilityChecker:
         if pd.isna(booking_end):
             booking_end = booking_start
 
-        booking_end = (
-            booking_end +
-            pd.Timedelta(hours=self.buffer_hours)
-        )
+        booking_end = (booking_end + pd.Timedelta(hours=self.buffer_hours))
 
-        return (
-            event_start < booking_end
-            and
-            event_end > booking_start
-        )
+        return (event_start < booking_end and event_end > booking_start)
 
 
     def get_availability_info(self, artist_id, event_id ):
@@ -255,26 +242,26 @@ class AvailabilityChecker:
 
 if __name__ == "__main__":
 
-    EVENTS_PATH = (
-        "/home/z-y-h/Gigevate_project/"
-        "cleaned-data/events_combined.csv"
-    )
+    # EVENTS_PATH = (
+    #     "/home/z-y-h/Gigevate_project/"
+    #     "cleaned-data/events_combined.csv"
+    # )
 
-    BOOKINGS_PATH = (
-        "/home/z-y-h/Gigevate_project/"
-        "Gigevate-data (not cleaned)/"
-        "gigevate-export/Bookings.csv"
-    )
+    # BOOKINGS_PATH = (
+    #     "/home/z-y-h/Gigevate_project/"
+    #     "Gigevate-data (not cleaned)/"
+    #     "gigevate-export/Bookings.csv"
+    # )
 
-    ARTISTS_PATH = (
-        "/home/z-y-h/Gigevate_project/"
-        "cleaned-data/artists_combined.csv"
-    )
+    # ARTISTS_PATH = (
+    #     "/home/z-y-h/Gigevate_project/"
+    #     "cleaned-data/artists_combined.csv"
+    # )
 
-    checker = AvailabilityChecker(
-        EVENTS_PATH,
-        BOOKINGS_PATH
-    )
+    # checker = AvailabilityChecker(
+    #     EVENTS_PATH,
+    #     BOOKINGS_PATH
+    # )
 
     # # Check availability for a specific event (Id)
     # EVENT_ID = 102  # Not available test: 111
@@ -300,20 +287,20 @@ if __name__ == "__main__":
     #        end_time="2025-08-09 02:00:00+00"
     #    )
 
-    # Not Available test: EventID = 111, Time: 2024-10-22 14:00:00+00 to 2025-10-27 06:00:00+00
-    # Not Available test: EventID = 135, Time: 2024-07-19 23:00:00+00 to 2024-07-20 04:00:00+00
-    available_artists = checker.get_available_artists(
-        ARTISTS_PATH,
-        start_time="2024-07-19 23:00:00+00",
-        end_time="2024-07-20 04:00:00+00"
-    )
+    # # Not Available test: EventID = 111, Time: 2024-10-22 14:00:00+00 to 2025-10-27 06:00:00+00
+    # # Not Available test: EventID = 135, Time: 2024-07-19 23:00:00+00 to 2024-07-20 04:00:00+00
+    # available_artists = checker.get_available_artists(
+    #     ARTISTS_PATH,
+    #     start_time="2024-07-19 23:00:00+00",
+    #     end_time="2024-07-20 04:00:00+00"
+    # )
 
-    print(available_artists.head(20))
+    # print(available_artists.head(20))
 
-    print(
-        f"\nTotal available artists: "
-        f"{len(available_artists)}"
-    )
+    # print(
+    #     f"\nTotal available artists: "
+    #     f"{len(available_artists)}"
+    # )
 
     # Count total available artists
     # count = checker.count_available_artists(

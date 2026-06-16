@@ -769,7 +769,6 @@ if __name__ == "__main__":
     print("\nUnmatched locations:")
     print(unmatched.head(30))
 
-    print("\nUnmatched locations full:")
     pd.set_option("display.max_columns", None)
     pd.set_option("display.width", 200)
 

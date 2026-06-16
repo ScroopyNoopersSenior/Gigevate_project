@@ -2,15 +2,17 @@ import pandas as pd
 import numpy as np
 import re
 from math import radians, sin, cos, sqrt, atan2
+from pathlib import Path
 
 # -----------------------------
 # 1. Load data
 # -----------------------------
 
-artists = pd.read_csv("artists_combined.csv")
-events = pd.read_csv("events_combined.csv")
-worldcities = pd.read_csv("worldcities.csv")
+BASE_DIR = Path(__file__).resolve().parent
 
+artists = pd.read_csv(BASE_DIR / "cleaned-data" / "artists_combined.csv")
+events = pd.read_csv(BASE_DIR / "cleaned-data" / "events_combined.csv")
+worldcities = pd.read_csv(BASE_DIR / "worldcities.csv")
 
 # -----------------------------
 # 2. Text cleaning
@@ -92,7 +94,25 @@ CITY_ALIASES = {
     "budapest, hungary": "budapest",
     "east lisbon": "lisbon",
     "istanbul province": "istanbul",
-    "balearic islands": "ibiza"
+    "balearic islands": "ibiza",
+
+    "düsseldorf": "dusseldorf",
+    "borås": "boras",
+    "almería": "almeria",
+    "zürich": "zurich",
+    "roma": "rome",
+
+    # Regions mapped to representative cities
+    "scotland": "glasgow",
+    "gauteng": "johannesburg",
+    "jersey": "saint helier",
+
+    # Vague/non-city values
+    "zuid": None,
+    "usa": None,
+    "poland": None,
+    "south africa": None,
+    "netherlands": None,
 }
 
 
@@ -148,7 +168,10 @@ def clean_city(value):
     if "/" in value:
         value = value.split("/")[0].strip()
 
-    return CITY_ALIASES.get(value, value)
+    if value in CITY_ALIASES:
+        return CITY_ALIASES[value]
+
+    return value
 
 
 # -----------------------------
@@ -273,6 +296,13 @@ CITY_ONLY_LOOKUP = (
     .to_dict("index")
 )
 
+COUNTRY_CENTER_LOOKUP = (
+    worldcities_clean
+    .sort_values("population", ascending=False)
+    .drop_duplicates(subset=["country_clean"], keep="first")
+    .set_index("country_clean")
+    .to_dict("index")
+)
 
 # -----------------------------
 # 4. Location matching
@@ -289,13 +319,40 @@ def get_coordinates(city, country=None, country_code=None, source="unknown"):
     1. city + country
     2. city + country code
     3. city only, only if country is missing
+    4. country fallback if city is missing or actually a country
     """
 
     city_clean = clean_city(city)
     country_clean = clean_country(country)
     country_code_clean = clean_text(country_code)
 
+    # If the city field is actually a country name, use that as country fallback
+    if city_clean is not None and city_clean in COUNTRY_CENTER_LOOKUP:
+        row = COUNTRY_CENTER_LOOKUP[city_clean]
+
+        return {
+            "lat": row["latitude"],
+            "lng": row["longitude"],
+            "matched_city": row["city_name"],
+            "matched_country": row["country_name"],
+            "population": row["population"],
+            "match_type": "country_fallback_from_city_field"
+        }
+
+    # If city is missing, try country fallback
     if city_clean is None:
+        if country_clean is not None and country_clean in COUNTRY_CENTER_LOOKUP:
+            row = COUNTRY_CENTER_LOOKUP[country_clean]
+
+            return {
+                "lat": row["latitude"],
+                "lng": row["longitude"],
+                "matched_city": row["city_name"],
+                "matched_country": row["country_name"],
+                "population": row["population"],
+                "match_type": "country_fallback"
+            }
+
         unmatched_locations.append({
             "source": source,
             "raw_city": city,
@@ -310,16 +367,20 @@ def get_coordinates(city, country=None, country_code=None, source="unknown"):
         key = (city_clean, country_clean)
 
         if key in CITY_COUNTRY_LOOKUP:
-            return CITY_COUNTRY_LOOKUP[key]
+            result = CITY_COUNTRY_LOOKUP[key].copy()
+            result["match_type"] = "city_country"
+            return result
 
     # Second-best match: city + country code
     if country_code_clean is not None:
         key = (city_clean, country_code_clean)
 
         if key in CITY_CODE_LOOKUP:
-            return CITY_CODE_LOOKUP[key]
+            result = CITY_CODE_LOOKUP[key].copy()
+            result["match_type"] = "city_country_code"
+            return result
 
-    # Fallback: city only, only when no country is available
+    # Fallback: city only, only when country is missing
     if country_clean is None and country_code_clean is None:
         if city_clean in CITY_ONLY_LOOKUP:
             row = CITY_ONLY_LOOKUP[city_clean]
@@ -329,8 +390,23 @@ def get_coordinates(city, country=None, country_code=None, source="unknown"):
                 "lng": row["longitude"],
                 "matched_city": row["city_name"],
                 "matched_country": row["country_name"],
-                "population": row["population"]
+                "population": row["population"],
+                "match_type": "city_only"
             }
+
+    # Last fallback: if city-country combination fails, but country exists,
+    # use the country center instead of giving score 0.
+    if country_clean is not None and country_clean in COUNTRY_CENTER_LOOKUP:
+        row = COUNTRY_CENTER_LOOKUP[country_clean]
+
+        return {
+            "lat": row["latitude"],
+            "lng": row["longitude"],
+            "matched_city": row["city_name"],
+            "matched_country": row["country_name"],
+            "population": row["population"],
+            "match_type": "country_fallback_after_failed_city_match"
+        }
 
     unmatched_locations.append({
         "source": source,
@@ -627,30 +703,81 @@ def save_unmatched_locations(filename="unmatched_locations.csv"):
     """
 
     if len(unmatched_locations) == 0:
-        return pd.DataFrame()
+        return pd.DataFrame(columns=[
+            "source",
+            "raw_city",
+            "raw_country",
+            "raw_country_code",
+            "clean_city",
+            "clean_country",
+            "clean_country_code",
+            "reason"
+        ])
 
     df = pd.DataFrame(unmatched_locations)
+
+    expected_columns = [
+        "source",
+        "raw_city",
+        "raw_country",
+        "raw_country_code",
+        "clean_city",
+        "clean_country",
+        "clean_country_code",
+        "reason"
+    ]
+
+    for col in expected_columns:
+        if col not in df.columns:
+            df[col] = None
+
+    df = df[expected_columns]
     df = df.drop_duplicates()
     df.to_csv(filename, index=False)
 
     return df
 
 
-# -----------------------------
-# 11. Example usage
-# -----------------------------
-
 if __name__ == "__main__":
+    print("Artists:", artists.shape)
+    print("Events:", events.shape)
+    print("World cities:", worldcities.shape)
 
-    # Example: rank artists for event 111
-    ranked_artists = rank_artists_by_location(
-        event_id=111,
+    test_event_id = events.iloc[0]["EventId"]
+
+    print("\nTesting event:")
+    print(events[events["EventId"] == test_event_id][["EventId", "EventName", "City", "Country"]])
+
+    ranked = rank_artists_by_location(
+        event_id=test_event_id,
         min_score=0.0,
         scale_km=100
     )
 
-    print(ranked_artists.head(20))
+    print("\nTop 20 artists by location score:")
+    print(ranked[[
+        "ArtistName",
+        "City",
+        "CurrentLocation",
+        "CountryName",
+        "location_score",
+        "distance_km",
+        "location_reason"
+    ]].head(20))
 
-    # Save unmatched locations for quality control
-    unmatched_df = save_unmatched_locations()
-    print(f"Unmatched locations saved: {len(unmatched_df)}")
+    unmatched = save_unmatched_locations()
+    print("\nUnmatched locations:")
+    print(unmatched.head(30))
+
+    pd.set_option("display.max_columns", None)
+    pd.set_option("display.width", 200)
+
+    unmatched = save_unmatched_locations()
+    print("\nUnmatched locations full:")
+
+    unmatched = save_unmatched_locations()
+
+    if unmatched.empty:
+        print("No unmatched locations found.")
+    else:
+        print(unmatched.head(50).to_string(index=False))

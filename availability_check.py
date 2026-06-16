@@ -5,27 +5,16 @@ warnings.filterwarnings("ignore")
 
 class AvailabilityChecker:
 
-    def __init__(
-        self,
-        events_path,
-        bookings_path,
-        buffer_hours=8
-    ):
+    def __init__(self, events_path, bookings_path, buffer_hours=8):
 
         self.buffer_hours = buffer_hours
 
         self.events = pd.read_csv(events_path)
         self.bookings = pd.read_csv(bookings_path)
 
-        self.events["StartTime"] = (
-            self.events["DateTimeStart"]
-            .apply(self.parse_datetime_safe)
-        )
+        self.events["StartTime"] = (self.events["DateTimeStart"].apply(self.parse_datetime_safe))
 
-        self.events["EndTime"] = (
-            self.events["DateTimeEnd"]
-            .apply(self.parse_datetime_safe)
-        )
+        self.events["EndTime"] = (self.events["DateTimeEnd"].apply(self.parse_datetime_safe))
 
         self.booking_schedule = self.bookings.merge(
             self.events[
@@ -195,11 +184,11 @@ class AvailabilityChecker:
         return result["available"]
 
 
-    #    def get_availability_score(self, artist_id, event_id):
+    def get_availability_score(self, artist_id, event_id):
 
-    #        result = self.get_availability_info(artist_id, event_id)
+        result = self.get_availability_info(artist_id, event_id)
 
-    #        return result["availability_score"]
+        return result["availability_score"]
 
 
     def get_available_artists(self, artists_path, start_time, end_time):

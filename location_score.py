@@ -4,9 +4,7 @@ import re
 from math import radians, sin, cos, sqrt, atan2
 from pathlib import Path
 
-# -----------------------------
 # 1. Load data
-# -----------------------------
 
 BASE_DIR = Path(__file__).resolve().parent
 
@@ -14,9 +12,7 @@ artists = pd.read_csv(BASE_DIR / "cleaned-data" / "artists_combined.csv")
 events = pd.read_csv(BASE_DIR / "cleaned-data" / "events_combined.csv")
 worldcities = pd.read_csv(BASE_DIR / "worldcities.csv")
 
-# -----------------------------
 # 2. Text cleaning
-# -----------------------------
 
 INVALID_LOCATION_VALUES = {
     "",
@@ -174,9 +170,7 @@ def clean_city(value):
     return value
 
 
-# -----------------------------
 # 3. Prepare world city database
-# -----------------------------
 
 def prepare_worldcities(worldcities_df):
     """
@@ -304,9 +298,7 @@ COUNTRY_CENTER_LOOKUP = (
     .to_dict("index")
 )
 
-# -----------------------------
 # 4. Location matching
-# -----------------------------
 
 unmatched_locations = []
 
@@ -421,10 +413,7 @@ def get_coordinates(city, country=None, country_code=None, source="unknown"):
 
     return None
 
-
-# -----------------------------
 # 5. Distance calculation
-# -----------------------------
 
 def haversine_distance(coord1, coord2):
     """
@@ -452,10 +441,7 @@ def haversine_distance(coord1, coord2):
 
     return earth_radius_km * c
 
-
-# -----------------------------
 # 6. Distance to score
-# -----------------------------
 
 def distance_to_score(distance_km, scale_km=100):
     """
@@ -501,10 +487,7 @@ def classify_distance(distance_km):
     else:
         return "very long distance"
 
-
-# -----------------------------
 # 7. Main location score function
-# -----------------------------
 
 def location_score_for_artist_event(artist, event, scale_km=100):
     """
@@ -579,9 +562,21 @@ def location_score_for_artist_event(artist, event, scale_km=100):
     }
 
 
-# -----------------------------
+class LocationScorer:
+    """Scores how close an artist is to an event location."""
+
+    def __init__(self, scale_km=100):
+        self.scale_km = scale_km
+
+    def score_artist_for_event(self, artist, event):
+        """Returns location score and distance details for one artist/event pair."""
+        return location_score_for_artist_event(
+            artist=artist,
+            event=event,
+            scale_km=self.scale_km
+        )
+
 # 8. Rank artists for one event
-# -----------------------------
 
 def rank_artists_by_location(event_id, min_score=0.0, scale_km=100):
     """
@@ -647,10 +642,7 @@ def rank_artists_by_location(event_id, min_score=0.0, scale_km=100):
         ]
     ]
 
-
-# -----------------------------
 # 9. Add location score to full artist-event pairs
-# -----------------------------
 
 def score_all_artists_for_all_events(max_events=None, scale_km=100):
     """
@@ -691,10 +683,7 @@ def score_all_artists_for_all_events(max_events=None, scale_km=100):
 
     return pd.DataFrame(scored_rows)
 
-
-# -----------------------------
 # 10. Save unmatched locations
-# -----------------------------
 
 def save_unmatched_locations(filename="unmatched_locations.csv"):
     """

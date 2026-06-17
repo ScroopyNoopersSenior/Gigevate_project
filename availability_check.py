@@ -178,6 +178,22 @@ class AvailabilityChecker:
         return result["availability_score"]
 
 
+    def score_artist_for_event(self, artist, event):
+        """Returns availability data for one artist and one event."""
+
+        artist_id = artist.get("ArtistId") if hasattr(artist, "get") else artist
+        event_id = event.get("EventId") if hasattr(event, "get") else event
+
+        info = self.get_availability_info(artist_id, event_id)
+
+        return {
+            "available": info["available"],
+            "availability_score": info["availability_score"],
+            "availability_reason": "available" if info["available"] else "booking conflict",
+            "conflicts": info["conflicts"]
+        }
+
+
     def get_available_artists(self, artists_path, start_time, end_time):
         """
         Returns all artists that are
@@ -241,6 +257,8 @@ class AvailabilityChecker:
 
 
 if __name__ == "__main__":
+
+    pass
 
     # EVENTS_PATH = (
     #     "/home/z-y-h/Gigevate_project/"

@@ -161,3 +161,39 @@ git status
 - Maak een Pull Request voordat code naar `main` gaat.
 - Zorg dat code werkt voordat je een Pull Request indient.
 - Geef commits duidelijke namen.
+
+## Recommendation engine gebruiken
+
+De recommendation engine combineert vier filters:
+
+- `availability_score`: controleert of een artiest beschikbaar is.
+- `genre_score`: vergelijkt eventgenres met de main/subgenres van artiesten.
+- `location_score`: berekent afstand tussen artiest en eventlocatie.
+- `fee_score`: vergelijkt artiestkosten met het opgegeven budget.
+
+Voorbeeld:
+
+```bash
+python3 recommendation_engine.py --event-id 111 --budget 1500 --hours 2 --top-n 10
+```
+
+Standaard worden artiesten met een booking conflict niet getoond. Wil je ze wel in de output zien:
+
+```bash
+python3 recommendation_engine.py --event-id 111 --budget 1500 --hours 2 --include-unavailable
+```
+
+Resultaten opslaan als CSV:
+
+```bash
+python3 recommendation_engine.py --event-id 111 --budget 1500 --hours 2 --save-csv
+```
+
+De standaard scoreweging staat in `recommendation_engine.py`:
+
+```text
+genre: 35%
+location: 30%
+fee: 25%
+availability: 10%
+```

@@ -53,6 +53,93 @@ class FeeRecommender:
         return output
 
 
+class FeeScorer:
+    """Scores whether an artist fits inside a requested budget."""
+
+    def __init__(self, budget, budget_currency="EUR", hours=1):
+        self.budget = budget
+        self.budget_currency = currency(budget_currency)
+        self.hours = hours
+
+    def score_artist_for_event(self, artist, event=None):
+        """
+        Returns a fee score from 0.0 to 1.0.
+
+        Missing fee receives a small fallback score so artists are not silently
+        removed because of incomplete data.
+        """
+        fee = self._artist_fee(artist)
+        artist_currency = self._artist_currency(artist)
+
+        if self.budget is None or self.budget <= 0:
+            return {
+                "fee_score": 0.0,
+                "fee_reason": "invalid budget",
+                "total_fee": pd.NA,
+                "budget_margin": pd.NA,
+                "budget_check": "Onbekend",
+            }
+
+        if pd.isna(fee):
+            return {
+                "fee_score": 0.3,
+                "fee_reason": "fee unknown",
+                "total_fee": pd.NA,
+                "budget_margin": pd.NA,
+                "budget_check": "Onbekend",
+            }
+
+        if pd.isna(artist_currency):
+            return {
+                "fee_score": 0.2,
+                "fee_reason": "currency unknown",
+                "total_fee": fee * self.hours,
+                "budget_margin": pd.NA,
+                "budget_check": "Onbekend",
+            }
+
+        if artist_currency != self.budget_currency:
+            return {
+                "fee_score": 0.0,
+                "fee_reason": "currency mismatch",
+                "total_fee": fee * self.hours,
+                "budget_margin": pd.NA,
+                "budget_check": "Onbekend",
+            }
+
+        total_fee = fee * self.hours
+        margin = self.budget - total_fee
+
+        if total_fee <= self.budget:
+            score = 1.0
+            reason = "within budget"
+            budget_check = "Ja"
+        else:
+            score = max(0.0, 1.0 - ((total_fee - self.budget) / self.budget))
+            reason = "outside budget"
+            budget_check = "Nee"
+
+        return {
+            "fee_score": round(score, 3),
+            "fee_reason": reason,
+            "total_fee": round(total_fee, 2),
+            "budget_margin": round(margin, 2),
+            "budget_check": budget_check,
+        }
+
+    def _artist_fee(self, artist):
+        for column in ["AvgBookingFee", "HourlyFeeRange", "artist_fee", "fee"]:
+            if column in artist and pd.notna(artist.get(column)):
+                return pd.to_numeric(artist.get(column), errors="coerce")
+        return pd.NA
+
+    def _artist_currency(self, artist):
+        for column in ["CurrencyCode", "currency_code", "CurrencySymbol", "currency_symbol"]:
+            if column in artist and pd.notna(artist.get(column)):
+                return currency(artist.get(column))
+        return pd.NA
+
+
 def first_existing(df, names):
     return next((name for name in names if name in df.columns), None)
 

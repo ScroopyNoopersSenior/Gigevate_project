@@ -1,1 +1,0 @@
-Id,IsActive,IsDeleted,CreatedOn,LastModifiedOn,DeletedOn,BookingId,ArtistId,QuickBooksInvoiceId,QuickBooksInvoiceNumber,CurrencyCode,PerformanceFee,PlatformFeeNet,PlatformFeePercent,VatRate,VatAmount,TotalInclVat,VatTreatmentCode,ArtistCountryCode,ArtistVatNumber,ArtistVatVerified,Status,IssuedAtUtc,PdfStoragePath,BookingId1

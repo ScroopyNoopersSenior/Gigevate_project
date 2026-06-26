@@ -189,11 +189,11 @@ Resultaten opslaan als CSV:
 python3 recommendation_engine.py --event-id 111 --budget 1500 --hours 2 --save-csv
 ```
 
-De standaard scoreweging staat in `recommendation_engine.py`:
+De standaard scoreweging staat in `recommendation_engine.py`. Availability wordt standaard als hard filter gebruikt, dus niet als los percentage in de ranking:
 
 ```text
-genre: 35%
-location: 30%
+genre: 40%
+location: 35%
 fee: 25%
-availability: 10%
+availability: hard filter
 ```

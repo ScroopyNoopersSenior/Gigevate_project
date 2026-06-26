@@ -17,10 +17,10 @@ DEFAULT_OUTPUT_DIR = BASE_DIR / "cleaned-data"
 
 
 DEFAULT_WEIGHTS = {
-    "genre": 0.35,
-    "location": 0.30,
+    "genre": 0.40,
+    "location": 0.35,
     "fee": 0.25,
-    "availability": 0.10,
+    "availability": 0.00,
 }
 
 

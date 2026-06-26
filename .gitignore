@@ -4,4 +4,4 @@ __pycache__/
 *.pyc
 .~lock.*#
 
-outputs/
+outputs/.DS_Store

@@ -4,4 +4,7 @@ __pycache__/
 *.pyc
 .~lock.*#
 
-outputs/
+outputs/.DS_Store
+cleaned-data/
+Gigevate-data (not cleaned)/
+.DS_Store

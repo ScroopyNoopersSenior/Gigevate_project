@@ -5,3 +5,22 @@ __pycache__/
 .~lock.*#
 
 outputs/
+
+# Local and generated datasets
+gigevate-export/
+Gigevate-data (not cleaned)/
+cleaned-data/
+data/
+
+# Data file formats
+*.csv
+*.tsv
+*.xlsx
+*.xls
+*.parquet
+*.feather
+*.pkl
+*.pickle
+*.db
+*.sqlite
+*.sqlite3

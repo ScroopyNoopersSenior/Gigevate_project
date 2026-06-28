@@ -18,10 +18,10 @@ DEFAULT_OUTPUT_DIR = BASE_DIR / "cleaned-data"
 
 
 DEFAULT_WEIGHTS = {
-    "genre": 0.35,
-    "location": 0.30,
+    "genre": 0.40,
+    "location": 0.35,
     "fee": 0.25,
-    "availability": 0.10,
+    "availability": 0.00,
 }
 
 
@@ -114,8 +114,16 @@ class RecommendationEngine:
             return recommendations
 
         recommendations = recommendations.sort_values(
-            ["final_score", "genre_score", "location_score", "fee_score", "NumberOfBookings"],
-            ascending=[False, False, False, False, False],
+            [
+                "final_score",
+                "total_fee",
+                "genre_score",
+                "location_score",
+                "fee_score",
+                "NumberOfBookings",
+            ],
+            ascending=[False, True, False, False, False, False],
+            na_position="last",
         ).reset_index(drop=True)
 
         recommendations.insert(0, "rank", recommendations.index + 1)

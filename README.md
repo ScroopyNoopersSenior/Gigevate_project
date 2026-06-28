@@ -143,11 +143,13 @@ CurrentLocation, MainGenres, SubGenres, AvgBookingFee,
 CurrencyCode, NumberOfBookings
 ```
 
-Voor events gebruikt de engine voornamelijk:
+De standaard scoreweging staat in `recommendation_engine.py`. Availability wordt standaard als hard filter gebruikt, dus niet als los percentage in de ranking:
 
 ```text
-EventId, EventName, DateTimeStart, DateTimeEnd,
-City, Country, EventType, MainGenres
+genre: 40%
+location: 35%
+fee: 25%
+availability: hard filter
 ```
 
 Als de kolomnamen van een nieuwe export veranderen, moeten de cleaning-scripts daarop worden aangepast.

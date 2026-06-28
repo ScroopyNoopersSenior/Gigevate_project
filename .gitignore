@@ -4,23 +4,7 @@ __pycache__/
 *.pyc
 .~lock.*#
 
-outputs/
-
-# Local and generated datasets
-gigevate-export/
-Gigevate-data (not cleaned)/
+outputs/.DS_Store
 cleaned-data/
-data/
-
-# Data file formats
-*.csv
-*.tsv
-*.xlsx
-*.xls
-*.parquet
-*.feather
-*.pkl
-*.pickle
-*.db
-*.sqlite
-*.sqlite3
+Gigevate-data (not cleaned)/
+.DS_Store

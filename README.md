@@ -1,192 +1,146 @@
+# Gigevate recommendation prototype
+
+Dit project is een prototype voor het matchen van artiesten aan evenementen. Het idee is simpel: gegevens uit een Gigevate-export worden opgeschoond en daarna gebruikt om artiesten te vergelijken op genre, afstand, prijs en beschikbaarheid.
+
+De uitkomst is een ranglijst met artiesten. Je kunt die lijst in de terminal bekijken of via het lokale dashboard.
+
+De oude uitleg over Git, SSH, branches en pull requests staat in [dev_instruction/README.md](dev_instruction/README.md).
+
+## Hoe het project werkt
+
+De brondata komt uit een CSV-export van Gigevate. De scripts `artist_datacleaning.py` en `event_datacleaning.py` combineren de losse tabellen tot twee bestanden:
+
+- `cleaned-data/artists_combined.csv`
+- `cleaned-data/events_combined.csv`
+
+De recommendation engine leest deze bestanden in en gebruikt vier losse onderdelen:
+
+- `genre_match.py` vergelijkt de genres van een event en een artiest;
+- `location_score.py` berekent de afstand tussen de artiest en het event;
+- `artist_fee_recommendations.py` controleert of de fee binnen het budget valt;
+- `availability_check.py` kijkt of de artiest al een andere booking heeft.
+
+`recommendation_engine.py` voegt deze scores samen en sorteert de artiesten. `recommendation_api.py` maakt de engine beschikbaar voor het dashboard in de map `web`.
+
+## Bestanden in deze repository
+
+De belangrijkste bestanden zijn:
+
+- `artist_datacleaning.py`: maakt de gecombineerde artiestendataset;
+- `event_datacleaning.py`: maakt de gecombineerde eventdataset;
+- `venue_datacleaning.py`: maakt overzichten van organisatoren, venues en historische events;
+- `recommendation_engine.py`: berekent de uiteindelijke ranking;
+- `recommendation_api.py`: start de lokale API en het dashboard;
+- `worldcities.csv`: lokale lijst met steden en coördinaten voor de afstandsberekening;
+- `unmatched_locations.csv`: locaties die niet goed herkend konden worden;
+- `web/`: HTML, JavaScript en CSS van het dashboard.
+
+De mappen `gigevate-export/` en `cleaned-data/` en databestanden zoals CSV, Excel en databasebestanden staan in `.gitignore`. Ze blijven dus lokaal en worden niet naar GitHub gepusht.
 
 
-# Gigevate Project
+## Data klaarzetten
 
-#stap 1 als je geen ssh key hebt
-## SSH instellen (alleen als je nog geen SSH-key hebt)
+De ruwe data hoort idealiter in deze structuur te staan:
 
-### 1. Maak een SSH-key aan
+     ArtistDetails.csv
+     Artists.csv
+     Bookings.csv
+     Countries.csv
+     Currencies.csv
+     EventDetails.csv
+     Events.csv
+     Genres.csv
+     LinkedGenres.csv
 
-Vervang het e-mailadres door je eigen GitHub e-mailadres:
+Er kunnen meer bestanden in de export staan, maar dit zijn de belangrijkste voor de huidige engine.
+
+## Data opschonen
+
+Voer de volgende scripts uit vanuit de root van het project:
 
 ```bash
-ssh-keygen -t ed25519 -C "jouw_email@example.com"
+.venv/bin/python artist_datacleaning.py
+.venv/bin/python event_datacleaning.py
 ```
 
-Druk vervolgens een paar keer op Enter om de standaardlocatie te gebruiken.
+De scripts maken de map `cleaned-data/` automatisch aan.
 
----
+`artist_datacleaning.py` combineert onder andere artiestprofielen, landen, genres, valuta en eerdere bookings. `event_datacleaning.py` combineert events met eventdetails en genres.
 
-### 2. Bekijk je publieke sleutel
+Er is ook een script voor venue- en organisatorgegevens:
 
 ```bash
-cat ~/.ssh/id_ed25519.pub
+.venv/bin/python venue_datacleaning.py
 ```
 
-Kopieer de volledige output.
+Dit script verwijst nog naar het oude pad `Gigevate-data (not cleaned)/gigevate-export/`. Pas eerst `BASE_DIR` bovenaan het bestand aan als je de huidige map `gigevate-export/` wilt gebruiken.
 
----
+## Een recommendation uitvoeren
 
-### 3. Voeg de sleutel toe aan GitHub
-
-Ga naar:
-
-**GitHub → Settings → SSH and GPG keys → New SSH key**
-
-Geef de sleutel een naam (bijvoorbeeld "Laptop") en plak de gekopieerde sleutel.
-
-Klik op **Add SSH key**.
-
----
-
-### 4. Test de verbinding
+Gebruik een `EventId` uit `cleaned-data/events_combined.csv`:
 
 ```bash
-ssh -T git@github.com
+.venv/bin/python recommendation_engine.py --event-id 111 --budget 1500 --hours 2 --top-n 10
 ```
 
-Als alles goed werkt krijg je een bericht vergelijkbaar met:
+Artiesten met een bookingconflict worden standaard niet getoond. Met deze optie neem je ze toch mee:
+
+```bash
+.venv/bin/python recommendation_engine.py --event-id 111 --budget 1500 --hours 2 --include-unavailable
+```
+
+Met `--save-csv` wordt het resultaat opgeslagen in `cleaned-data/`.
+
+Je kunt de genrescore ook los testen:
+
+```bash
+.venv/bin/python genre_match.py --event-id 111 --top-n 15
+```
+
+## Dashboard starten
+
+Start de lokale server:
+
+```bash
+.venv/bin/python recommendation_api.py
+```
+
+
+De API heeft drie endpoints:
+
+- `GET /api/health` voor een simpele statuscontrole;
+- `GET /api/options` voor genres, steden en eventtypes;
+- `POST /api/recommendations` voor een nieuwe ranking.
+
+Het dashboard verstuurt het formulier naar deze API en toont daarna de beste matches, de matchredenen en de fee-verdeling. Opgeslagen favorieten staan alleen in de browser. De knop voor een booking request is nog niet gekoppeld aan een database.
+
+## Berekening van de score
+
+Iedere deelscore ligt tussen 0 en 1. De standaardverdeling is:
+
+- genre: 35%;
+- locatie: 30%;
+- fee: 25%;
+- beschikbaarheid: 10%.
+
+Deze gewichten staan in `DEFAULT_WEIGHTS` in `recommendation_engine.py`.
+
+Bij genre krijgt een overeenkomst met een hoofdgenre een score van 1. Een overeenkomst met een subgenre krijgt 0,5.
+
+Voor locatie worden plaatsnamen opgezocht in `worldcities.csv`. Daarna wordt de hemelsbrede afstand berekend. Een artiest in dezelfde stad scoort hoger dan een artiest op grote afstand. De berekening houdt nog geen rekening met reistijd of vervoer.
+
+Voor de fee gebruikt de engine de gemiddelde booking fee maal het aantal uren. Een artiest binnen het budget krijgt de hoogste score. Bij een onbekende fee blijft de artiest in de lijst, maar met een lagere score. Verschillende valuta worden nog niet omgerekend.
+
+Voor beschikbaarheid worden bestaande bookings vergeleken met de tijd van het event. Na een bestaande booking geldt standaard ook een buffer van acht uur.
+
+## Data die de engine verwacht
+
+Voor artiesten zijn vooral deze velden belangrijk:
 
 ```text
-Hi gebruikersnaam! You've successfully authenticated.
-```
-
----
-
-### 5. Clone de repository
-
-```bash
-git clone git@github.com:ScroopyNoopersSenior/Gigevate_project.git
-```
-
-
-#Stap 1 als je wel ssh key hebt Repository clonen
-
-Clone de repository naar je eigen computer:
-
-
-git clone git@github.com:jegebruikersnaam/Gigevate_project.git
-cd Gigevate_project
-
----
-
-## Algemene werkwijze
-
-Werk nooit direct op de `main` branch.
-
-Voor iedere nieuwe taak maak je een eigen branch aan.
-
-Voorbeelden:
-
-git checkout -b feature/data-cleaning
-
-git checkout -b feature/spotify-api
-
-git checkout -b feature/recommendation-system
-
-
-## Voordat je begint met werken
-
-Zorg altijd dat je de nieuwste versie van de repository hebt:
-
-git checkout main
-git pull origin main
-
-Maak daarna een nieuwe branch of ga verder in een al bestaande branch(zelfde command):
-
-git checkout -b feature/jouw-feature
-
-
-## Wijzigingen opslaan
-
-Voeg je wijzigingen toe:
-
-git add .
-
-Maak een commit:
-
-git commit -m "Korte beschrijving van wijziging"
-
-Push je branch naar GitHub:
-
-git push origin feature/jouw-feature
-
----
-
-## Pull Request maken
-
-Wanneer je klaar bent:
-
-1. Ga naar GitHub.
-2. Open de repository.
-3. Klik op **Compare & Pull Request**.
-4. Voeg een korte beschrijving toe van wat je hebt gedaan.
-5. Maak de Pull Request aan.
-
-Na goedkeuring kan de branch worden gemerged naar `main`.
-
-## Na een merge
-
-Iedereen haalt vervolgens de nieuwste versie op:
-
-git checkout main
-git pull origin main
-
-## Branch
-
-Wissel van branch:
-
-git checkout branchnaam
-
-Nieuwe branch maken of naar bestaande branch gaan:
-
-git checkout -b nieuwe-branch
-
-Laatste wijzigingen ophalen:
-
-git pull
-
-Wijzigingen uploaden:
-
-git push
-
-Status bekijken:
-
-git status
-
-## Handig
-
-- Werk niet direct op `main`.
-- Maak voor iedere hoofdtaak een aparte branch.
-- Maak een Pull Request voordat code naar `main` gaat.
-- Zorg dat code werkt voordat je een Pull Request indient.
-- Geef commits duidelijke namen.
-
-## Recommendation engine gebruiken
-
-De recommendation engine combineert vier filters:
-
-- `availability_score`: controleert of een artiest beschikbaar is.
-- `genre_score`: vergelijkt eventgenres met de main/subgenres van artiesten.
-- `location_score`: berekent afstand tussen artiest en eventlocatie.
-- `fee_score`: vergelijkt artiestkosten met het opgegeven budget.
-
-Voorbeeld:
-
-```bash
-python3 recommendation_engine.py --event-id 111 --budget 1500 --hours 2 --top-n 10
-```
-
-Standaard worden artiesten met een booking conflict niet getoond. Wil je ze wel in de output zien:
-
-```bash
-python3 recommendation_engine.py --event-id 111 --budget 1500 --hours 2 --include-unavailable
-```
-
-Resultaten opslaan als CSV:
-
-```bash
-python3 recommendation_engine.py --event-id 111 --budget 1500 --hours 2 --save-csv
+ArtistId, ArtistName, City, CountryName, CountryCode,
+CurrentLocation, MainGenres, SubGenres, AvgBookingFee,
+CurrencyCode, NumberOfBookings
 ```
 
 De standaard scoreweging staat in `recommendation_engine.py`. Availability wordt standaard als hard filter gebruikt, dus niet als los percentage in de ranking:
@@ -197,3 +151,5 @@ location: 35%
 fee: 25%
 availability: hard filter
 ```
+
+Als de kolomnamen van een nieuwe export veranderen, moeten de cleaning-scripts daarop worden aangepast.
